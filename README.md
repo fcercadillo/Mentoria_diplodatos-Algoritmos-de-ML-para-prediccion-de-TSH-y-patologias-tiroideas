@@ -1,0 +1,1 @@
+# Mentoria_diplodatos-Algoritmos-de-ML-para-prediccion-de-TSH-y-patologias-tiroideas
