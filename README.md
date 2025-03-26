@@ -22,7 +22,7 @@ El dataset incluye:
 ###  Variables objetivo
 
 - `tsh`: valor numérico continuo que representa el nivel de hormona estimulante de la tiroides.
-- `diagnostico`: etiqueta categórica binaria.
+- `diagnostico`: etiqueta binaria.
 - `diagnostico_especifico`: etiqueta multiclase.
 
 ---
