@@ -43,7 +43,7 @@ El dataset incluye:
 | `atpo`                     | Numérica   | Niveles de anticuerpos antiperoxidasa tiroidea. |
 | `tsh`                      | Numérica   | Nivel de hormona TSH. |
 | `diagnostico`             | Categórica | Clasificación clínica general del estado tiroideo (`Normal`, `Hipotiroideo`, `Hipertiroideo`.). <sup>*1</sup>|
-| `diagnostico_especifico`  | Categórica | Diagnóstico clínico detallado del estado tiroideo. |
+| `diagnostico_especifico`  | Categórica | Diagnóstico clínico detallado del estado tiroideo.  <sup>*3</sup> |
 
 ---
 
@@ -53,7 +53,7 @@ El dataset incluye:
 |----------------|------------------------|
 | `Normal`       | El paciente no presenta alteraciones tiroideas. Los valores de TSH, T3 y T4 se encuentran dentro de los rangos clínicamente aceptados. <sup>*2</sup> |
 | `Hipotiroideo` | El paciente presenta signos de hipofunción tiroidea: TSH elevada y T3/T4 bajos o normales. <sup>*2</sup>  |
-| `Hipertiroideo`| El paciente presenta signos de hiperfunción tiroidea: TSH suprimida y T3/T4 elevados. <sup>*3</sup> |
+| `Hipertiroideo`| El paciente presenta signos de hiperfunción tiroidea: TSH suprimida y T3/T4 elevados. |
 
 ---
 #### Valores de Referencia de Estudios Tiroideos <sup>*2</sup>  
