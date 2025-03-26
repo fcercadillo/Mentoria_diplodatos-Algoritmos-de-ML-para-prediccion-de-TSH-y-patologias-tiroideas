@@ -56,7 +56,7 @@ El dataset incluye:
 | `Hipertiroideo`| El paciente presenta signos de hiperfunción tiroidea: TSH suprimida y T3/T4 elevados. |
 
 ---
-#### Valores de Referencia de Estudios Tiroideos <sup>*2</sup>  
+### Valores de Referencia de Estudios Tiroideos <sup>*2</sup>  
 Los valores para las hormonas tiroideas pueden variar ligeramente según el laboratorio, la zona demográfica y la metodología utilizada.  
 Como estándar para este caso vamos a utilizar los siguientes rangos de referencia:
 
