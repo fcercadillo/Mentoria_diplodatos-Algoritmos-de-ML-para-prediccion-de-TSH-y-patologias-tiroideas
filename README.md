@@ -1,9 +1,9 @@
 # Mentoria_diplodatos-Algoritmos-de-ML-para-prediccion-de-TSH-y-patologias-tiroideas
 
-##Descripción del Dataset
+## Descripción del Dataset
   El archivo `df_tiroides_mentoria_diplodatos.csv` contiene información clínica y de laboratorio de 1.950 pacientes. 
 
-###Estructura del dataset
+### Estructura del dataset
   Cada fila representa un paciente. 
   Las columnas incluyen variables demográficas, antecedentes médicos y resultados de laboratorio
 
