@@ -47,9 +47,9 @@ El dataset incluye:
 
 ---
 
-### Clases en `diagnostico`
+### Clases en `diagnostico` <sup>*1</sup>
 
-| Clase           | Interpretación clínica | <sup>*1</sup>
+| Clase           | Interpretación clínica | 
 |----------------|------------------------|
 | `Normal`       | El paciente no presenta alteraciones tiroideas. Los valores de TSH, T3 y T4 se encuentran dentro de los rangos clínicamente aceptados. <sup>*2</sup> |
 | `Hipotiroideo` | El paciente presenta signos de hipofunción tiroidea: TSH elevada y T3/T4 bajos o normales. <sup>*2</sup>  |
