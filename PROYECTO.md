@@ -15,3 +15,22 @@ Dado que la cantidad de personas afectadas es muy grande, no es posible repetir 
 - **Recuperar la clasificación de cada paciente como normal o patológico**, de forma tal que los médicos puedan decidir el tratamiento o seguimiento adecuado según el estadio clínico de cada caso.
 
 ---
+
+### **Etapas del proyecto:**
+
+1. **Análisis exploratorio de los datos.**
+2. **Curado del dataset.**
+3. **Desarrollo del algoritmo de Machine Learning.**
+    
+    Dentro de esta tercera etapa, la propuesta del proyecto se estructura de la siguiente manera:
+    
+    1. **Etapa 1: Estimación numérica de los valores de TSH** El objetivo inicial es estimar los valores de TSH y evaluar la precisión del modelo. 
+        
+        Luego, como la TSH se mide en miliunidades por litro (mIU/L) y su clasificación clínica es muy sensible, las estimaciones se agruparán en tres categorías: Bajo/Normal/Alto.
+        
+    2. **Clasificación según estado tiroideo (Normal/Patológico):** Con las categorías ya establecidas, se desarrollará un modelo de clasificación para determinar si cada paciente se encuentra en un estado normal o presenta una alteración tiroidea.
+    3. **Propuesta adicional:**
+        1. Clasificación del tipo de patología tiroidea (Hipotiroidismo/Hipertiroidismo).
+        2. Subclasificación de cada estado patológico según su grado de severidad (Clínico/Subclínico)
+
+---
