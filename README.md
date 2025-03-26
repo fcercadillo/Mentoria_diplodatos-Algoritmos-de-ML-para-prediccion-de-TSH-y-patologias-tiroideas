@@ -37,11 +37,11 @@ El dataset incluye:
 | `etnia`                    | Categórica | Grupo étnico autorreportado. |
 | `imc`                      | Numérica   | Índice de masa corporal (IMC). |
 | `antecedentes_familiares` | Categórica | Antecedentes familiares de enfermedades tiroideas (`Sí`/`No`). |
-| `t3t`                      | Numérica   | Triyodotironina total (T3). Requiere conversión de texto a número. |
-| `t4l`                      | Numérica   | Tiroxina libre (T4L). Requiere conversión de texto a número. |
-| `t4t`                      | Numérica   | Tiroxina total (T4T). Requiere conversión de texto a número. |
+| `t3t`                      | Numérica   | Triyodotironina total (T3). |
+| `t4l`                      | Numérica   | Tiroxina libre (T4L). |
+| `t4t`                      | Numérica   | Tiroxina total (T4T). |
 | `atpo`                     | Numérica   | Niveles de anticuerpos antiperoxidasa tiroidea. |
-| `tsh`                      | Numérica   | Nivel de hormona TSH (en mIU/L). Requiere conversión de texto a número. |
+| `tsh`                      | Numérica   | Nivel de hormona TSH. |
 | `diagnostico`             | Categórica | Clasificación clínica general del estado tiroideo (`Normal`, `Hipotiroideo`, `Hipertiroideo`.). |
 | `diagnostico_especifico`  | Categórica | Diagnóstico clínico detallado del estado tiroideo. |
 
