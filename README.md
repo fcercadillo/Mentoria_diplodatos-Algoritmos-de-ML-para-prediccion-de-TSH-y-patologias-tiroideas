@@ -51,9 +51,23 @@ El dataset incluye:
 
 | Clase           | Interpretación clínica |
 |----------------|------------------------|
-| `Normal`       | El paciente no presenta alteraciones tiroideas. Los valores de TSH, T3 y T4 se encuentran dentro de los rangos clínicamente aceptados. |
+| `Normal`       | El paciente no presenta alteraciones tiroideas. Los valores de TSH, T3 y T4 se encuentran dentro de los rangos clínicamente aceptados. <sup>*1</sup> |
 | `Hipotiroideo` | El paciente presenta signos de hipofunción tiroidea: TSH elevada y T3/T4 bajos o normales. |
 | `Hipertiroideo`| El paciente presenta signos de hiperfunción tiroidea: TSH suprimida y T3/T4 elevados. |
+
+---
+<sup>*1</sup>  
+#### Valores de Referencia de Estudios Tiroideos
+Los valores para las hormonas tiroideas pueden variar ligeramente según el laboratorio, la zona demográfica y la metodología utilizada.  
+Como estándar para este caso vamos a utilizar los siguientes rangos de referencia:
+
+| Estudio                           | Unidad   | Valores de Referencia                                                                                     |
+|-----------------------------------|----------|------------------------------------------------------------------------------------------------------------|
+| Anticuerpos Antiperoxidasa (ATPO) | UI/mL    | Hasta 5,6                                                                                                   |
+| Tiroxina Total (T4T)              | µg/dL    | 7 días a 1 año: 5,9 – 13,7 <br> 1 a 14 años: 5,0 – 10,3 <br> Mujeres 14-19: 5,5 – 13,0 <br> Varones 14-19: 4,7 – 8,6 <br> Mayores de 19 años: 4,9 – 11,7 |
+| Tiroxina Libre (T4L)              | ng/dL    | 5 a 14 días: 1,05 – 3,21 <br> 15 a 29 días: 0,68 – 2,53 <br> 30 días a 1 año: 0,89 – 1,7 <br> 1 a 19 años: 0,89 – 1,37 <br> Mayores de 19 años: 0,70 – 1,48 |
+| Tirotrofina (TSH)                 | μUI/mL   | 0–2 meses: 1,12 – 6,31 <br> 3–12 meses: 0,96 – 4,90 <br> 13–23 meses: 0,93 – 4,79 <br> 2–12 años: 0,64 – 6,27 <br> 13–18 años: 0,51 – 4,94 <br> Mayores de 18 años: 0,35 – 4,94 |
+| Triyodotironina Total (T3T)       | ng/dL    | 0 a 3 días: 96 – 292 <br> 4 a 30 días: 62 – 243 <br> 31 días a 12 meses: 81 – 281 <br> 13 meses a 5 años: 83 – 252 <br> 6 a 10 años: 92 – 219 <br> 11 a 15 años: 80 – 215 <br> 16 a 20 años: 80 – 210 <br> Mayores de 21 años: 60 – 181 |
 
 
 ---
