@@ -13,7 +13,7 @@ El archivo `df_tiroides_mentoria_diplodatos.csv` contiene información clínica 
 
 - **Total de registros:** 1.950 pacientes  
 - **Total de columnas:** 13 variables  
-- **Tipos de datos:** numéricos, categóricos, booleanos y textuales
+- **Tipos de datos:** numéricos, categóricos, booleanos y de texto
 
 El dataset incluye:
 - **3 clases** en la columna `diagnostico` (estado tiroideo general).
