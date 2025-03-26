@@ -76,12 +76,17 @@ El dataset incluye:
 
 ## ⚠️ Sobre el origen y uso de los datos ⚠️
 
-Este dataset fue obtenido a partir de **fuentes públicas** y se utiliza **solo con fines educativos y de investigación**.
 
-Se aplicó un **filtro curado** para conservar únicamente los registros con:
-- Datos clínicos completos
-- Valores hormonales disponibles
-- Diagnóstico tiroideo real asociado
+Este dataset fue obtenido a partir de **fuentes públicas** y se utiliza **exclusivamente con fines educativos y de investigación**.
 
-Esto permite entrenar modelos de **predicción de TSH** y **clasificación de patologías tiroideas**, con etiquetas verificables.
+Se realizó un **proceso detallado de filtrado y curado manual**, dedicando tiempo a seleccionar y limpiar los registros que:
+
+- Contaran con datos clínicos completos  
+- Tuvieran valores hormonales disponibles  
+- Incluyeran un diagnóstico tiroideo real y coherente
+
+Este trabajo permitió construir un conjunto de datos confiable, orientado al entrenamiento de modelos de **predicción de TSH** y **clasificación de patologías tiroideas**, con **etiquetas verificables** que permiten evaluar el rendimiento de los algoritmos de forma realista.
+
+> **Importante:** Este proyecto no tiene fines diagnósticos. Los resultados no deben ser utilizados en contextos clínicos reales.
+
 
