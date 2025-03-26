@@ -70,3 +70,18 @@ El dataset incluye:
 | `Tóxico T3`                 | Variante de hipertiroidismo donde T3 está elevada, T4 es normal y la TSH se encuentra suprimida. |
 
 ---
+
+
+---
+
+## ⚠️ Sobre el origen y uso de los datos ⚠️
+
+Este dataset fue obtenido a partir de **fuentes públicas** y se utiliza **solo con fines educativos y de investigación**.
+
+Se aplicó un **filtro curado** para conservar únicamente los registros con:
+- Datos clínicos completos
+- Valores hormonales disponibles
+- Diagnóstico tiroideo real asociado
+
+Esto permite entrenar modelos de **predicción de TSH** y **clasificación de patologías tiroideas**, con etiquetas verificables.
+
