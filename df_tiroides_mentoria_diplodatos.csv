@@ -1,0 +1,1951 @@
+edad,sexo,embarazo,etnia,imc,antecedentes_familiares,t3t,t4l,t4t,atpo,tsh,diagnostico,diagnostico_especifico
+42,F,False,Caucásica,26.0,No,2.6,105,122,98.9,0.05,No presenta alteración tiroidea,Negativo
+32,F,False,Caucásica,27.1,No,1.7,134,102,58.78,0.64,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,29.0,Sí,1.6,64,60,20.67,42,Hipotiroideo,Hipotiroidismo primario
+78,F,False,Caucásica,24.3,No,0.8,4.85,5,0.0,191,Hipotiroideo,Hipotiroidismo primario
+77,M,False,Afrodescendiente,19.1,No,1.7,182,140,17.42,0.37,No presenta alteración tiroidea,Negativo
+80,M,False,Otra,28.2,No,0.7,105,99,22.41,0.91,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,26.0,No,1.5,66,66,31.13,18,Hipotiroideo,Hipotiroidismo compensado
+46,F,False,Caucásica,32.9,Sí,0.8,109,97,41.61,2.6,No presenta alteración tiroidea,Negativo
+34,F,False,Caucásica,22.3,No,5.3,174,181,7.47,?,Hipertiroideo,Hipertiroidismo
+46,F,False,Hispana/Mexicana,21.0,No,1.3,99,104,0.0,1.4,No presenta alteración tiroidea,Negativo
+46,F,False,Caucásica,19.2,Sí,2.3,65,64,14.1,6.4,Hipotiroideo,Hipotiroidismo compensado
+78,F,False,Afrodescendiente,36.2,No,0.5,110,85,17.08,0.74,No presenta alteración tiroidea,Negativo
+75,F,False,Caucásica,20.2,Sí,3.4,134,151,10.77,0.25,No presenta alteración tiroidea,Negativo
+58,M,False,Hispana/Mexicana,23.5,No,1.1,121,105,16.13,1.7,No presenta alteración tiroidea,Negativo
+62,F,False,Hispana/Mexicana,23.0,No,1.6,83,69,14.08,1.5,No presenta alteración tiroidea,Negativo
+34,F,False,Caucásica,21.6,No,2.4,90,96,15.89,6.8,Hipotiroideo,Hipotiroidismo compensado
+65,M,False,Caucásica,28.6,No,1.3,?,31,10.66,103,Hipotiroideo,Hipotiroidismo primario
+56,F,False,Caucásica,28.3,Sí,2.7,96,100,19.64,0.6,No presenta alteración tiroidea,Negativo
+93,F,False,Afrodescendiente,25.4,No,0.9,112,92,5.64,3,No presenta alteración tiroidea,Negativo
+44,F,False,Otra,28.1,No,0.9,119,125,22.33,1.9,No presenta alteración tiroidea,Negativo
+1,?,False,Hispana/Mexicana,18.2,Sí,1.9,131,113,2.14,8.799999,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Caucásica,34.4,Sí,3.1,106,131,37.6,9,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Hispana/Mexicana,28.0,Sí,1.7,116,103,11.35,1.4,No presenta alteración tiroidea,Negativo
+40,F,False,Caucásica,25.6,No,2.3,112,111,14.02,7.2,Hipotiroideo,Hipotiroidismo compensado
+2,?,False,Hispana/Mexicana,33.5,No,1.7,29,34,43.31,472,Hipotiroideo,Hipotiroidismo primario
+16,F,False,Caucásica,30.1,Sí,1.9,89,112,19.29,2.7,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,21.2,No,0.8,106,91,58.55,4.6,No presenta alteración tiroidea,Negativo
+35,M,False,Afrodescendiente,19.8,Sí,1,64,57,21.6,0.26,No presenta alteración tiroidea,Negativo
+30,F,False,Afrodescendiente,26.8,No,1.7,98,93,14.72,1.3,No presenta alteración tiroidea,Negativo
+78,F,False,Afrodescendiente,25.8,No,0.7,100,74,15.24,0.15,No presenta alteración tiroidea,Negativo
+84,F,False,Afrodescendiente,19.0,No,4.2,172,151,6.22,0.04,Hipertiroideo,Hipertiroidismo
+53,M,False,Afrodescendiente,24.8,No,1.7,102,93,10.93,8.5,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Hispana/Mexicana,24.6,No,2.1,114,112,43.51,1.6,No presenta alteración tiroidea,Negativo
+27,F,False,Hispana/Mexicana,23.9,No,2.5,103,105,1.98,4.3,No presenta alteración tiroidea,Negativo
+28,F,False,Afrodescendiente,32.2,No,2.6,87,89,36.02,9.4,Hipotiroideo,Hipotiroidismo compensado
+43,M,False,Afrodescendiente,26.5,No,1.5,93,76,24.13,0.9,No presenta alteración tiroidea,Negativo
+28,F,False,Hispana/Mexicana,30.7,No,2.3,103,116,27.85,1,No presenta alteración tiroidea,Negativo
+51,F,False,Caucásica,28.4,No,1.5,115,106,23.7,12,Hipotiroideo,Hipotiroidismo compensado
+74,F,False,Caucásica,28.6,Sí,0.2,58,50,19.6,23,Hipotiroideo,Hipotiroidismo primario
+76,F,False,Hispana/Mexicana,26.7,No,2.3,88,135,21.85,27,Hipotiroideo,Hipotiroidismo compensado
+69,F,False,Hispana/Mexicana,26.4,No,0.9,111,88,32.24,3.6,No presenta alteración tiroidea,Negativo
+63,F,False,Afrodescendiente,26.2,No,0.5,114,95,18.24,14,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Caucásica,25.5,Sí,1.8,98,87,18.45,5.1,No presenta alteración tiroidea,Negativo
+72,M,False,Caucásica,23.3,Sí,1.8,117,93,18.74,0.8,No presenta alteración tiroidea,Negativo
+33,?,False,Afrodescendiente,21.9,No,5,362,244,6.14,0.015,Hipertiroideo,Hipertiroidismo
+21,?,False,Caucásica,35.1,Sí,1.6,123,112,6.3,8.5,Hipotiroideo,Hipotiroidismo compensado
+56,F,False,Hispana/Mexicana,19.6,No,2.3,112,128,19.8,3,No presenta alteración tiroidea,Negativo
+57,F,False,Caucásica,36.4,Sí,6.6,222,190,45.38,0.1,Hipertiroideo,Hipertiroidismo
+53,F,False,Afrodescendiente,31.4,No,0.4,140,82,8.21,0.36,No presenta alteración tiroidea,Negativo
+26,F,False,Caucásica,27.5,Sí,1.6,93,104,51.22,9.2,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Afrodescendiente,25.9,No,2.1,116,119,9.9,0.3,No presenta alteración tiroidea,Negativo
+45,F,False,Caucásica,27.0,No,1.5,83,57,12.71,9.299999,Hipotiroideo,Hipotiroidismo compensado
+17,F,False,Hispana/Mexicana,31.1,No,1.5,125,101,6.6,0.3,No presenta alteración tiroidea,Negativo
+55,M,False,Caucásica,24.9,Sí,0.4,69,52,127.75,1.5,No presenta alteración tiroidea,Negativo
+58,F,False,Afrodescendiente,29.8,No,2.6,207,166,15.13,0.015,Hipertiroideo,Hipertiroidismo
+44,M,False,Hispana/Mexicana,29.0,No,2,104,115,18.86,3,No presenta alteración tiroidea,Negativo
+52,F,False,Afrodescendiente,25.7,No,?,172,163,4.0,0.03,Hipertiroideo,Hipertiroidismo
+61,F,False,Hispana/Mexicana,29.1,No,0.7,12,14,15.97,288,Hipotiroideo,Hipotiroidismo primario
+65,F,False,Caucásica,20.2,No,3.5,221,217,13.17,0.15,Hipertiroideo,Hipertiroidismo
+37,M,False,Hispana/Mexicana,31.4,Sí,?,111,68,18.64,12,Hipotiroideo,Hipotiroidismo compensado
+53,?,False,Hispana/Mexicana,17.8,No,1,115,83,208.69,0.1,No presenta alteración tiroidea,Negativo
+77,F,False,Caucásica,26.0,Sí,2.7,159,155,3.78,0.02,Hipertiroideo,Hipertiroidismo
+68,M,False,Caucásica,25.4,No,1.4,?,101,50.04,6.7,Hipotiroideo,Hipotiroidismo compensado
+67,F,False,Caucásica,34.2,Sí,1.4,132,113,0.0,1.3,No presenta alteración tiroidea,Negativo
+35,F,False,Otra,25.7,No,5.1,168,167,26.34,0.15,Hipertiroideo,Hipertiroidismo
+67,F,False,Caucásica,33.3,Sí,1,49,48,0.94,46,Hipotiroideo,Hipotiroidismo primario
+34,F,True,Caucásica,27.0,Sí,5,131,223,61.92,0.2,No presenta alteración tiroidea,Negativo
+2,?,False,Caucásica,32.7,No,1.7,29,34,23.46,472,Hipotiroideo,Hipotiroidismo primario
+62,F,False,Caucásica,23.5,No,2.2,85,99,18.67,6.6,Hipotiroideo,Hipotiroidismo compensado
+73,F,False,Hispana/Mexicana,33.2,Sí,0.9,102,90,84.98,3.3,No presenta alteración tiroidea,Negativo
+71,F,False,Afrodescendiente,22.8,Sí,2.2,196,152,15.7,0.02,Hipertiroideo,Hipertiroidismo
+26,F,False,Caucásica,25.4,No,?,95,86,65.96,6.2,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Afrodescendiente,26.1,No,1.8,219,180,34.73,0.015,Hipertiroideo,Hipertiroidismo
+76,F,False,Caucásica,25.8,No,0.8,82,62,78.66,0.48,No presenta alteración tiroidea,Negativo
+58,M,False,Caucásica,21.0,No,2.3,99,124,27.06,1.7,No presenta alteración tiroidea,Negativo
+32,F,True,Caucásica,35.5,Sí,3,89,101,8.55,0.3,No presenta alteración tiroidea,Negativo
+58,F,False,Hispana/Mexicana,26.6,No,3.1,108,151,63.57,0.3,No presenta alteración tiroidea,Negativo
+73,M,False,Afrodescendiente,33.1,No,0.9,115,62,6.19,3.9,No presenta alteración tiroidea,Negativo
+19,M,False,Afrodescendiente,23.5,No,0.8,84,70,25.37,0.35,No presenta alteración tiroidea,Negativo
+45,F,False,Caucásica,26.6,No,2.5,111,98,22.91,6.7,Hipotiroideo,Hipotiroidismo compensado
+48,F,False,Otra,31.9,No,1,59,63,2.83,178,Hipotiroideo,Hipotiroidismo primario
+32,M,False,Caucásica,23.1,Sí,2.4,101,121,22.38,1,No presenta alteración tiroidea,Negativo
+60,F,False,Afrodescendiente,30.8,No,1.4,39,42,16.02,151,Hipotiroideo,Hipotiroidismo primario
+70,F,False,Afrodescendiente,25.7,No,0.2,82,59,13.83,5.1,No presenta alteración tiroidea,Negativo
+45,M,False,Hispana/Mexicana,25.9,Sí,0.6,26,23,20.46,61,Hipotiroideo,Hipotiroidismo primario
+54,F,False,Otra,31.9,No,5,251,216,11.36,0.075,Hipertiroideo,Hipertiroidismo
+87,F,False,Caucásica,27.8,No,1.5,83,100,0.0,0.3,No presenta alteración tiroidea,Negativo
+34,?,False,Caucásica,14.6,No,2,96,95,12.52,7.8,Hipotiroideo,Hipotiroidismo compensado
+73,?,False,Caucásica,34.5,No,1.8,173,173,4.77,0.015,Hipertiroideo,Hipertiroidismo
+59,F,False,Caucásica,17.2,Sí,1.8,164,162,29.7,0.02,Hipertiroideo,Hipertiroidismo
+55,F,False,Hispana/Mexicana,26.2,No,1.9,144,107,21.81,0.005,No presenta alteración tiroidea,Negativo
+61,F,False,Caucásica,17.7,No,1.5,110,97,34.44,6,No presenta alteración tiroidea,Negativo
+37,F,False,Afrodescendiente,23.9,No,?,68,71,0.0,25,Hipotiroideo,Hipotiroidismo compensado
+61,F,False,Hispana/Mexicana,29.5,No,0.3,4.5,5,15.63,106,Hipotiroideo,Hipotiroidismo primario
+40,F,False,Otra,30.5,No,2.1,74,81,32.16,12,Hipotiroideo,Hipotiroidismo compensado
+21,F,False,Caucásica,22.3,No,2.1,94,140,10.24,9.5,Hipotiroideo,Hipotiroidismo compensado
+26,F,False,Hispana/Mexicana,21.5,Sí,?,74,70,26.41,9.4,Hipotiroideo,Hipotiroidismo compensado
+63,F,False,Hispana/Mexicana,27.3,No,2.3,125,139,0.0,0.63,No presenta alteración tiroidea,Negativo
+49,M,False,Caucásica,30.9,Sí,1.3,83,120,30.86,2.1,No presenta alteración tiroidea,Negativo
+35,F,False,Otra,20.6,No,3.1,239,239,18.8,0.005,Hipertiroideo,Hipertiroidismo
+41,M,False,Caucásica,27.6,No,6.2,232,207,12.52,0.1,Hipertiroideo,Hipertiroidismo
+53,F,False,Afrodescendiente,23.2,Sí,0.4,64,39,7.81,25,Hipotiroideo,Hipotiroidismo primario
+72,F,False,Caucásica,34.3,No,0.5,126,79,66.06,1.2,No presenta alteración tiroidea,Negativo
+28,F,False,Caucásica,24.4,No,0.9,40,36,13.74,139,Hipotiroideo,Hipotiroidismo primario
+33,F,False,Hispana/Mexicana,25.0,No,2,59,68,25.21,10.299999,Hipotiroideo,Hipotiroidismo primario
+80,F,False,Caucásica,23.3,Sí,2.2,97,113,0.0,2.5,No presenta alteración tiroidea,Negativo
+55,F,False,Caucásica,30.7,Sí,?,180,161,10.18,0.005,Hipertiroideo,Hipertiroidismo
+14,F,False,Hispana/Mexicana,26.7,No,1.8,59,56,54.4,15,Hipotiroideo,Hipotiroidismo primario
+44,M,False,Afrodescendiente,23.3,No,2.5,88,87,18.27,0.1,No presenta alteración tiroidea,Negativo
+34,M,False,Caucásica,21.1,Sí,2.2,95,86,1.22,10,Hipotiroideo,Hipotiroidismo compensado
+1,M,False,Caucásica,27.3,No,1.7,?,68,90.75,6.6,Hipotiroideo,Hipotiroidismo compensado
+52,M,False,Caucásica,35.7,No,2.6,61,57,24.4,7.7,Hipotiroideo,Hipotiroidismo primario
+72,F,False,Caucásica,20.7,No,2.2,76,98,19.59,15,Hipotiroideo,Hipotiroidismo compensado
+25,F,False,Caucásica,25.4,No,2.6,96,120,128.47,0.9,No presenta alteración tiroidea,Negativo
+60,M,False,Afrodescendiente,33.6,No,0.6,34,23,14.63,36,Hipotiroideo,Hipotiroidismo primario
+28,M,False,Caucásica,18.8,No,3.1,103,107,11.38,1,No presenta alteración tiroidea,Negativo
+68,F,False,Caucásica,23.8,No,2.4,126,149,14.99,1.4,No presenta alteración tiroidea,Negativo
+80,F,False,Caucásica,25.2,No,2,70,76,0.0,18,Hipotiroideo,Hipotiroidismo compensado
+71,M,False,Hispana/Mexicana,32.1,Sí,2.2,123,140,22.42,0.2,No presenta alteración tiroidea,Negativo
+7,F,False,Hispana/Mexicana,20.6,Sí,1.6,66,64,7.93,7.3,Hipotiroideo,Hipotiroidismo compensado
+47,M,False,Afrodescendiente,29.8,No,1.7,88,66,11.39,2.6,No presenta alteración tiroidea,Negativo
+52,F,False,Caucásica,18.1,No,1.6,70,76,11.75,27,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Hispana/Mexicana,25.6,No,2.2,110,136,23.85,6.1,Hipotiroideo,Hipotiroidismo compensado
+66,M,False,Afrodescendiente,23.3,No,2.3,92,90,14.46,7.1,Hipotiroideo,Hipotiroidismo compensado
+76,F,False,Caucásica,22.0,No,1,111,122,6.42,4.9,No presenta alteración tiroidea,Negativo
+58,F,False,Hispana/Mexicana,34.2,Sí,3,163,148,29.19,0.15,Hipertiroideo,Hipertiroidismo
+74,F,False,Hispana/Mexicana,16.7,No,2,80,72,0.0,9.1,Hipotiroideo,Hipotiroidismo compensado
+48,F,False,Afrodescendiente,23.3,Sí,1.4,95,88,21.31,7.1,Hipotiroideo,Hipotiroidismo compensado
+37,F,False,Afrodescendiente,24.5,No,1.7,99,71,19.88,1.4,No presenta alteración tiroidea,Negativo
+60,F,False,Afrodescendiente,29.4,No,1.1,46,45,0.58,183,Hipotiroideo,Hipotiroidismo primario
+60,M,False,Afrodescendiente,23.7,No,0.3,52,33,19.04,0.55,No presenta alteración tiroidea,Negativo
+78,F,False,Caucásica,15.5,Sí,2,135,123,25.04,1.1,No presenta alteración tiroidea,Negativo
+59,F,False,Caucásica,40.9,No,1.3,79,80,16.75,0.09,No presenta alteración tiroidea,Negativo
+57,F,False,Otra,20.9,No,?,90,101,50.81,9.1,Hipotiroideo,Hipotiroidismo compensado
+84,F,False,Hispana/Mexicana,23.2,Sí,1.1,136,148,20.07,0.41,No presenta alteración tiroidea,Negativo
+46,F,False,Caucásica,25.1,No,1.2,19,16,24.67,35,Hipotiroideo,Hipotiroidismo primario
+57,M,False,Caucásica,30.3,No,3.7,256,244,18.73,0.05,Hipertiroideo,Hipertiroidismo
+75,F,False,Afrodescendiente,26.5,No,1.1,133,136,19.48,0.4,No presenta alteración tiroidea,Negativo
+34,M,False,Afrodescendiente,22.5,Sí,1.8,134,135,9.47,4,No presenta alteración tiroidea,Negativo
+88,F,False,Caucásica,21.6,No,0.9,126,110,79.75,0.49,No presenta alteración tiroidea,Negativo
+65,F,False,Caucásica,23.0,No,3.9,108,133,12.65,0.025,Hipertiroideo,Tóxico T3
+59,M,False,Caucásica,25.7,No,0.7,104,77,0.0,5.5,No presenta alteración tiroidea,Negativo
+62,M,False,Otra,24.8,No,2,134,139,17.59,1.1,No presenta alteración tiroidea,Negativo
+66,F,False,Afrodescendiente,27.1,No,0.5,108,83,20.56,4.5,No presenta alteración tiroidea,Negativo
+70,M,False,Caucásica,28.7,No,0.5,32,27,85.4,86,Hipotiroideo,Hipotiroidismo primario
+34,M,False,Hispana/Mexicana,22.3,No,1.7,59,67,101.45,1.6,No presenta alteración tiroidea,Negativo
+64,M,False,Afrodescendiente,26.6,No,0.9,115,109,8.56,1,No presenta alteración tiroidea,Negativo
+46,M,False,Afrodescendiente,23.8,No,4.5,205,156,12.48,0.02,Hipertiroideo,Hipertiroidismo
+70,F,False,Hispana/Mexicana,14.3,No,1.3,125,106,8.54,2,No presenta alteración tiroidea,Negativo
+73,F,False,Afrodescendiente,27.7,No,1.2,85,95,9.88,4.4,No presenta alteración tiroidea,Negativo
+31,F,False,Caucásica,33.9,Sí,?,209,196,16.4,?,Hipertiroideo,Hipertiroidismo
+60,M,False,Caucásica,27.4,No,4,67,68,10.24,0.2,Hipertiroideo,Tóxico T3
+38,M,False,Hispana/Mexicana,22.3,No,1.9,121,92,11.77,0.67,No presenta alteración tiroidea,Negativo
+59,F,False,Caucásica,24.1,No,?,84,81,0.0,9.7,Hipotiroideo,Hipotiroidismo compensado
+62,?,False,Hispana/Mexicana,29.0,Sí,1.4,115,88,25.09,21,Hipotiroideo,Hipotiroidismo compensado
+53,M,False,Caucásica,32.2,No,2.1,83,74,18.48,1,No presenta alteración tiroidea,Negativo
+74,F,False,Caucásica,25.8,No,2.4,108,117,6.62,9.299999,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Caucásica,22.7,No,2.3,41,42,23.83,35,Hipotiroideo,Hipotiroidismo primario
+60,F,False,Afrodescendiente,20.0,No,1.8,66,65,18.4,27,Hipotiroideo,Hipotiroidismo compensado
+25,F,False,Hispana/Mexicana,30.0,Sí,0.7,19,21,20.5,468,Hipotiroideo,Hipotiroidismo primario
+36,F,False,Hispana/Mexicana,30.9,No,1.4,98,95,18.22,7.3,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Caucásica,25.3,Sí,0.9,148,126,96.27,1.3,No presenta alteración tiroidea,Negativo
+84,F,False,Hispana/Mexicana,25.9,No,1.2,121,83,18.37,7.8,Hipotiroideo,Hipotiroidismo compensado
+80,F,False,Caucásica,32.8,Sí,0.6,115,80,4.43,2.2,No presenta alteración tiroidea,Negativo
+64,F,False,Afrodescendiente,21.9,No,1.1,124,109,12.5,0.25,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,24.7,Sí,1.1,46,45,21.28,183,Hipotiroideo,Hipotiroidismo primario
+42,F,False,Hispana/Mexicana,20.8,No,2.1,104,123,17.77,7.2,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,21.5,No,2.2,96,107,28.24,1.6,No presenta alteración tiroidea,Negativo
+73,F,False,Hispana/Mexicana,39.1,No,2,129,119,15.93,2.4,No presenta alteración tiroidea,Negativo
+69,F,False,Otra,31.5,No,2,59,89,19.57,26,Hipotiroideo,Hipotiroidismo primario
+34,M,False,Afrodescendiente,24.7,No,4.7,237,242,20.46,0.3,Hipertiroideo,Hipertiroidismo
+53,F,False,Caucásica,34.3,No,2.1,141,145,26.64,0.25,No presenta alteración tiroidea,Negativo
+64,M,False,Afrodescendiente,25.8,No,0.7,110,91,11.07,1,No presenta alteración tiroidea,Negativo
+79,F,False,Hispana/Mexicana,18.7,No,1.7,108,111,54.9,1.1,No presenta alteración tiroidea,Negativo
+32,M,False,Hispana/Mexicana,15.9,No,2,119,102,38.2,2.2,No presenta alteración tiroidea,Negativo
+66,M,False,Caucásica,29.0,No,1.8,124,114,52.65,0.8,No presenta alteración tiroidea,Negativo
+47,F,False,Afrodescendiente,21.5,No,2.1,89,95,3.69,11,Hipotiroideo,Hipotiroidismo compensado
+47,F,False,Otra,18.7,No,4.3,176,189,17.24,0.15,Hipertiroideo,Hipertiroidismo
+80,M,False,Caucásica,22.0,No,1,154,141,12.4,0.1,No presenta alteración tiroidea,Negativo
+78,F,False,Caucásica,27.2,Sí,1.3,109,120,0.0,6.3,No presenta alteración tiroidea,Negativo
+40,F,False,Hispana/Mexicana,27.4,No,1.6,99,75,26.77,2.8,No presenta alteración tiroidea,Negativo
+88,F,False,Caucásica,27.4,Sí,?,124,123,52.54,13,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Afrodescendiente,26.7,Sí,1.7,108,96,11.47,7.1,Hipotiroideo,Hipotiroidismo compensado
+33,F,False,Afrodescendiente,28.2,No,2,59,68,44.66,10.3,Hipotiroideo,Hipotiroidismo primario
+49,M,False,Caucásica,31.7,No,0.2,74,59,0.0,0.08,No presenta alteración tiroidea,Negativo
+53,M,False,Hispana/Mexicana,23.3,No,2.1,83,74,12.89,1,No presenta alteración tiroidea,Negativo
+60,M,False,Hispana/Mexicana,20.6,Sí,1,121,84,20.74,4.4,No presenta alteración tiroidea,Negativo
+65,F,False,Caucásica,19.0,No,?,87,99,12.35,12,Hipotiroideo,Hipotiroidismo compensado
+66,F,False,Caucásica,19.4,No,2.4,100,100,65.19,0.6,No presenta alteración tiroidea,Negativo
+20,M,False,Caucásica,25.4,Sí,4.8,?,22,61.46,0.015,Hipertiroideo,Hipertiroidismo
+74,F,False,Afrodescendiente,28.7,No,0.2,58,50,12.64,23,Hipotiroideo,Hipotiroidismo primario
+72,F,False,Caucásica,37.1,No,0.9,127,99,15.71,4.9,No presenta alteración tiroidea,Negativo
+48,F,False,Caucásica,22.6,No,1,59,63,19.31,178,Hipotiroideo,Hipotiroidismo primario
+15,F,False,Hispana/Mexicana,17.7,No,1.7,17,19,30.5,145,Hipotiroideo,Hipotiroidismo primario
+86,F,False,Hispana/Mexicana,17.4,No,0.4,72,76,30.54,1.6,No presenta alteración tiroidea,Negativo
+70,M,False,Caucásica,19.7,No,0.5,32,27,0.0,86,Hipotiroideo,Hipotiroidismo primario
+72,F,False,Hispana/Mexicana,31.9,No,3.2,450,333,56.11,0.1,Hipertiroideo,Hipertiroidismo
+66,F,False,Afrodescendiente,29.9,No,1.1,137,115,10.58,0.7,No presenta alteración tiroidea,Negativo
+68,F,False,Hispana/Mexicana,30.9,Sí,0.2,16,18,65.13,42,Hipotiroideo,Hipotiroidismo primario
+61,F,False,Afrodescendiente,22.6,No,2.4,59,58,4.26,29,Hipotiroideo,Hipotiroidismo primario
+28,F,False,Caucásica,17.5,Sí,2.1,46,50,68.22,54,Hipotiroideo,Hipotiroidismo primario
+33,F,False,Caucásica,31.7,Sí,?,95,85,21.11,6.9,Hipotiroideo,Hipotiroidismo compensado
+29,F,False,Afrodescendiente,26.8,No,0.9,72,54,17.57,0.2,No presenta alteración tiroidea,Negativo
+66,F,False,Hispana/Mexicana,24.0,Sí,0.4,9.099999,12,23.25,48,Hipotiroideo,Hipotiroidismo primario
+58,F,False,Hispana/Mexicana,23.9,No,2.1,121,114,18.26,2.2,No presenta alteración tiroidea,Negativo
+59,F,False,Hispana/Mexicana,21.9,No,2.2,162,164,0.0,0.015,No presenta alteración tiroidea,Negativo
+76,F,False,Afrodescendiente,25.9,No,3,183,158,23.94,0.005,Hipertiroideo,Hipertiroidismo
+93,F,False,Hispana/Mexicana,34.9,Sí,0.4,90,77,15.42,2.7,No presenta alteración tiroidea,Negativo
+74,F,False,Caucásica,31.6,Sí,1.5,115,100,57.66,10,Hipotiroideo,Hipotiroidismo compensado
+48,F,False,Hispana/Mexicana,27.4,Sí,1,88,71,85.12,1.6,No presenta alteración tiroidea,Negativo
+25,F,False,Caucásica,20.9,Sí,1.7,83,62,22.39,8.9,Hipotiroideo,Hipotiroidismo compensado
+66,M,False,Hispana/Mexicana,21.5,No,1.3,121,89,0.0,4.5,No presenta alteración tiroidea,Negativo
+28,F,False,Afrodescendiente,26.3,No,0.9,123,103,25.54,0.1,No presenta alteración tiroidea,Negativo
+74,M,False,Hispana/Mexicana,26.0,No,2.3,152,122,30.06,0.73,No presenta alteración tiroidea,Negativo
+35,F,False,Hispana/Mexicana,37.1,No,0.2,4,4,21.62,14,Hipotiroideo,Hipotiroidismo primario
+72,F,False,Hispana/Mexicana,27.5,No,2.2,76,98,52.71,15,Hipotiroideo,Hipotiroidismo compensado
+40,F,False,Hispana/Mexicana,30.5,No,0.2,5.4,4.8,103.12,42,Hipotiroideo,Hipotiroidismo primario
+62,M,False,Afrodescendiente,30.3,No,1.7,97,65,14.31,17,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Hispana/Mexicana,31.5,Sí,6.8,201,169,32.23,0.05,Hipertiroideo,Hipertiroidismo
+51,F,False,Caucásica,22.4,No,?,69,77,12.79,58,Hipotiroideo,Hipotiroidismo compensado
+59,F,False,Caucásica,26.4,No,1.1,109,121,146.16,1.4,No presenta alteración tiroidea,Negativo
+51,M,False,Afrodescendiente,26.7,No,0.9,100,94,11.69,1.6,No presenta alteración tiroidea,Negativo
+65,F,False,Hispana/Mexicana,22.2,No,0.2,17,16,14.94,145,Hipotiroideo,Hipotiroidismo primario
+56,F,False,Hispana/Mexicana,27.5,No,2.4,82,99,22.1,0.9,No presenta alteración tiroidea,Negativo
+69,M,False,Caucásica,26.9,No,1.1,66,66,21.42,0.44,No presenta alteración tiroidea,Negativo
+46,F,False,Caucásica,18.0,Sí,1.2,54,48,27.59,4.6,Hipotiroideo,Hipotiroidismo secundario
+75,F,False,Caucásica,22.9,Sí,1.9,80,79,49.71,9.6,No presenta alteración tiroidea,Negativo
+58,F,False,Caucásica,16.3,Sí,2.7,95,120,99.21,0.26,No presenta alteración tiroidea,Negativo
+37,M,False,Afrodescendiente,27.2,No,1,90,61,16.64,0.15,No presenta alteración tiroidea,Negativo
+80,M,False,Afrodescendiente,40.0,No,1.2,41,39,10.95,2,No presenta alteración tiroidea,Negativo
+79,F,False,Afrodescendiente,22.7,No,1.3,70,69,7.7,19,Hipotiroideo,Hipotiroidismo compensado
+31,F,True,Hispana/Mexicana,25.3,No,3,156,158,46.72,?,Hipertiroideo,Hipertiroidismo
+65,M,False,Otra,26.0,No,1.1,110,78,9.04,0.75,No presenta alteración tiroidea,Negativo
+78,F,False,Afrodescendiente,26.8,No,1.7,115,113,23.54,0.64,No presenta alteración tiroidea,Negativo
+62,F,False,Hispana/Mexicana,31.3,No,1.8,76,97,88.69,6.5,No presenta alteración tiroidea,Negativo
+60,M,False,Caucásica,23.8,No,0.7,102,76,19.44,1.8,No presenta alteración tiroidea,Negativo
+79,M,False,Caucásica,29.1,No,3.4,203,151,20.44,0.005,Hipertiroideo,Hipertiroidismo
+80,F,False,Afrodescendiente,27.3,No,0.8,125,101,15.36,1.7,No presenta alteración tiroidea,Negativo
+63,M,False,Afrodescendiente,29.2,No,2,117,120,28.96,7.4,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Afrodescendiente,27.7,No,0.4,?,102,14.84,11,Hipotiroideo,Hipotiroidismo compensado
+57,F,False,Hispana/Mexicana,36.8,No,2.3,71,70,15.38,1.4,No presenta alteración tiroidea,Negativo
+77,F,False,Afrodescendiente,22.9,No,0.9,117,105,47.9,0.1,No presenta alteración tiroidea,Negativo
+35,F,False,Afrodescendiente,27.8,Sí,5.1,168,167,26.17,0.15,Hipertiroideo,Hipertiroidismo
+62,M,False,Caucásica,20.2,No,1,128,101,24.14,11,Hipotiroideo,Hipotiroidismo compensado
+42,F,False,Hispana/Mexicana,33.3,No,1.9,74,61,17.0,13,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Afrodescendiente,21.7,No,1.5,83,88,11.55,34,Hipotiroideo,Hipotiroidismo compensado
+31,M,False,Afrodescendiente,20.7,No,1.9,101,111,13.67,14.299999,Hipotiroideo,Hipotiroidismo compensado
+58,F,False,Afrodescendiente,24.4,No,2.5,109,87,17.3,0.15,No presenta alteración tiroidea,Negativo
+39,F,False,Hispana/Mexicana,17.7,No,1.9,?,65,3.78,24,Hipotiroideo,Hipotiroidismo compensado
+37,M,False,Hispana/Mexicana,21.4,No,1.1,93,73,5.04,0.61,No presenta alteración tiroidea,Negativo
+32,F,False,Hispana/Mexicana,19.8,No,1.4,157,139,105.71,0.05,No presenta alteración tiroidea,Negativo
+50,F,False,Hispana/Mexicana,26.6,No,0.8,105,123,79.79,0.5,No presenta alteración tiroidea,Negativo
+23,F,False,Hispana/Mexicana,31.8,No,1.6,100,88,42.02,1.9,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,27.6,No,2.2,51,71,117.98,12,Hipotiroideo,Hipotiroidismo primario
+50,M,False,Hispana/Mexicana,22.1,No,2,110,97,13.58,1.9,No presenta alteración tiroidea,Negativo
+80,M,False,Hispana/Mexicana,21.5,No,1.3,95,83,22.66,6.1,Hipotiroideo,Hipotiroidismo compensado
+42,F,True,Hispana/Mexicana,20.2,Sí,4,128,200,18.47,0.02,No presenta alteración tiroidea,Negativo
+55,F,False,Otra,25.7,No,2,88,96,25.32,3.6,No presenta alteración tiroidea,Negativo
+37,F,False,Afrodescendiente,25.4,No,2.4,68,84,24.19,12,Hipotiroideo,Hipotiroidismo compensado
+55,M,False,Caucásica,26.3,No,1.1,98,95,14.8,0.6,No presenta alteración tiroidea,Negativo
+77,M,False,Hispana/Mexicana,23.4,No,0.9,119,108,20.11,3.3,No presenta alteración tiroidea,Negativo
+27,F,False,Afrodescendiente,19.2,No,1.6,100,82,19.34,15,Hipotiroideo,Hipotiroidismo compensado
+41,M,False,Hispana/Mexicana,27.3,No,2.2,69,64,104.84,0.005,No presenta alteración tiroidea,Negativo
+77,F,False,Caucásica,27.8,No,0.5,49,33,67.38,23,Hipotiroideo,Hipotiroidismo primario
+76,F,False,Afrodescendiente,23.6,No,1.5,133,126,21.95,12,Hipotiroideo,Hipotiroidismo compensado
+32,F,False,Otra,27.1,No,1.9,88,94,8.65,3,No presenta alteración tiroidea,Negativo
+66,F,False,Afrodescendiente,19.5,No,0.6,143,121,5.84,0.1,No presenta alteración tiroidea,Negativo
+48,F,False,Afrodescendiente,29.1,No,2.2,121,127,15.22,0.02,No presenta alteración tiroidea,Negativo
+16,?,False,Hispana/Mexicana,24.6,Sí,1.1,111,96,22.07,3.1,No presenta alteración tiroidea,Negativo
+51,F,False,Hispana/Mexicana,26.5,No,1.5,52,37,7.6,1.4,No presenta alteración tiroidea,Negativo
+73,M,False,Caucásica,23.8,No,0.8,83,63,29.02,1.8,No presenta alteración tiroidea,Negativo
+29,F,False,Hispana/Mexicana,30.0,No,?,103,112,81.2,7,Hipotiroideo,Hipotiroidismo compensado
+61,M,False,Hispana/Mexicana,31.6,No,2.1,136,128,60.88,0.02,No presenta alteración tiroidea,Negativo
+63,F,False,Afrodescendiente,32.2,No,3.3,125,120,19.1,0.03,Hipertiroideo,Tóxico T3
+44,M,False,Caucásica,22.4,No,0.8,130,86,12.86,11,Hipotiroideo,Hipotiroidismo compensado
+78,F,False,Afrodescendiente,23.4,No,2,71,69,11.51,10,Hipotiroideo,Hipotiroidismo compensado
+24,F,False,Caucásica,27.4,No,0.7,28,28,71.27,65,No presenta alteración tiroidea,Negativo
+60,F,False,Afrodescendiente,24.1,No,1.9,68,72,17.04,1.5,No presenta alteración tiroidea,Negativo
+61,M,False,Caucásica,30.3,Sí,1.2,101,83,66.61,6.2,Hipotiroideo,Hipotiroidismo compensado
+44,F,False,Afrodescendiente,24.3,No,2.4,111,112,24.53,1.4,No presenta alteración tiroidea,Negativo
+35,F,False,Hispana/Mexicana,23.6,No,2.6,46,46,0.0,31,Hipotiroideo,Hipotiroidismo primario
+16,F,False,Hispana/Mexicana,20.5,Sí,1.9,56,58,22.13,29,Hipotiroideo,Hipotiroidismo primario
+65,M,False,Afrodescendiente,25.5,No,2.7,126,131,37.5,3.1,No presenta alteración tiroidea,Negativo
+59,M,False,Caucásica,26.6,No,1.5,90,88,15.76,12,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Caucásica,25.8,No,0.5,9.1,11,62.54,400,Hipotiroideo,Hipotiroidismo primario
+15,F,False,Hispana/Mexicana,21.5,Sí,2.4,91,105,21.28,1.6,No presenta alteración tiroidea,Negativo
+67,M,False,Caucásica,20.5,No,0.9,92,63,41.87,3,No presenta alteración tiroidea,Negativo
+79,F,False,Afrodescendiente,28.8,No,0.8,124,83,35.34,3.3,No presenta alteración tiroidea,Negativo
+57,M,False,Afrodescendiente,25.5,Sí,1.5,115,91,9.65,0.9,No presenta alteración tiroidea,Negativo
+23,F,False,Hispana/Mexicana,19.1,No,7,80,141,23.74,3.6,No presenta alteración tiroidea,Negativo
+68,F,False,Caucásica,25.3,No,1.4,93,111,20.58,12,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Hispana/Mexicana,28.8,Sí,0.3,17,18,9.74,77,Hipotiroideo,Hipotiroidismo primario
+57,F,False,Afrodescendiente,26.3,Sí,3.6,171,144,15.72,0.005,Hipertiroideo,Hipertiroidismo
+68,F,False,Caucásica,24.6,No,1.8,82,72,138.83,28,Hipotiroideo,Hipotiroidismo compensado
+76,M,False,Afrodescendiente,25.4,No,1.3,91,93,2.75,2.1,No presenta alteración tiroidea,Negativo
+50,F,False,Caucásica,24.7,No,2.8,65,74,11.52,0.01,No presenta alteración tiroidea,Negativo
+78,F,False,Afrodescendiente,29.0,No,1.9,110,113,23.21,0.77,No presenta alteración tiroidea,Negativo
+65,F,False,Afrodescendiente,24.5,No,3.5,221,217,9.01,0.15,Hipertiroideo,Hipertiroidismo
+59,F,False,Otra,24.4,No,2.1,95,78,17.65,0.4,No presenta alteración tiroidea,Negativo
+20,F,False,Hispana/Mexicana,21.7,Sí,2.5,93,93,14.91,0.15,No presenta alteración tiroidea,Negativo
+16,M,False,Hispana/Mexicana,31.3,No,1.1,133,99,26.35,0.7,No presenta alteración tiroidea,Negativo
+47,F,False,Afrodescendiente,22.4,No,1.4,124,107,25.89,0.61,No presenta alteración tiroidea,Negativo
+63,M,False,Caucásica,30.4,No,1.5,?,128,13.28,33,Hipotiroideo,Hipotiroidismo compensado
+29,M,False,Otra,26.1,No,2.2,153,142,11.0,0.33,No presenta alteración tiroidea,Negativo
+77,F,False,Caucásica,29.9,No,?,73,77,9.22,12,Hipotiroideo,Hipotiroidismo compensado
+77,F,False,Hispana/Mexicana,23.4,No,1.7,119,101,24.74,2.5,No presenta alteración tiroidea,Negativo
+16,M,False,Hispana/Mexicana,31.8,Sí,3.2,119,137,18.44,0.5,No presenta alteración tiroidea,Negativo
+50,M,False,Caucásica,41.7,No,2,66,71,16.35,15,No presenta alteración tiroidea,Negativo
+60,F,False,Otra,22.2,Sí,1.7,116,103,19.51,1.4,No presenta alteración tiroidea,Negativo
+76,F,False,Caucásica,18.1,Sí,0.8,104,78,35.01,0.25,No presenta alteración tiroidea,Negativo
+57,M,False,Afrodescendiente,29.3,No,4.2,337,236,5.12,0.25,Hipertiroideo,Hipertiroidismo
+79,F,False,Caucásica,21.8,Sí,1.5,92,94,31.8,5.6,No presenta alteración tiroidea,Negativo
+61,F,False,Hispana/Mexicana,20.6,No,1.2,82,83,0.0,11,Hipotiroideo,Hipotiroidismo compensado
+20,F,False,Afrodescendiente,25.7,No,2.1,115,106,21.44,1.2,No presenta alteración tiroidea,Negativo
+61,F,False,Hispana/Mexicana,28.4,No,1.1,118,89,28.81,4.7,No presenta alteración tiroidea,Negativo
+79,F,False,Caucásica,21.6,No,0.4,122,73,29.69,2.3,No presenta alteración tiroidea,Negativo
+56,F,False,Afrodescendiente,33.1,No,3.8,264,200,6.74,0.05,Hipertiroideo,Hipertiroidismo
+26,F,True,Caucásica,25.5,No,3.9,96,122,32.75,0.2,No presenta alteración tiroidea,Negativo
+86,F,False,Caucásica,36.1,No,0.7,148,105,34.37,2.2,No presenta alteración tiroidea,Negativo
+73,F,False,Afrodescendiente,28.0,No,3.8,321,292,19.79,0.04,Hipertiroideo,Hipertiroidismo
+57,M,False,Hispana/Mexicana,34.0,Sí,0.9,133,82,73.91,0.75,No presenta alteración tiroidea,Negativo
+23,F,False,Afrodescendiente,32.8,No,1.1,99,104,30.97,2.6,No presenta alteración tiroidea,Negativo
+71,M,False,Hispana/Mexicana,22.0,No,0.4,114,108,15.49,1.2,No presenta alteración tiroidea,Negativo
+28,F,False,Afrodescendiente,29.5,No,1.8,109,85,14.48,0.1,No presenta alteración tiroidea,Negativo
+62,F,False,Hispana/Mexicana,25.7,No,0.8,98,73,23.83,11,Hipotiroideo,Hipotiroidismo compensado
+39,M,False,Hispana/Mexicana,28.0,No,2.1,107,95,28.05,0.5,No presenta alteración tiroidea,Negativo
+1,?,False,Caucásica,39.1,No,1.9,131,113,22.34,8.8,Hipotiroideo,Hipotiroidismo compensado
+53,F,False,Hispana/Mexicana,29.7,Sí,0.4,14,17,16.5,165,Hipotiroideo,Hipotiroidismo primario
+13,F,False,Otra,24.4,No,1,142,103,24.91,5,No presenta alteración tiroidea,Negativo
+16,F,False,Afrodescendiente,24.1,No,6.2,244,255,3.46,0.05,Hipertiroideo,Hipertiroidismo
+52,M,False,Caucásica,29.3,No,1.9,112,86,17.13,0.04,No presenta alteración tiroidea,Negativo
+76,F,False,Afrodescendiente,19.6,No,1.4,139,107,27.14,2,No presenta alteración tiroidea,Negativo
+41,F,False,Afrodescendiente,27.0,No,2.2,102,104,24.33,0.7,No presenta alteración tiroidea,Negativo
+51,F,False,Caucásica,17.7,Sí,0.3,8.299999,8.4,43.5,131,Hipotiroideo,Hipotiroidismo primario
+59,F,False,Afrodescendiente,27.1,No,2,178,164,26.67,0.03,No presenta alteración tiroidea,Negativo
+64,F,False,Hispana/Mexicana,32.2,Sí,6.1,228,214,16.15,?,Hipertiroideo,Hipertiroidismo
+77,F,False,Otra,25.5,No,0.2,99,80,16.21,2.2,No presenta alteración tiroidea,Negativo
+73,M,False,Hispana/Mexicana,37.1,No,1,154,135,22.7,0.05,No presenta alteración tiroidea,Negativo
+71,M,False,Caucásica,29.7,No,0.5,124,93,41.41,1.1,No presenta alteración tiroidea,Negativo
+54,F,False,Otra,20.1,Sí,1.1,92,74,0.96,1.5,No presenta alteración tiroidea,Negativo
+77,M,False,Afrodescendiente,26.1,No,0.5,62,54,18.36,1.3,No presenta alteración tiroidea,Negativo
+55,F,False,Hispana/Mexicana,31.6,No,3.6,172,301,10.33,0.2,Hipertiroideo,Hipertiroidismo
+73,M,False,Caucásica,34.5,No,3.6,93,115,7.44,1.7,No presenta alteración tiroidea,Negativo
+32,F,False,Hispana/Mexicana,30.3,No,1.9,74,90,4.43,17.4,Hipotiroideo,Hipotiroidismo compensado
+48,F,False,Afrodescendiente,21.5,No,2.7,104,124,18.91,1.8,No presenta alteración tiroidea,Negativo
+30,F,False,Caucásica,22.6,No,1.8,121,117,16.46,0.3,No presenta alteración tiroidea,Negativo
+65,F,False,Afrodescendiente,27.7,No,1.2,?,72,19.23,21,Hipotiroideo,Hipotiroidismo compensado
+85,F,False,Caucásica,31.1,No,1.1,116,101,11.19,0.4,No presenta alteración tiroidea,Negativo
+60,F,False,Afrodescendiente,28.1,No,1.8,66,65,6.76,27,Hipotiroideo,Hipotiroidismo compensado
+78,F,False,Hispana/Mexicana,33.7,Sí,2,71,69,55.98,10,Hipotiroideo,Hipotiroidismo compensado
+17,F,False,Hispana/Mexicana,36.3,Sí,2.6,106,102,19.84,0.6,No presenta alteración tiroidea,Negativo
+63,M,False,Caucásica,25.0,No,1.1,145,124,11.75,2.4,No presenta alteración tiroidea,Negativo
+52,M,False,Caucásica,18.2,No,2.6,88,79,22.82,11.9,Hipotiroideo,Hipotiroidismo compensado
+53,M,False,Hispana/Mexicana,26.1,No,2,?,?,16.16,12,Hipotiroideo,Hipotiroidismo compensado
+65,F,False,Afrodescendiente,28.1,No,3.1,171,168,13.55,0.015,No presenta alteración tiroidea,Negativo
+65,F,False,Caucásica,28.3,No,0.3,115,70,61.48,1.7,No presenta alteración tiroidea,Negativo
+70,M,False,Caucásica,26.1,No,1,68,60,34.86,3.6,No presenta alteración tiroidea,Negativo
+45,F,False,Hispana/Mexicana,25.7,No,2.5,111,98,18.34,6.7,Hipotiroideo,Hipotiroidismo compensado
+84,F,False,Caucásica,23.7,No,0.3,86,73,44.06,2.2,No presenta alteración tiroidea,Negativo
+81,M,False,Hispana/Mexicana,17.0,No,1.3,104,91,13.19,0.65,No presenta alteración tiroidea,Negativo
+64,F,False,Caucásica,26.1,Sí,1.2,58,60,24.91,38,Hipotiroideo,Hipotiroidismo primario
+60,M,False,Caucásica,21.2,No,1.7,77,67,68.23,12,Hipotiroideo,Hipotiroidismo compensado
+44,F,False,Hispana/Mexicana,24.3,No,1.9,90,82,97.26,4.4,No presenta alteración tiroidea,Negativo
+50,F,False,Caucásica,27.3,No,2.1,100,107,9.69,3.3,No presenta alteración tiroidea,Negativo
+48,F,False,Caucásica,22.3,Sí,1.5,129,111,54.33,6.6,Hipotiroideo,Hipotiroidismo compensado
+77,F,False,Hispana/Mexicana,22.5,No,0.3,77,44,139.86,18,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Otra,25.0,No,1.6,123,130,15.64,1.7,No presenta alteración tiroidea,Negativo
+61,M,False,Caucásica,35.3,No,1,104,96,21.48,0.6,No presenta alteración tiroidea,Negativo
+33,F,False,Caucásica,19.6,No,2.5,98,109,34.67,1.5,No presenta alteración tiroidea,Negativo
+70,M,False,Caucásica,24.0,No,1,144,85,29.42,3.2,No presenta alteración tiroidea,Negativo
+42,F,False,Hispana/Mexicana,33.1,Sí,1.9,74,61,0.0,13,Hipotiroideo,Hipotiroidismo compensado
+78,F,False,Otra,21.4,No,1,148,102,35.25,1,No presenta alteración tiroidea,Negativo
+68,F,False,Caucásica,25.1,No,1.4,67,68,45.35,16,Hipotiroideo,Hipotiroidismo compensado
+40,F,False,Caucásica,26.9,No,?,97,97,13.32,12,Hipotiroideo,Hipotiroidismo compensado
+2,F,False,Caucásica,34.7,No,?,?,?,0.0,6.7,Hipotiroideo,Hipotiroidismo primario
+74,F,False,Hispana/Mexicana,19.6,No,1,39,49,8.08,53,Hipotiroideo,Hipotiroidismo primario
+86,F,False,Hispana/Mexicana,18.4,Sí,1,69,65,133.48,0.1,No presenta alteración tiroidea,Negativo
+42,M,False,Hispana/Mexicana,25.1,No,1.2,51,44,115.61,6.8,Hipotiroideo,Hipotiroidismo primario
+50,F,False,Caucásica,23.3,No,0.2,47,33,34.36,28,Hipotiroideo,Hipotiroidismo primario
+23,F,False,Hispana/Mexicana,24.0,No,3,129,174,41.61,1.4,No presenta alteración tiroidea,Negativo
+35,F,False,Hispana/Mexicana,20.6,No,1.5,27,36,4.83,230,Hipotiroideo,Hipotiroidismo primario
+65,F,False,Hispana/Mexicana,17.7,No,0.3,11,12,98.87,170,Hipotiroideo,Hipotiroidismo primario
+32,M,False,Caucásica,18.0,No,2.5,86,100,16.64,0.45,No presenta alteración tiroidea,Negativo
+24,M,False,Caucásica,24.2,No,2.8,109,122,39.08,2.4,No presenta alteración tiroidea,Negativo
+43,F,False,Afrodescendiente,22.3,No,1.8,67,60,13.69,6.5,Hipotiroideo,Hipotiroidismo compensado
+60,M,False,Afrodescendiente,26.4,No,0.4,7,5.8,14.68,98,Hipotiroideo,Hipotiroidismo primario
+78,F,False,Caucásica,20.3,No,1.1,137,112,19.62,3.1,No presenta alteración tiroidea,Negativo
+21,F,True,Caucásica,28.4,No,2.5,96,108,25.87,0.2,No presenta alteración tiroidea,Negativo
+69,F,False,Caucásica,27.2,Sí,1.3,83,88,63.79,11.1,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,20.3,Sí,2.1,126,153,22.86,0.9,No presenta alteración tiroidea,Negativo
+76,F,False,Hispana/Mexicana,30.0,No,1.3,117,134,43.78,6.3,Hipotiroideo,Hipotiroidismo compensado
+65,M,False,Afrodescendiente,27.4,No,1.5,72,61,7.78,14.8,Hipotiroideo,Hipotiroidismo compensado
+79,F,False,Caucásica,23.5,No,0.9,107,102,13.14,1.3,No presenta alteración tiroidea,Negativo
+59,F,False,Afrodescendiente,28.6,No,1.5,79,89,17.83,11,Hipotiroideo,Hipotiroidismo compensado
+61,F,False,Hispana/Mexicana,19.5,No,1.7,118,111,13.38,1.5,No presenta alteración tiroidea,Negativo
+61,F,False,Hispana/Mexicana,21.2,No,2.4,112,141,23.61,6.4,Hipotiroideo,Hipotiroidismo compensado
+24,F,False,Caucásica,29.4,No,2.5,107,97,53.84,0.82,No presenta alteración tiroidea,Negativo
+60,F,False,Hispana/Mexicana,26.5,No,3.2,119,175,18.55,0.77,No presenta alteración tiroidea,Negativo
+35,M,False,Hispana/Mexicana,30.5,No,1,78,68,17.35,0.2,No presenta alteración tiroidea,Negativo
+55,F,False,Caucásica,27.1,No,2.3,101,104,0.0,2.4,No presenta alteración tiroidea,Negativo
+31,F,False,Hispana/Mexicana,25.0,Sí,1.3,53,63,20.83,188,Hipotiroideo,Hipotiroidismo primario
+29,F,False,Caucásica,22.1,No,?,53,63,26.04,24,Hipotiroideo,Hipotiroidismo primario
+84,F,False,Caucásica,24.6,No,0.3,86,73,15.66,2.2,No presenta alteración tiroidea,Negativo
+55,M,False,Caucásica,24.8,No,0.8,113,103,0.0,1.2,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,28.2,No,1.2,128,139,53.4,27,Hipotiroideo,Hipotiroidismo compensado
+63,M,False,Caucásica,18.6,No,1.4,58,56,0.0,5.6,No presenta alteración tiroidea,Negativo
+36,F,False,Caucásica,23.3,No,1.6,112,114,37.69,0.88,No presenta alteración tiroidea,Negativo
+74,M,False,Afrodescendiente,26.8,No,0.9,153,115,12.73,0.61,No presenta alteración tiroidea,Negativo
+72,F,False,Afrodescendiente,22.7,No,1.4,100,107,13.11,5.8,No presenta alteración tiroidea,Negativo
+80,F,False,Caucásica,25.0,No,1.1,112,97,97.35,5.3,No presenta alteración tiroidea,Negativo
+48,F,False,Afrodescendiente,30.8,No,1.1,95,81,16.43,0.77,No presenta alteración tiroidea,Negativo
+76,M,False,Hispana/Mexicana,18.2,No,2.3,146,146,18.06,0.3,No presenta alteración tiroidea,Negativo
+33,F,False,Caucásica,20.7,No,1.7,?,75,6.97,16,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Hispana/Mexicana,29.4,No,2.2,51,71,28.66,12,Hipotiroideo,Hipotiroidismo primario
+66,F,False,Caucásica,18.4,No,2.3,113,133,95.38,1.2,No presenta alteración tiroidea,Negativo
+53,F,False,Caucásica,30.6,Sí,5.4,222,162,29.07,0.03,Hipertiroideo,Hipertiroidismo
+70,F,False,Caucásica,18.3,No,2.4,105,96,72.23,0.82,No presenta alteración tiroidea,Negativo
+38,F,False,Caucásica,25.7,Sí,1.8,113,114,32.39,0.75,No presenta alteración tiroidea,Negativo
+61,M,False,Afrodescendiente,27.2,No,1.1,100,113,28.73,1.6,No presenta alteración tiroidea,Negativo
+19,M,False,Caucásica,27.5,Sí,2,112,98,75.92,0.84,No presenta alteración tiroidea,Negativo
+60,M,False,Afrodescendiente,21.4,No,0.8,52,44,12.63,1.2,No presenta alteración tiroidea,Negativo
+78,F,False,Caucásica,28.6,No,0.5,99,104,72.05,3,No presenta alteración tiroidea,Negativo
+80,F,False,Caucásica,26.5,No,1.7,86,83,36.55,0.97,No presenta alteración tiroidea,Negativo
+71,F,False,Afrodescendiente,27.1,No,1.3,129,138,29.34,0.52,No presenta alteración tiroidea,Negativo
+63,F,False,Afrodescendiente,16.7,No,5.5,190,199,12.33,0.03,Hipertiroideo,Hipertiroidismo
+79,M,False,Hispana/Mexicana,26.5,No,0.7,137,116,30.04,1.1,No presenta alteración tiroidea,Negativo
+53,M,False,Hispana/Mexicana,26.5,Sí,2.6,130,151,11.21,2.4,No presenta alteración tiroidea,Negativo
+60,F,False,Hispana/Mexicana,15.8,No,1.8,61,59,12.3,8.099999,Hipotiroideo,Hipotiroidismo primario
+57,F,False,Caucásica,36.1,No,1,119,128,160.29,3.1,No presenta alteración tiroidea,Negativo
+69,F,False,Afrodescendiente,22.8,No,0.8,98,87,11.12,0.5,No presenta alteración tiroidea,Negativo
+58,F,False,Hispana/Mexicana,19.8,Sí,0.3,13,13,10.73,30,Hipotiroideo,Hipotiroidismo primario
+24,F,False,Afrodescendiente,33.5,No,1.9,110,92,19.6,11,Hipotiroideo,Hipotiroidismo compensado
+36,F,False,Hispana/Mexicana,22.8,Sí,0.3,8.4,10,19.89,25,Hipotiroideo,Hipotiroidismo primario
+39,F,False,Afrodescendiente,24.3,Sí,2.8,104,131,13.44,1.5,No presenta alteración tiroidea,Negativo
+30,F,False,Caucásica,29.7,No,1.7,98,93,98.45,1.3,No presenta alteración tiroidea,Negativo
+31,F,False,Caucásica,27.0,No,1.3,53,63,56.3,188,Hipotiroideo,Hipotiroidismo primario
+59,F,False,Caucásica,22.4,Sí,1.1,70,70,0.0,4.3,No presenta alteración tiroidea,Negativo
+19,M,False,Hispana/Mexicana,30.8,No,2.3,92,82,22.59,2.3,No presenta alteración tiroidea,Negativo
+33,M,False,Hispana/Mexicana,30.7,No,0.3,?,9.5,0.0,160,Hipotiroideo,Hipotiroidismo primario
+57,M,False,Hispana/Mexicana,29.9,No,1.3,66,52,90.7,24,Hipotiroideo,Hipotiroidismo compensado
+75,M,False,Hispana/Mexicana,33.7,Sí,0.3,4,5,15.34,49,Hipotiroideo,Hipotiroidismo primario
+39,M,False,Otra,20.5,No,4.1,138,131,27.83,0.105,Hipertiroideo,Tóxico T3
+24,F,False,Afrodescendiente,27.9,No,1.6,93,85,7.57,7.2,Hipotiroideo,Hipotiroidismo compensado
+29,F,False,Caucásica,26.9,No,2.2,80,85,30.22,0.1,No presenta alteración tiroidea,Negativo
+54,F,False,Caucásica,22.8,No,2,69,62,13.96,14,Hipotiroideo,Hipotiroidismo compensado
+68,F,False,Caucásica,24.6,No,2,108,152,59.25,2.6,No presenta alteración tiroidea,Negativo
+52,F,False,Afrodescendiente,32.7,No,2.3,85,106,4.48,8.799999,Hipotiroideo,Hipotiroidismo compensado
+23,F,True,Hispana/Mexicana,25.1,Sí,2.8,176,201,18.15,0.1,Hipertiroideo,Hipertiroidismo
+44,M,False,Caucásica,28.8,Sí,1.5,41,48,22.68,41,Hipotiroideo,Hipotiroidismo primario
+45,M,False,Hispana/Mexicana,27.9,No,2.5,113,114,10.6,1.9,No presenta alteración tiroidea,Negativo
+63,M,False,Caucásica,22.5,No,0.6,89,75,43.68,1.3,No presenta alteración tiroidea,Negativo
+58,M,False,Caucásica,28.1,No,1.3,98,83,33.13,8,Hipotiroideo,Hipotiroidismo compensado
+56,F,False,Otra,29.2,No,2.7,96,100,15.21,0.6,No presenta alteración tiroidea,Negativo
+61,F,False,Caucásica,25.4,Sí,0.4,126,81,23.76,9.8,Hipotiroideo,Hipotiroidismo compensado
+34,F,False,Hispana/Mexicana,29.3,Sí,2.3,119,120,9.81,1,No presenta alteración tiroidea,Negativo
+74,F,False,Hispana/Mexicana,21.3,No,?,112,97,24.43,6.9,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Afrodescendiente,22.7,No,1.6,78,68,21.57,14,Hipotiroideo,Hipotiroidismo compensado
+66,M,False,Afrodescendiente,22.3,No,1.7,131,127,32.57,7.5,Hipotiroideo,Hipotiroidismo compensado
+69,M,False,Hispana/Mexicana,29.5,Sí,1.1,81,99,88.35,0.26,No presenta alteración tiroidea,Negativo
+83,F,False,Caucásica,25.5,No,0.4,123,92,72.59,0.43,No presenta alteración tiroidea,Negativo
+64,F,False,Hispana/Mexicana,27.7,No,2,73,73,86.63,6.2,Hipotiroideo,Hipotiroidismo compensado
+75,M,False,Hispana/Mexicana,23.7,Sí,2,93,84,27.61,1.8,No presenta alteración tiroidea,Negativo
+44,M,False,Hispana/Mexicana,25.0,No,0.6,10,10,144.6,199,Hipotiroideo,Hipotiroidismo primario
+48,F,False,Otra,26.9,No,1.9,26,29,24.75,98,Hipotiroideo,Hipotiroidismo primario
+31,F,False,Hispana/Mexicana,26.0,No,0.6,31,32,11.56,166,Hipotiroideo,Hipotiroidismo primario
+74,F,False,Otra,22.5,No,0.9,129,92,17.48,0.65,No presenta alteración tiroidea,Negativo
+70,F,False,Caucásica,29.9,Sí,0.3,98,79,20.43,1.5,No presenta alteración tiroidea,Negativo
+80,M,False,Hispana/Mexicana,20.5,Sí,0.8,120,105,43.31,1.4,No presenta alteración tiroidea,Negativo
+59,F,False,Otra,37.4,No,2.5,195,161,0.0,0.04,Hipertiroideo,Hipertiroidismo
+76,F,False,Hispana/Mexicana,25.8,No,0.5,153,130,31.89,6.2,Hipotiroideo,Hipotiroidismo compensado
+78,F,False,Caucásica,27.9,No,0.9,60,50,8.29,25,Hipotiroideo,Hipotiroidismo primario
+74,F,False,Otra,23.4,No,0.9,133,104,29.43,0.3,No presenta alteración tiroidea,Negativo
+73,F,False,Hispana/Mexicana,25.1,Sí,1.7,97,112,140.42,17,Hipotiroideo,Hipotiroidismo compensado
+33,F,True,Hispana/Mexicana,25.5,No,2.2,85,120,20.69,3.9,No presenta alteración tiroidea,Negativo
+77,F,False,Caucásica,26.8,No,1.3,137,146,25.13,6.6,Hipotiroideo,Hipotiroidismo compensado
+61,F,False,Hispana/Mexicana,30.8,No,2.3,91,118,108.18,6.2,Hipotiroideo,Hipotiroidismo compensado
+78,F,False,Afrodescendiente,27.9,No,0.2,16,17,21.06,28,Hipotiroideo,Hipotiroidismo primario
+48,M,False,Caucásica,22.7,No,2.5,78,91,59.51,0.2,No presenta alteración tiroidea,Negativo
+47,F,False,Caucásica,25.1,No,4.3,176,189,20.71,0.15,Hipertiroideo,Hipertiroidismo
+36,F,False,Afrodescendiente,24.3,No,0.3,8.4,10,20.85,25,Hipotiroideo,Hipotiroidismo primario
+64,M,False,Afrodescendiente,26.9,No,1.5,124,133,9.15,4.6,No presenta alteración tiroidea,Negativo
+56,F,False,Caucásica,27.4,No,2.1,137,133,26.36,15,Hipotiroideo,Hipotiroidismo compensado
+56,M,False,Hispana/Mexicana,17.4,No,1,142,99,68.4,1.4,No presenta alteración tiroidea,Negativo
+39,M,False,Hispana/Mexicana,31.2,No,1.8,75,67,6.87,8.799999,Hipotiroideo,Hipotiroidismo compensado
+82,F,False,Caucásica,27.2,No,1.5,110,99,31.99,6.2,Hipotiroideo,Hipotiroidismo compensado
+32,M,False,Hispana/Mexicana,29.9,No,2.5,95,90,121.56,8.099999,Hipotiroideo,Hipotiroidismo compensado
+39,F,False,Caucásica,34.7,Sí,1.6,75,63,16.41,43,Hipotiroideo,Hipotiroidismo compensado
+19,M,False,Caucásica,20.4,No,2.9,167,135,57.18,2.1,No presenta alteración tiroidea,Negativo
+42,F,False,Caucásica,29.3,No,0.8,3.84,4.06,30.86,114,Hipotiroideo,Hipotiroidismo primario
+61,F,False,Hispana/Mexicana,23.9,No,?,93,126,17.97,6.9,Hipotiroideo,Hipotiroidismo compensado
+44,F,False,Caucásica,26.7,Sí,0.8,127,105,0.0,0.41,No presenta alteración tiroidea,Negativo
+74,F,False,Afrodescendiente,23.7,No,1,117,90,15.39,0.59,No presenta alteración tiroidea,Negativo
+68,F,False,Hispana/Mexicana,23.1,No,1.8,82,72,39.92,28,Hipotiroideo,Hipotiroidismo compensado
+73,M,False,Hispana/Mexicana,27.8,Sí,1,137,104,16.84,0.1,No presenta alteración tiroidea,Negativo
+51,F,False,Caucásica,24.4,No,1.7,100,95,51.63,0.9,No presenta alteración tiroidea,Negativo
+66,F,False,Hispana/Mexicana,31.2,No,1.8,81,91,29.69,0.2,No presenta alteración tiroidea,Negativo
+75,F,False,Hispana/Mexicana,36.3,No,2.3,94,83,96.78,0.77,No presenta alteración tiroidea,Negativo
+63,?,False,Caucásica,30.9,No,1.9,85,89,22.49,7.7,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Caucásica,30.2,Sí,1.9,80,85,66.07,9.3,Hipotiroideo,Hipotiroidismo compensado
+18,F,False,Caucásica,32.3,Sí,?,34,45,54.3,478,Hipotiroideo,Hipotiroidismo primario
+42,F,False,Caucásica,18.0,No,3.1,166,156,10.26,0.065,Hipertiroideo,Hipertiroidismo
+63,M,False,Hispana/Mexicana,24.6,Sí,2.1,120,129,19.38,1.5,No presenta alteración tiroidea,Negativo
+72,F,False,Hispana/Mexicana,21.9,No,?,180,161,5.9,?,Hipertiroideo,Hipertiroidismo
+68,F,False,Hispana/Mexicana,20.8,No,1.1,142,116,30.15,0.1,No presenta alteración tiroidea,Negativo
+66,M,False,Otra,23.1,No,0.3,119,72,21.43,0.045,No presenta alteración tiroidea,Negativo
+62,F,False,Afrodescendiente,26.1,No,0.8,137,124,25.68,0.2,No presenta alteración tiroidea,Negativo
+52,F,False,Caucásica,33.1,No,2,96,85,55.43,0.7,No presenta alteración tiroidea,Negativo
+29,F,False,Afrodescendiente,29.5,No,2.2,79,86,18.73,3,No presenta alteración tiroidea,Negativo
+45,F,False,Hispana/Mexicana,24.0,No,4.6,190,210,14.65,0.065,Hipertiroideo,Hipertiroidismo
+29,M,False,Caucásica,23.2,No,0.9,104,74,3.01,1.3,No presenta alteración tiroidea,Negativo
+61,F,False,Caucásica,23.7,No,0.8,99,74,18.33,0.04,No presenta alteración tiroidea,Negativo
+30,F,True,Afrodescendiente,20.9,No,2.2,95,124,14.64,0.5,No presenta alteración tiroidea,Negativo
+83,F,False,Caucásica,26.8,No,2.1,97,104,12.04,8.299999,Hipotiroideo,Hipotiroidismo compensado
+43,F,False,Caucásica,27.1,No,0.5,2.8,2.9,12.98,70,Hipotiroideo,Hipotiroidismo primario
+42,F,False,Afrodescendiente,31.2,No,1.1,67,60,1.34,3.5,No presenta alteración tiroidea,Negativo
+78,M,False,Afrodescendiente,21.8,No,0.7,118,72,11.0,0.1,No presenta alteración tiroidea,Negativo
+60,M,False,Otra,23.5,No,7.6,259,236,25.8,0.035,Hipertiroideo,Hipertiroidismo
+27,F,False,Caucásica,29.2,No,8.5,249,244,15.23,0.055,Hipertiroideo,Hipertiroidismo
+74,?,False,Caucásica,24.9,No,1.2,64,71,30.84,22,Hipotiroideo,Hipotiroidismo primario
+28,M,False,Afrodescendiente,25.4,No,3.1,103,107,28.3,1,No presenta alteración tiroidea,Negativo
+76,F,False,Caucásica,20.5,No,1,104,115,5.28,0.42,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,30.7,No,3.9,126,123,14.88,0.025,Hipertiroideo,Tóxico T3
+55,?,False,Afrodescendiente,21.9,Sí,0.6,22,21,8.76,24,Hipotiroideo,Hipotiroidismo primario
+69,F,False,Caucásica,22.6,Sí,1.1,113,102,26.71,1,No presenta alteración tiroidea,Negativo
+66,F,False,Caucásica,32.7,No,1.9,147,153,16.29,0.42,No presenta alteración tiroidea,Negativo
+71,F,False,Caucásica,28.1,Sí,2.5,140,167,28.77,0.09,No presenta alteración tiroidea,Negativo
+50,M,False,Hispana/Mexicana,21.9,Sí,1.4,36,41,13.37,80,Hipotiroideo,Hipotiroidismo primario
+73,F,False,Hispana/Mexicana,21.1,No,2.1,92,104,19.34,8.5,No presenta alteración tiroidea,Negativo
+34,F,False,Hispana/Mexicana,27.8,Sí,1.1,48,47,5.86,5.8,No presenta alteración tiroidea,Negativo
+90,M,False,Caucásica,28.4,Sí,1.7,144,118,51.84,0.15,No presenta alteración tiroidea,Negativo
+93,F,False,Caucásica,25.8,No,0.9,112,92,10.29,3,No presenta alteración tiroidea,Negativo
+55,F,False,Afrodescendiente,28.6,No,1.5,116,144,0.84,11,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Hispana/Mexicana,27.1,Sí,2.1,110,119,18.28,0.59,No presenta alteración tiroidea,Negativo
+55,F,False,Otra,24.2,No,2.8,114,189,17.66,0.05,No presenta alteración tiroidea,Negativo
+68,M,False,Afrodescendiente,28.4,No,0.6,17,15,0.0,55,Hipotiroideo,Hipotiroidismo primario
+21,F,False,Hispana/Mexicana,18.7,No,2,73,76,10.08,1.5,No presenta alteración tiroidea,Negativo
+59,F,False,Hispana/Mexicana,22.9,No,?,102,99,18.74,11.4,Hipotiroideo,Hipotiroidismo compensado
+79,M,False,Caucásica,27.4,No,1,99,81,57.9,3.7,No presenta alteración tiroidea,Negativo
+39,F,False,Hispana/Mexicana,21.2,No,2.8,104,131,49.82,1.5,No presenta alteración tiroidea,Negativo
+83,F,False,Caucásica,28.0,No,1.5,100,94,63.14,12,Hipotiroideo,Hipotiroidismo compensado
+58,F,False,Caucásica,22.8,No,2.1,63,68,4.62,18,Hipotiroideo,Hipotiroidismo primario
+29,F,False,Afrodescendiente,21.2,No,0.9,72,54,1.98,0.2,No presenta alteración tiroidea,Negativo
+54,F,False,Caucásica,28.0,No,2,92,88,50.53,1.9,No presenta alteración tiroidea,Negativo
+18,F,False,Afrodescendiente,28.7,No,2.4,131,220,21.34,9.6,No presenta alteración tiroidea,Negativo
+73,M,False,Hispana/Mexicana,26.6,No,0.7,118,110,32.46,0.5,No presenta alteración tiroidea,Negativo
+21,M,False,Hispana/Mexicana,22.8,No,1.3,51,54,19.15,0.25,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,20.1,No,2.9,217,198,34.96,0.015,Hipertiroideo,Hipertiroidismo
+62,F,False,Caucásica,26.6,No,2,65,65,7.08,31,Hipotiroideo,Hipotiroidismo compensado
+65,M,False,Caucásica,22.8,No,1.5,72,61,11.13,14.799999,Hipotiroideo,Hipotiroidismo compensado
+62,M,False,Otra,30.4,No,0.8,104,110,27.75,0.4,No presenta alteración tiroidea,Negativo
+25,M,False,Caucásica,26.7,No,2.2,113,109,36.4,8.8,Hipotiroideo,Hipotiroidismo compensado
+70,M,False,Hispana/Mexicana,32.4,No,1.1,152,94,68.74,2.9,No presenta alteración tiroidea,Negativo
+42,M,False,Afrodescendiente,27.2,No,0.8,33,28,23.04,52,Hipotiroideo,Hipotiroidismo primario
+75,F,False,Hispana/Mexicana,20.9,No,1.6,109,102,35.19,1.6,No presenta alteración tiroidea,Negativo
+75,F,False,Caucásica,31.3,No,1.4,122,115,4.93,6.6,Hipotiroideo,Hipotiroidismo compensado
+54,F,False,Caucásica,25.6,No,2.2,81,83,4.92,19,Hipotiroideo,Hipotiroidismo compensado
+21,F,False,Hispana/Mexicana,28.9,No,1.4,83,82,94.04,11,Hipotiroideo,Hipotiroidismo compensado
+16,F,False,Caucásica,28.1,Sí,?,94,108,99.91,6.2,Hipotiroideo,Hipotiroidismo compensado
+27,F,False,Caucásica,30.1,Sí,?,103,87,26.69,13,Hipotiroideo,Hipotiroidismo compensado
+65,F,False,Afrodescendiente,24.0,No,1,113,88,17.49,3.8,No presenta alteración tiroidea,Negativo
+45,F,False,Caucásica,26.4,No,2.1,67,83,33.73,15,Hipotiroideo,Hipotiroidismo compensado
+18,F,False,Caucásica,14.5,No,?,105,118,4.92,41,Hipotiroideo,Hipotiroidismo compensado
+76,M,False,Caucásica,27.2,No,0.4,102,88,22.48,2.1,No presenta alteración tiroidea,Negativo
+12,M,False,Afrodescendiente,30.6,No,2.3,190,152,29.03,0.02,No presenta alteración tiroidea,Negativo
+11,M,False,Caucásica,24.4,No,0.7,140,95,26.47,4,No presenta alteración tiroidea,Negativo
+82,F,False,Hispana/Mexicana,25.4,No,0.8,138,102,45.62,0.4,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,22.5,No,1.7,143,127,20.44,0.03,No presenta alteración tiroidea,Negativo
+73,F,False,Hispana/Mexicana,30.9,No,1,117,101,0.0,0.01,No presenta alteración tiroidea,Negativo
+40,F,False,Afrodescendiente,28.0,No,1.5,109,113,15.51,9.2,No presenta alteración tiroidea,Negativo
+56,M,False,Hispana/Mexicana,20.0,Sí,0.5,5.5,5,14.03,74,Hipotiroideo,Hipotiroidismo primario
+83,F,False,Hispana/Mexicana,22.1,Sí,0.9,93,69,19.64,2.2,No presenta alteración tiroidea,Negativo
+74,F,False,Caucásica,36.8,Sí,0.7,93,82,13.58,1.6,No presenta alteración tiroidea,Negativo
+69,F,False,Caucásica,25.8,Sí,1.3,83,88,14.77,11.099999,Hipotiroideo,Hipotiroidismo compensado
+39,?,False,Otra,23.8,No,0.5,70,77,11.51,1.7,No presenta alteración tiroidea,Negativo
+62,F,False,Caucásica,18.8,No,2.2,85,99,17.48,6.6,Hipotiroideo,Hipotiroidismo compensado
+73,F,False,Caucásica,25.0,No,0.7,120,111,21.26,9.9,Hipotiroideo,Hipotiroidismo compensado
+60,M,False,Caucásica,22.0,No,2.6,103,109,18.19,11,Hipotiroideo,Hipotiroidismo compensado
+61,F,False,Caucásica,21.8,No,1.5,110,97,14.89,6,No presenta alteración tiroidea,Negativo
+59,F,False,Afrodescendiente,16.3,No,5.7,291,372,3.52,0.025,No presenta alteración tiroidea,Negativo
+35,M,False,Caucásica,20.3,Sí,0.4,35,38,24.99,0.25,No presenta alteración tiroidea,Negativo
+82,F,False,Hispana/Mexicana,25.7,Sí,0.5,104,100,28.89,1.6,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,26.1,No,1.1,58,52,31.23,47,Hipotiroideo,Hipotiroidismo primario
+48,M,False,Hispana/Mexicana,20.7,No,0.6,98,65,89.33,4.4,No presenta alteración tiroidea,Negativo
+53,F,False,Caucásica,25.5,Sí,0.4,64,39,9.91,25,Hipotiroideo,Hipotiroidismo primario
+49,M,False,Afrodescendiente,25.1,No,0.4,2.4,2.9,20.38,96,Hipotiroideo,Hipotiroidismo primario
+71,F,False,Otra,32.1,No,0.3,81,73,27.36,1.6,No presenta alteración tiroidea,Negativo
+75,F,False,Afrodescendiente,21.1,No,1.8,138,134,17.08,0.33,No presenta alteración tiroidea,Negativo
+89,M,False,Caucásica,20.8,Sí,2.4,110,105,9.26,0.9,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,30.0,No,4.3,299,230,20.54,0.1,Hipertiroideo,Hipertiroidismo
+27,F,False,Otra,28.6,No,5.3,281,272,19.56,0.02,Hipertiroideo,Hipertiroidismo
+55,F,False,Caucásica,32.0,Sí,4.4,237,195,16.66,0.035,Hipertiroideo,Hipertiroidismo
+63,M,False,Caucásica,22.7,Sí,0.4,14,14,18.4,108,Hipotiroideo,Hipotiroidismo primario
+29,F,False,Caucásica,25.3,No,2.2,79,86,25.88,3,No presenta alteración tiroidea,Negativo
+71,F,False,Hispana/Mexicana,24.9,No,1.6,152,122,4.62,0.2,No presenta alteración tiroidea,Negativo
+86,F,False,Afrodescendiente,38.5,No,0.9,131,119,17.96,0.12,No presenta alteración tiroidea,Negativo
+47,F,False,Otra,24.2,No,1,148,141,12.45,0.75,No presenta alteración tiroidea,Negativo
+45,F,False,Hispana/Mexicana,28.7,Sí,4.6,190,210,18.73,0.065,Hipertiroideo,Hipertiroidismo
+66,M,False,Caucásica,34.9,No,0.3,71,70,23.2,5.4,No presenta alteración tiroidea,Negativo
+75,F,False,Hispana/Mexicana,17.5,No,2.3,94,83,1.63,0.77,No presenta alteración tiroidea,Negativo
+64,F,False,Caucásica,25.3,No,0.8,102,99,63.88,10,Hipotiroideo,Hipotiroidismo compensado
+79,M,False,Hispana/Mexicana,30.7,No,1.7,117,112,69.55,2.1,No presenta alteración tiroidea,Negativo
+71,F,False,Hispana/Mexicana,23.5,No,0.6,90,49,128.47,0.56,No presenta alteración tiroidea,Negativo
+57,F,False,Afrodescendiente,27.2,No,4.2,214,235,15.81,0.065,Hipertiroideo,Hipertiroidismo
+23,M,False,Hispana/Mexicana,22.9,Sí,1.9,97,77,25.99,1.8,No presenta alteración tiroidea,Negativo
+84,F,False,Caucásica,30.3,No,2,170,134,23.37,0.25,No presenta alteración tiroidea,Negativo
+64,F,False,Caucásica,23.8,Sí,1.1,90,99,20.21,0.85,No presenta alteración tiroidea,Negativo
+74,F,False,Afrodescendiente,21.4,No,2,81,89,59.55,22,Hipotiroideo,Hipotiroidismo compensado
+55,M,False,Caucásica,21.6,Sí,1,145,142,26.05,0.3,No presenta alteración tiroidea,Negativo
+79,F,False,Afrodescendiente,22.1,No,1.1,131,106,0.79,0.81,No presenta alteración tiroidea,Negativo
+28,M,False,Hispana/Mexicana,30.6,No,2.4,111,110,22.34,1.4,No presenta alteración tiroidea,Negativo
+55,M,False,Afrodescendiente,27.4,No,2.3,80,86,10.68,3.4,No presenta alteración tiroidea,Negativo
+51,F,False,Hispana/Mexicana,21.0,No,0.6,5.5,5,27.98,106,Hipotiroideo,Hipotiroidismo primario
+42,M,False,Afrodescendiente,28.0,Sí,3.1,149,119,20.67,0.045,Hipertiroideo,Tóxico T3
+67,F,False,Hispana/Mexicana,18.5,No,0.7,102,79,61.24,1.7,No presenta alteración tiroidea,Negativo
+35,M,False,Hispana/Mexicana,24.4,No,2.6,91,102,16.69,2,No presenta alteración tiroidea,Negativo
+76,F,False,Caucásica,31.6,Sí,?,70,83,8.83,39,Hipotiroideo,Hipotiroidismo compensado
+53,F,False,Hispana/Mexicana,20.2,Sí,1.3,82,77,0.0,14,Hipotiroideo,Hipotiroidismo compensado
+53,F,False,Caucásica,19.8,Sí,4.3,247,250,11.55,0.02,Hipertiroideo,Hipertiroidismo
+50,F,False,Caucásica,24.0,Sí,0.4,15,17,0.0,117,Hipotiroideo,Hipotiroidismo primario
+56,F,False,Hispana/Mexicana,28.5,No,1.4,85,62,32.57,1.9,No presenta alteración tiroidea,Negativo
+60,F,False,Hispana/Mexicana,28.8,No,1,94,80,77.53,0.3,No presenta alteración tiroidea,Negativo
+59,F,False,Caucásica,30.8,No,1.5,79,89,38.09,11,Hipotiroideo,Hipotiroidismo compensado
+74,M,False,Afrodescendiente,23.5,No,0.9,100,99,17.16,1.2,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,25.7,Sí,2.1,79,80,40.45,8.2,Hipotiroideo,Hipotiroidismo compensado
+76,F,False,Caucásica,24.0,No,0.9,100,100,25.73,0.04,No presenta alteración tiroidea,Negativo
+21,M,False,Hispana/Mexicana,20.0,No,1.5,118,107,72.88,22,Hipotiroideo,Hipotiroidismo compensado
+63,F,False,Hispana/Mexicana,28.1,Sí,2.3,108,146,70.84,1.8,No presenta alteración tiroidea,Negativo
+71,F,False,Caucásica,26.9,Sí,1,97,87,88.93,2.6,No presenta alteración tiroidea,Negativo
+36,F,False,Otra,25.9,No,2.3,104,99,13.55,0.25,No presenta alteración tiroidea,Negativo
+58,F,False,Caucásica,31.8,Sí,1.9,34,38,11.32,59,Hipotiroideo,Hipotiroidismo primario
+21,F,False,Caucásica,20.4,Sí,1.6,102,95,12.62,1.4,No presenta alteración tiroidea,Negativo
+53,F,False,Caucásica,24.7,No,0.4,154,83,2.33,0.33,No presenta alteración tiroidea,Negativo
+32,M,False,Afrodescendiente,26.1,Sí,0.2,3,3,15.76,109,Hipotiroideo,Hipotiroidismo primario
+70,F,False,Afrodescendiente,24.0,No,2.6,180,160,14.35,0.005,No presenta alteración tiroidea,Negativo
+37,F,False,Caucásica,21.0,No,1.8,76,78,15.93,2.3,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,42.6,No,0.7,120,86,16.36,6.5,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Caucásica,25.4,No,1,124,102,25.31,0.13,No presenta alteración tiroidea,Negativo
+67,F,False,Caucásica,28.9,No,1.2,71,65,26.39,52,Hipotiroideo,Hipotiroidismo compensado
+56,M,False,Hispana/Mexicana,34.2,No,1.9,109,94,34.56,14,Hipotiroideo,Hipotiroidismo compensado
+65,M,False,Caucásica,26.9,No,1.9,137,134,12.66,0.2,No presenta alteración tiroidea,Negativo
+68,?,False,Hispana/Mexicana,30.7,No,0.3,7.6,6,55.71,26,Hipotiroideo,Hipotiroidismo primario
+36,?,False,Hispana/Mexicana,22.1,No,1.1,141,131,48.4,0.25,No presenta alteración tiroidea,Negativo
+35,M,False,Otra,26.3,No,1.7,115,114,12.92,0.035,No presenta alteración tiroidea,Negativo
+70,F,False,Caucásica,24.3,No,2.3,139,180,30.23,2.1,No presenta alteración tiroidea,Negativo
+53,F,False,Caucásica,26.4,Sí,1.1,121,90,6.35,0.15,No presenta alteración tiroidea,Negativo
+78,M,False,Afrodescendiente,26.8,No,1,109,86,16.52,1.6,No presenta alteración tiroidea,Negativo
+62,F,False,Hispana/Mexicana,26.6,No,2.6,124,128,16.7,0.035,No presenta alteración tiroidea,Negativo
+34,F,False,Hispana/Mexicana,31.3,No,3.1,97,142,17.37,0.035,No presenta alteración tiroidea,Negativo
+53,F,False,Hispana/Mexicana,34.1,No,1,108,65,16.27,0.04,No presenta alteración tiroidea,Negativo
+85,F,False,Afrodescendiente,30.1,Sí,0.3,39,24,19.55,114,Hipotiroideo,Hipotiroidismo primario
+36,F,False,Caucásica,43.5,No,0.9,148,87,8.5,0.6,No presenta alteración tiroidea,Negativo
+29,F,False,Hispana/Mexicana,26.5,No,0.6,148,79,23.58,0.45,No presenta alteración tiroidea,Negativo
+47,M,False,Caucásica,22.8,No,0.5,4,6,109.43,176,Hipotiroideo,Hipotiroidismo primario
+77,M,False,Hispana/Mexicana,27.4,No,1.2,44,57,15.72,7.3,Hipotiroideo,Hipotiroidismo primario
+79,F,False,Afrodescendiente,23.0,No,1.3,100,92,12.79,2.4,No presenta alteración tiroidea,Negativo
+54,?,False,Caucásica,25.5,No,3.6,115,142,0.0,0.01,Hipertiroideo,Tóxico T3
+53,F,False,Afrodescendiente,24.4,No,2.4,103,132,42.72,8.1,Hipotiroideo,Hipotiroidismo compensado
+34,F,False,Hispana/Mexicana,24.1,Sí,5.1,122,138,0.0,0.065,Hipertiroideo,Tóxico T3
+54,M,False,Otra,25.3,No,1.9,110,102,26.73,0.1,No presenta alteración tiroidea,Negativo
+83,F,False,Caucásica,29.6,No,1.2,114,95,73.56,0.6,No presenta alteración tiroidea,Negativo
+74,?,False,Caucásica,26.1,No,1.2,64,71,15.55,22,Hipotiroideo,Hipotiroidismo primario
+73,F,False,Caucásica,30.9,Sí,1.5,153,113,33.28,0.88,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,26.7,No,1.3,37,39,41.75,126,Hipotiroideo,Hipotiroidismo primario
+77,F,False,Afrodescendiente,25.8,No,1.8,100,104,18.61,1.3,No presenta alteración tiroidea,Negativo
+44,M,False,Caucásica,22.7,No,1.4,33,39,34.11,45,Hipotiroideo,Hipotiroidismo primario
+75,M,False,Caucásica,26.2,No,0.2,139,78,0.0,2.4,No presenta alteración tiroidea,Negativo
+42,F,False,Afrodescendiente,26.9,Sí,1.7,81,72,21.48,6.2,Hipotiroideo,Hipotiroidismo compensado
+43,M,False,Otra,24.0,No,3,155,130,22.55,0.005,Hipertiroideo,Tóxico T3
+36,F,False,Otra,27.6,No,2,17,19,26.43,4.7,No presenta alteración tiroidea,Negativo
+58,M,False,Afrodescendiente,28.5,No,0.9,106,83,18.45,1.1,No presenta alteración tiroidea,Negativo
+28,M,False,Hispana/Mexicana,38.7,No,2.2,87,82,117.8,2.2,No presenta alteración tiroidea,Negativo
+62,F,False,Afrodescendiente,28.5,No,6.6,197,169,21.7,0.3,Hipertiroideo,Hipertiroidismo
+82,M,False,Otra,40.0,No,1.6,91,92,12.01,6.6,Hipotiroideo,Hipotiroidismo compensado
+27,M,False,Caucásica,20.9,Sí,1.7,145,135,27.44,9.099999,Hipotiroideo,Hipotiroidismo compensado
+70,M,False,Hispana/Mexicana,27.6,No,1.3,112,105,0.0,3,No presenta alteración tiroidea,Negativo
+50,F,False,Caucásica,28.2,Sí,1.5,124,146,13.19,0.3,No presenta alteración tiroidea,Negativo
+69,M,False,Caucásica,22.6,No,1,86,106,22.53,0.16,No presenta alteración tiroidea,Negativo
+50,F,False,Otra,32.0,No,2.4,20,25,16.62,58,Hipotiroideo,Hipotiroidismo primario
+54,F,False,Caucásica,28.1,No,1.5,62,52,32.58,22,Hipotiroideo,Hipotiroidismo primario
+55,F,False,Caucásica,27.3,No,5.5,274,219,39.77,0.01,Hipertiroideo,Hipertiroidismo
+85,F,False,Afrodescendiente,34.8,No,0.9,107,111,15.08,1.3,No presenta alteración tiroidea,Negativo
+36,M,False,Caucásica,19.9,No,4.1,178,153,46.4,0.07,Hipertiroideo,Hipertiroidismo
+29,M,False,Hispana/Mexicana,29.3,No,0.9,104,74,12.63,1.3,No presenta alteración tiroidea,Negativo
+77,M,False,Caucásica,20.9,No,0.5,62,54,16.31,1.3,No presenta alteración tiroidea,Negativo
+24,M,False,Hispana/Mexicana,22.7,No,0.2,4,4,0.0,400,Hipotiroideo,Hipotiroidismo primario
+53,F,False,Afrodescendiente,18.7,No,0.4,14,17,3.7,165,Hipotiroideo,Hipotiroidismo primario
+54,F,False,Hispana/Mexicana,25.2,No,2.2,74,81,11.06,10,Hipotiroideo,Hipotiroidismo compensado
+62,M,False,Caucásica,28.4,No,0.7,96,71,29.83,0.1,No presenta alteración tiroidea,Negativo
+33,M,False,Otra,19.2,No,1.5,86,86,8.7,12,Hipotiroideo,Hipotiroidismo compensado
+60,M,False,Caucásica,28.8,Sí,0.8,52,44,52.27,1.2,No presenta alteración tiroidea,Negativo
+57,F,False,Caucásica,17.4,Sí,0.7,153,141,49.89,0.2,No presenta alteración tiroidea,Negativo
+85,M,False,Hispana/Mexicana,22.7,Sí,1.2,117,93,26.5,0.5,No presenta alteración tiroidea,Negativo
+50,F,False,Otra,28.4,Sí,0.4,15,17,10.26,117,Hipotiroideo,Hipotiroidismo primario
+38,F,False,Caucásica,37.0,Sí,2.2,92,88,98.53,0.5,No presenta alteración tiroidea,Negativo
+27,F,False,Otra,21.0,No,8.5,249,244,28.97,0.055,No presenta alteración tiroidea,Negativo
+55,M,False,Afrodescendiente,28.7,No,0.93,135,89,16.49,1.8,No presenta alteración tiroidea,Negativo
+32,M,False,Caucásica,35.2,Sí,2.4,101,121,6.67,1,No presenta alteración tiroidea,Negativo
+42,F,False,Afrodescendiente,22.5,No,2.1,104,123,16.57,7.2,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Hispana/Mexicana,20.4,No,1.8,108,90,12.65,2.2,No presenta alteración tiroidea,Negativo
+28,F,False,Hispana/Mexicana,24.4,No,2.9,143,171,24.3,0.3,No presenta alteración tiroidea,Negativo
+73,M,False,Hispana/Mexicana,29.8,Sí,1.1,89,62,15.43,2.7,No presenta alteración tiroidea,Negativo
+72,F,False,Hispana/Mexicana,27.7,No,0.5,41,35,27.22,4.9,No presenta alteración tiroidea,Negativo
+15,F,False,Caucásica,31.0,Sí,1.7,17,19,37.99,145,Hipotiroideo,Hipotiroidismo primario
+79,F,False,Afrodescendiente,31.7,No,1.6,65,66,20.64,17,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Caucásica,29.0,No,1.4,87,77,1.88,9.4,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Caucásica,28.5,No,1,80,61,74.16,2,No presenta alteración tiroidea,Negativo
+62,M,False,Hispana/Mexicana,20.4,No,1.5,122,105,17.27,12,Hipotiroideo,Hipotiroidismo compensado
+27,F,False,Caucásica,25.5,No,2,102,93,23.94,1.4,No presenta alteración tiroidea,Negativo
+69,F,False,Caucásica,27.6,Sí,1.9,95,89,7.02,6.2,Hipotiroideo,Hipotiroidismo compensado
+85,M,False,Hispana/Mexicana,20.8,Sí,0.8,125,80,24.25,0.1,No presenta alteración tiroidea,Negativo
+68,M,False,Caucásica,22.4,Sí,0.6,17,15,3.52,55,Hipotiroideo,Hipotiroidismo primario
+54,F,False,Hispana/Mexicana,24.6,No,2,96,95,33.71,0.7,No presenta alteración tiroidea,Negativo
+87,F,False,Afrodescendiente,28.1,No,1.1,116,64,8.18,3.3,No presenta alteración tiroidea,Negativo
+52,M,False,Caucásica,35.9,No,1.2,140,126,0.0,9.599999,Hipotiroideo,Hipotiroidismo compensado
+15,F,False,Caucásica,26.8,No,1.7,17,19,17.88,145,No presenta alteración tiroidea,Negativo
+73,M,False,Caucásica,25.5,Sí,1,108,96,78.43,0.25,No presenta alteración tiroidea,Negativo
+66,F,False,Afrodescendiente,25.1,No,2.1,74,79,8.55,3.8,No presenta alteración tiroidea,Negativo
+77,F,False,Caucásica,30.7,No,2.7,159,155,96.7,0.02,Hipertiroideo,Hipertiroidismo
+83,M,False,Caucásica,22.3,No,0.9,84,56,33.41,2.3,No presenta alteración tiroidea,Negativo
+69,F,False,Hispana/Mexicana,31.6,No,1.8,51,45,0.81,6.5,Hipotiroideo,Hipotiroidismo primario
+33,M,False,Hispana/Mexicana,26.3,No,2.1,93,69,21.94,1.9,No presenta alteración tiroidea,Negativo
+78,F,False,Afrodescendiente,32.2,No,1.1,142,126,17.4,3.2,No presenta alteración tiroidea,Negativo
+40,F,False,Hispana/Mexicana,21.3,No,2.3,112,111,32.28,7.2,Hipotiroideo,Hipotiroidismo compensado
+69,F,False,Afrodescendiente,20.3,No,2.3,127,135,12.76,1.2,No presenta alteración tiroidea,Negativo
+39,F,False,Hispana/Mexicana,20.8,No,2,79,89,16.31,2.1,No presenta alteración tiroidea,Negativo
+68,M,False,Hispana/Mexicana,22.7,No,2.9,90,90,9.08,1.9,No presenta alteración tiroidea,Negativo
+65,F,False,Hispana/Mexicana,26.7,No,1,43,50,12.14,55,Hipotiroideo,Hipotiroidismo primario
+68,F,False,Caucásica,20.5,Sí,1.4,67,68,1.15,16,Hipotiroideo,Hipotiroidismo compensado
+62,M,False,Caucásica,21.9,Sí,0.4,10,10,18.0,100,Hipotiroideo,Hipotiroidismo primario
+55,M,False,Hispana/Mexicana,18.3,Sí,0.7,13,14,15.47,60,Hipotiroideo,Hipotiroidismo primario
+65,M,False,Caucásica,25.0,No,2.1,156,154,95.3,2,No presenta alteración tiroidea,Negativo
+53,F,False,Caucásica,19.2,Sí,1.4,11,14,13.81,183,Hipotiroideo,Hipotiroidismo primario
+52,F,False,Caucásica,25.3,No,2.1,70,77,7.82,35,Hipotiroideo,Hipotiroidismo compensado
+66,F,False,Afrodescendiente,22.0,No,2,107,123,42.11,0.31,No presenta alteración tiroidea,Negativo
+75,F,False,Afrodescendiente,21.3,Sí,1.3,103,88,27.24,2.3,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,32.1,No,2,188,192,17.21,0.1,No presenta alteración tiroidea,Negativo
+71,M,False,Otra,26.0,Sí,?,100,66,18.42,8,Hipotiroideo,Hipotiroidismo compensado
+19,F,False,Caucásica,24.9,No,2.7,97,108,17.1,8.8,Hipotiroideo,Hipotiroidismo compensado
+67,F,False,Afrodescendiente,22.7,No,0.2,138,99,17.45,2.6,No presenta alteración tiroidea,Negativo
+62,M,False,Hispana/Mexicana,31.3,No,1,134,90,148.43,0.88,No presenta alteración tiroidea,Negativo
+78,F,False,Caucásica,24.7,No,1.1,65,56,47.04,6.3,Hipotiroideo,Hipotiroidismo compensado
+77,F,False,Caucásica,20.0,Sí,0.9,129,105,34.23,3.1,No presenta alteración tiroidea,Negativo
+64,F,False,Caucásica,27.7,No,1.2,89,67,87.38,8.9,Hipotiroideo,Hipotiroidismo compensado
+85,M,False,Caucásica,25.2,No,0.6,129,124,7.33,1.4,No presenta alteración tiroidea,Negativo
+50,F,False,Afrodescendiente,29.3,No,2.2,74,75,16.61,40,Hipotiroideo,Hipotiroidismo compensado
+65,F,False,Caucásica,31.5,No,2.3,124,113,20.84,0.47,No presenta alteración tiroidea,Negativo
+59,M,False,Caucásica,19.9,No,0.8,92,99,1.91,2.3,No presenta alteración tiroidea,Negativo
+18,F,False,Otra,20.2,No,2.2,98,94,17.69,12,Hipotiroideo,Hipotiroidismo compensado
+49,M,False,Hispana/Mexicana,28.9,No,0.7,104,82,33.98,4.9,No presenta alteración tiroidea,Negativo
+68,F,False,Caucásica,30.6,No,0.2,16,18,42.93,42,Hipotiroideo,Hipotiroidismo primario
+69,F,False,Afrodescendiente,29.8,No,2.2,?,77,15.73,6.8,Hipotiroideo,Hipotiroidismo compensado
+66,F,False,Hispana/Mexicana,28.3,No,2.4,100,100,56.58,0.6,No presenta alteración tiroidea,Negativo
+79,M,False,Hispana/Mexicana,29.0,Sí,4.1,204,160,94.87,0.03,Hipertiroideo,Hipertiroidismo
+59,M,False,Hispana/Mexicana,24.6,No,1.9,134,133,9.04,2.4,No presenta alteración tiroidea,Negativo
+76,M,False,Caucásica,37.6,No,1.1,101,94,45.93,0.8,No presenta alteración tiroidea,Negativo
+59,F,False,Afrodescendiente,24.0,No,2,8.5,10,21.12,530,Hipotiroideo,Hipotiroidismo primario
+28,F,False,Hispana/Mexicana,23.1,No,0.9,40,36,10.31,139,Hipotiroideo,Hipotiroidismo primario
+53,M,False,Hispana/Mexicana,28.2,No,2,85,88,119.45,5.2,No presenta alteración tiroidea,Negativo
+75,M,False,Hispana/Mexicana,25.8,No,?,171,150,28.3,0.02,Hipertiroideo,Hipertiroidismo
+36,M,False,Afrodescendiente,29.7,No,4,156,178,3.39,0.03,Hipertiroideo,Hipertiroidismo
+84,M,False,Afrodescendiente,27.4,No,1.2,145,132,21.7,1.7,No presenta alteración tiroidea,Negativo
+21,F,False,Hispana/Mexicana,22.5,No,3.4,140,189,5.16,0.4,No presenta alteración tiroidea,Negativo
+40,?,False,Caucásica,26.7,No,1.7,87,78,15.71,34,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Hispana/Mexicana,30.6,No,1.8,84,87,19.4,9.2,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Hispana/Mexicana,26.6,No,1.8,84,87,113.92,9.2,Hipotiroideo,Hipotiroidismo compensado
+67,F,False,Caucásica,32.5,No,1.8,157,143,76.98,2.8,No presenta alteración tiroidea,Negativo
+25,M,False,Caucásica,28.6,Sí,3.3,172,164,29.3,0.1,Hipertiroideo,Hipertiroidismo
+69,F,False,Caucásica,19.3,No,1,61,51,17.21,20,Hipotiroideo,Hipotiroidismo primario
+48,M,False,Otra,21.0,No,2.7,101,110,15.04,2.4,No presenta alteración tiroidea,Negativo
+62,F,False,Caucásica,29.2,No,0.2,119,94,65.23,0.18,No presenta alteración tiroidea,Negativo
+52,F,False,Hispana/Mexicana,29.2,No,0.8,126,115,14.44,0.15,No presenta alteración tiroidea,Negativo
+65,F,False,Hispana/Mexicana,24.5,No,2.4,82,73,17.86,1.7,No presenta alteración tiroidea,Negativo
+52,F,False,Hispana/Mexicana,28.9,No,1.1,142,132,28.14,0.4,No presenta alteración tiroidea,Negativo
+37,F,False,Afrodescendiente,32.4,No,2.5,80,84,10.0,5.1,No presenta alteración tiroidea,Negativo
+89,M,False,Afrodescendiente,28.3,No,0.9,103,82,0.0,1.3,No presenta alteración tiroidea,Negativo
+30,F,False,Afrodescendiente,22.7,No,2.1,79,91,5.93,8.5,Hipotiroideo,Hipotiroidismo compensado
+52,F,False,Afrodescendiente,23.3,No,2.7,127,133,19.0,0.15,No presenta alteración tiroidea,Negativo
+33,M,False,Afrodescendiente,20.6,No,2.5,116,107,26.3,0.3,No presenta alteración tiroidea,Negativo
+63,M,False,Afrodescendiente,22.3,No,0.4,14,14,20.8,108,Hipotiroideo,Hipotiroidismo primario
+37,F,False,Caucásica,33.6,No,1.6,127,116,12.82,0.61,No presenta alteración tiroidea,Negativo
+58,F,False,Caucásica,18.3,No,3.4,136,129,23.32,0.065,Hipertiroideo,Tóxico T3
+65,M,False,Caucásica,29.5,No,0.6,105,61,0.0,1.2,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,19.8,Sí,1,89,73,62.97,0.5,No presenta alteración tiroidea,Negativo
+19,M,False,Caucásica,27.0,Sí,2,163,147,31.98,0.005,No presenta alteración tiroidea,Negativo
+62,F,False,Caucásica,23.4,No,1.8,76,97,152.33,6.5,No presenta alteración tiroidea,Negativo
+41,F,False,Afrodescendiente,30.3,No,0.4,6.6,9.7,14.17,53,Hipotiroideo,Hipotiroidismo primario
+22,F,False,Afrodescendiente,32.9,No,1.8,123,118,23.45,1.3,No presenta alteración tiroidea,Negativo
+68,?,False,Afrodescendiente,24.7,No,0.3,7.6,6,9.25,26,Hipotiroideo,Hipotiroidismo primario
+56,F,False,Caucásica,21.7,No,0.8,76,85,26.14,0.7,No presenta alteración tiroidea,Negativo
+58,F,False,Otra,23.2,Sí,2.6,128,132,21.79,0.05,No presenta alteración tiroidea,Negativo
+60,F,False,Otra,27.7,No,3.9,126,123,12.75,0.025,Hipertiroideo,Tóxico T3
+70,F,False,Hispana/Mexicana,28.1,No,2.1,127,136,48.52,0.08,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,27.4,No,1.6,64,60,9.25,42,Hipotiroideo,Hipotiroidismo primario
+48,M,False,Hispana/Mexicana,27.6,No,2.3,107,89,22.49,1.8,No presenta alteración tiroidea,Negativo
+71,M,False,Caucásica,21.0,No,1.4,103,66,23.09,6.3,Hipotiroideo,Hipotiroidismo compensado
+86,F,False,Afrodescendiente,27.2,No,2,126,79,10.46,0.05,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,23.6,No,1.3,82,106,53.0,13,No presenta alteración tiroidea,Negativo
+79,M,False,Hispana/Mexicana,26.2,No,4.1,204,160,100.22,0.03,Hipertiroideo,Hipertiroidismo
+58,F,False,Caucásica,16.7,No,3.9,188,181,9.96,0.005,Hipertiroideo,Hipertiroidismo
+64,F,False,Hispana/Mexicana,23.7,No,1.4,114,92,29.76,0.68,No presenta alteración tiroidea,Negativo
+42,F,False,Afrodescendiente,25.1,No,2.5,102,125,20.96,0.6,No presenta alteración tiroidea,Negativo
+74,F,False,Afrodescendiente,24.3,No,1.7,119,146,18.56,6.3,Hipotiroideo,Hipotiroidismo compensado
+35,M,False,Caucásica,39.9,No,2.3,106,98,47.04,1.5,No presenta alteración tiroidea,Negativo
+28,F,False,Caucásica,22.1,Sí,0.2,2,2,44.32,47,Hipotiroideo,Hipotiroidismo primario
+65,F,False,Otra,24.5,No,0.7,14,15,20.01,55,Hipotiroideo,Hipotiroidismo primario
+44,F,False,Hispana/Mexicana,24.9,No,2.9,119,164,9.28,1.9,No presenta alteración tiroidea,Negativo
+69,F,False,Afrodescendiente,29.7,No,0.8,61,53,17.58,21,Hipotiroideo,Hipotiroidismo primario
+89,M,False,Afrodescendiente,24.4,No,0.6,138,101,11.6,0.8,No presenta alteración tiroidea,Negativo
+62,F,False,Otra,21.3,No,1.7,68,72,25.59,24,Hipotiroideo,Hipotiroidismo compensado
+80,M,False,Hispana/Mexicana,25.3,Sí,1.8,114,111,5.52,0.2,No presenta alteración tiroidea,Negativo
+25,F,False,Caucásica,24.0,Sí,2.2,81,123,38.7,2,No presenta alteración tiroidea,Negativo
+55,M,False,Afrodescendiente,24.4,No,0.8,98,75,19.27,2.1,No presenta alteración tiroidea,Negativo
+75,F,False,Otra,25.2,No,0.05,93,106,13.99,0.8,No presenta alteración tiroidea,Negativo
+50,F,False,Caucásica,28.1,No,?,11,13,28.57,61,Hipotiroideo,Hipotiroidismo primario
+61,M,False,Caucásica,27.5,No,1.2,136,114,9.3,9.799999,Hipotiroideo,Hipotiroidismo compensado
+80,M,False,Afrodescendiente,30.2,No,0.5,129,76,4.49,2.6,No presenta alteración tiroidea,Negativo
+40,M,False,Afrodescendiente,27.1,No,1.8,108,92,10.85,1.4,No presenta alteración tiroidea,Negativo
+66,F,False,Afrodescendiente,31.1,No,4.9,290,249,22.44,0.04,Hipertiroideo,Hipertiroidismo
+84,M,False,Afrodescendiente,29.6,No,2.1,106,110,5.92,0.6,No presenta alteración tiroidea,Negativo
+31,F,False,Hispana/Mexicana,39.4,No,2.6,79,93,41.75,4.8,No presenta alteración tiroidea,Negativo
+77,F,False,Caucásica,26.2,No,13.299999,519,410,51.48,0.03,Hipertiroideo,Hipertiroidismo
+66,M,False,Hispana/Mexicana,26.3,No,1.9,86,72,23.19,0.9,No presenta alteración tiroidea,Negativo
+72,F,False,Hispana/Mexicana,37.3,No,1,95,82,11.5,0.74,No presenta alteración tiroidea,Negativo
+15,F,False,Caucásica,19.4,Sí,2,20,19,39.93,35,Hipotiroideo,Hipotiroidismo primario
+79,F,False,Hispana/Mexicana,36.3,No,0.9,145,90,16.36,3.9,No presenta alteración tiroidea,Negativo
+34,F,False,Otra,23.1,No,1.4,92,85,1.92,1.8,No presenta alteración tiroidea,Negativo
+55,F,False,Otra,29.2,No,1.9,114,132,32.98,1.7,No presenta alteración tiroidea,Negativo
+60,M,False,Hispana/Mexicana,30.1,No,4,67,68,114.29,0.2,Hipertiroideo,Tóxico T3
+38,F,False,Afrodescendiente,27.4,No,1.1,84,64,54.14,1.7,No presenta alteración tiroidea,Negativo
+63,M,False,Otra,28.8,No,2,117,120,7.57,7.4,Hipotiroideo,Hipotiroidismo compensado
+83,F,False,Caucásica,26.2,No,?,90,71,70.92,7,Hipotiroideo,Hipotiroidismo compensado
+66,F,False,Hispana/Mexicana,21.2,No,2.9,116,145,8.77,0.07,Hipertiroideo,Tóxico T3
+72,F,False,Hispana/Mexicana,29.8,No,4.9,176,192,8.54,0.035,Hipertiroideo,Hipertiroidismo
+42,F,False,Hispana/Mexicana,22.2,No,0.8,11,13,33.58,31,Hipotiroideo,Hipotiroidismo primario
+34,F,False,Caucásica,34.5,No,2,33,54,11.0,0.005,No presenta alteración tiroidea,Negativo
+37,F,False,Caucásica,24.5,No,2.1,115,87,30.94,3.1,No presenta alteración tiroidea,Negativo
+47,F,False,Hispana/Mexicana,39.0,Sí,1.2,138,117,25.92,0.79,No presenta alteración tiroidea,Negativo
+33,F,False,Caucásica,22.9,No,2,137,139,13.8,1.8,No presenta alteración tiroidea,Negativo
+52,M,False,Afrodescendiente,25.6,No,2.2,66,72,11.47,9.2,Hipotiroideo,Hipotiroidismo compensado
+32,F,False,Afrodescendiente,25.5,No,1.8,77,69,9.42,11,Hipotiroideo,Hipotiroidismo compensado
+77,F,False,Afrodescendiente,30.4,No,1.1,126,131,10.64,1.8,No presenta alteración tiroidea,Negativo
+48,M,False,Afrodescendiente,23.9,No,0.4,133,98,16.63,0.05,No presenta alteración tiroidea,Negativo
+76,F,False,Caucásica,26.8,Sí,0.8,104,78,37.56,0.25,No presenta alteración tiroidea,Negativo
+83,F,False,Afrodescendiente,25.5,No,0.7,93,71,7.27,2.2,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,16.6,No,0.9,144,137,14.81,3,No presenta alteración tiroidea,Negativo
+55,M,False,Afrodescendiente,30.0,No,2.3,97,88,19.42,6.1,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Caucásica,26.5,No,1.7,94,93,0.0,4.7,No presenta alteración tiroidea,Negativo
+71,F,False,Hispana/Mexicana,22.6,No,2.9,121,111,18.24,1.9,No presenta alteración tiroidea,Negativo
+70,M,False,Hispana/Mexicana,20.6,Sí,0.7,139,117,24.97,0.27,No presenta alteración tiroidea,Negativo
+16,F,False,Otra,31.5,No,?,76,98,48.5,9.7,Hipotiroideo,Hipotiroidismo compensado
+52,F,False,Caucásica,32.5,No,2.1,70,77,37.57,35,Hipotiroideo,Hipotiroidismo compensado
+41,M,False,Caucásica,25.8,No,2.8,97,110,13.76,2,No presenta alteración tiroidea,Negativo
+63,F,False,Hispana/Mexicana,16.1,No,2.1,79,80,43.78,8.2,Hipotiroideo,Hipotiroidismo compensado
+84,F,False,Caucásica,22.3,No,0.2,116,94,22.31,2.8,No presenta alteración tiroidea,Negativo
+54,F,False,Hispana/Mexicana,29.6,No,0.4,83,56,47.78,2.5,No presenta alteración tiroidea,Negativo
+82,M,False,Caucásica,38.3,No,1.4,134,133,0.0,0.15,No presenta alteración tiroidea,Negativo
+66,F,False,Afrodescendiente,24.1,No,0.5,3.1,4.2,16.39,48,Hipotiroideo,Hipotiroidismo primario
+69,F,False,Hispana/Mexicana,34.7,Sí,2.1,64,56,64.17,6.5,Hipotiroideo,Hipotiroidismo primario
+66,F,False,Hispana/Mexicana,29.4,Sí,0.6,133,110,37.78,0.25,No presenta alteración tiroidea,Negativo
+34,M,False,Caucásica,19.0,No,7.6,258,261,17.45,0.05,Hipertiroideo,Hipertiroidismo
+77,M,False,Otra,25.6,No,0.6,104,71,22.24,1.2,No presenta alteración tiroidea,Negativo
+73,M,False,Hispana/Mexicana,25.2,No,1.3,108,101,0.0,8,Hipotiroideo,Hipotiroidismo compensado
+61,F,False,Caucásica,23.1,No,2.3,91,118,0.97,6.2,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Otra,35.7,No,3.6,172,301,27.71,0.2,Hipertiroideo,Hipertiroidismo
+72,M,False,Otra,24.5,No,1,150,97,1.84,5.3,No presenta alteración tiroidea,Negativo
+16,F,False,Otra,22.7,No,1.7,5,5,9.15,252,Hipotiroideo,Hipotiroidismo primario
+52,M,False,Caucásica,18.6,No,2.2,66,72,16.14,9.2,Hipotiroideo,Hipotiroidismo compensado
+74,F,False,Caucásica,25.9,Sí,0.7,123,89,5.16,2.1,No presenta alteración tiroidea,Negativo
+45,F,False,Caucásica,24.7,Sí,1.4,100,108,19.38,7.4,No presenta alteración tiroidea,Negativo
+22,F,False,Caucásica,20.7,No,6.2,378,386,22.01,0.055,Hipertiroideo,Hipertiroidismo
+62,M,False,Caucásica,27.3,Sí,0.6,52,41,3.03,54,Hipotiroideo,Hipotiroidismo primario
+23,F,False,Caucásica,23.8,No,3.5,92,126,32.35,7.2,Hipotiroideo,Hipotiroidismo compensado
+67,M,False,Caucásica,25.3,Sí,0.4,140,80,62.91,2.6,No presenta alteración tiroidea,Negativo
+70,F,False,Afrodescendiente,27.9,No,1,110,112,11.13,1.7,No presenta alteración tiroidea,Negativo
+54,M,False,Afrodescendiente,24.6,No,2.4,106,106,15.07,2.3,No presenta alteración tiroidea,Negativo
+78,M,False,Caucásica,24.9,Sí,1,109,73,81.1,2.2,No presenta alteración tiroidea,Negativo
+54,F,False,Caucásica,27.9,Sí,1.3,70,78,82.32,0.94,No presenta alteración tiroidea,Negativo
+44,M,False,Hispana/Mexicana,19.2,Sí,?,95,87,16.87,16,Hipotiroideo,Hipotiroidismo compensado
+63,F,False,Otra,32.8,No,2.1,78,80,7.1,8.2,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Hispana/Mexicana,31.0,No,2.4,95,102,34.29,1.4,No presenta alteración tiroidea,Negativo
+54,M,False,Caucásica,21.0,Sí,1.9,104,89,3.79,1.2,No presenta alteración tiroidea,Negativo
+83,M,False,Afrodescendiente,26.0,No,1.1,93,66,32.22,2.8,No presenta alteración tiroidea,Negativo
+49,M,False,Afrodescendiente,18.7,No,2,98,94,21.45,0.2,No presenta alteración tiroidea,Negativo
+26,F,False,Otra,22.5,No,2.3,89,101,19.24,6.5,Hipotiroideo,Hipotiroidismo compensado
+22,F,False,Caucásica,28.2,No,1.9,109,101,2.21,2,No presenta alteración tiroidea,Negativo
+86,F,False,Hispana/Mexicana,33.6,Sí,0.7,114,97,75.63,3.4,No presenta alteración tiroidea,Negativo
+71,M,False,Caucásica,29.7,Sí,1,107,85,11.75,4.5,No presenta alteración tiroidea,Negativo
+74,F,False,Hispana/Mexicana,29.0,No,1.4,131,109,28.56,5.4,No presenta alteración tiroidea,Negativo
+52,F,False,Caucásica,30.5,No,1.4,114,117,83.79,5.1,No presenta alteración tiroidea,Negativo
+31,F,False,Afrodescendiente,26.0,No,2.5,54,58,13.53,20,Hipotiroideo,Hipotiroidismo primario
+73,F,False,Afrodescendiente,23.6,No,1,98,89,21.65,4.1,No presenta alteración tiroidea,Negativo
+57,M,False,Caucásica,29.1,No,2,77,91,51.22,0.2,No presenta alteración tiroidea,Negativo
+7,F,False,Caucásica,21.6,Sí,1.6,66,64,36.49,7.3,Hipotiroideo,Hipotiroidismo compensado
+59,F,False,Hispana/Mexicana,27.6,No,1.9,92,90,25.08,6.8,Hipotiroideo,Hipotiroidismo compensado
+62,F,False,Caucásica,23.0,No,1.7,68,72,16.8,24,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Hispana/Mexicana,20.2,No,1.8,90,89,32.73,9.9,Hipotiroideo,Hipotiroidismo compensado
+45,F,False,Caucásica,24.3,No,2.4,76,80,20.36,0.94,No presenta alteración tiroidea,Negativo
+53,F,False,Afrodescendiente,24.3,No,1.5,45,44,22.51,15.299999,Hipotiroideo,Hipotiroidismo primario
+23,F,False,Caucásica,28.6,No,2.9,235,205,26.96,0.01,Hipertiroideo,Hipertiroidismo
+67,F,False,Afrodescendiente,29.0,No,1.2,71,65,12.42,52,Hipotiroideo,Hipotiroidismo compensado
+28,M,False,Caucásica,21.6,No,2.7,108,100,22.27,3.1,No presenta alteración tiroidea,Negativo
+72,F,False,Hispana/Mexicana,25.3,No,4.4,211,192,105.44,0.25,Hipertiroideo,Hipertiroidismo
+71,F,False,Afrodescendiente,31.5,No,1.9,89,91,22.39,6.7,Hipotiroideo,Hipotiroidismo compensado
+42,F,False,Afrodescendiente,25.9,No,1.1,127,93,24.69,2.3,No presenta alteración tiroidea,Negativo
+50,F,False,Hispana/Mexicana,23.7,No,2,63,83,21.64,0.6,No presenta alteración tiroidea,Negativo
+66,M,False,Hispana/Mexicana,28.3,No,1.4,70,68,25.35,11,Hipotiroideo,Hipotiroidismo compensado
+43,F,False,Hispana/Mexicana,24.2,No,0.6,100,87,89.21,2.1,No presenta alteración tiroidea,Negativo
+50,F,False,Afrodescendiente,19.4,Sí,0.2,9,10,17.98,89,Hipotiroideo,Hipotiroidismo primario
+66,F,False,Hispana/Mexicana,28.4,No,1.6,88,113,0.0,53,Hipotiroideo,Hipotiroidismo compensado
+39,?,False,Caucásica,29.9,Sí,1.1,78,63,16.77,4.4,No presenta alteración tiroidea,Negativo
+66,F,False,Caucásica,18.0,Sí,1.8,93,118,16.14,85,Hipotiroideo,Hipotiroidismo compensado
+42,M,False,Hispana/Mexicana,26.3,Sí,1.2,51,44,28.38,6.8,Hipotiroideo,Hipotiroidismo primario
+78,F,False,Hispana/Mexicana,21.5,No,1.7,119,114,17.34,0.99,No presenta alteración tiroidea,Negativo
+77,F,False,Otra,29.3,No,0.4,79,64,15.57,1.7,No presenta alteración tiroidea,Negativo
+62,M,False,Caucásica,27.8,No,1.7,97,65,23.14,17,Hipotiroideo,Hipotiroidismo compensado
+54,F,False,Hispana/Mexicana,34.7,No,0.7,105,76,98.05,3.3,No presenta alteración tiroidea,Negativo
+76,F,False,Hispana/Mexicana,33.4,No,1.2,101,86,11.49,11,Hipotiroideo,Hipotiroidismo compensado
+60,M,False,Caucásica,27.9,No,2,71,69,62.83,26,Hipotiroideo,Hipotiroidismo compensado
+46,F,False,Afrodescendiente,25.5,No,2,104,106,10.97,1.9,No presenta alteración tiroidea,Negativo
+62,F,False,Hispana/Mexicana,23.2,Sí,1.6,32,34,48.84,150,Hipotiroideo,Hipotiroidismo primario
+58,F,False,Caucásica,32.2,No,2.1,89,82,88.1,5.5,No presenta alteración tiroidea,Negativo
+19,M,False,Caucásica,21.2,No,1.1,129,105,26.4,1.5,No presenta alteración tiroidea,Negativo
+63,F,False,Afrodescendiente,21.5,No,1.9,92,90,12.48,4.9,No presenta alteración tiroidea,Negativo
+60,M,False,Afrodescendiente,35.4,No,2,71,69,22.69,26,Hipotiroideo,Hipotiroidismo compensado
+74,M,False,Hispana/Mexicana,30.9,No,2.1,147,149,3.82,2.6,No presenta alteración tiroidea,Negativo
+24,M,False,Caucásica,23.0,No,2.8,121,110,29.56,0.77,No presenta alteración tiroidea,Negativo
+34,F,False,Afrodescendiente,26.0,No,?,103,116,14.43,6.2,Hipotiroideo,Hipotiroidismo compensado
+86,F,False,Afrodescendiente,29.0,No,2,126,79,54.59,0.05,No presenta alteración tiroidea,Negativo
+69,F,False,Caucásica,23.7,Sí,2.4,152,127,24.97,0.01,No presenta alteración tiroidea,Negativo
+78,F,False,Caucásica,21.6,No,0.9,144,102,68.72,1.6,No presenta alteración tiroidea,Negativo
+39,F,False,Caucásica,25.8,Sí,1,105,92,12.24,3.1,No presenta alteración tiroidea,Negativo
+35,M,False,Afrodescendiente,28.1,No,2.8,122,138,21.19,0.1,No presenta alteración tiroidea,Negativo
+29,F,False,Caucásica,34.9,No,2,138,127,12.5,0.05,No presenta alteración tiroidea,Negativo
+94,F,False,Afrodescendiente,26.9,Sí,0.9,119,109,33.88,0.99,No presenta alteración tiroidea,Negativo
+82,M,False,Afrodescendiente,21.1,No,1,88,68,15.74,2.2,No presenta alteración tiroidea,Negativo
+74,F,False,Afrodescendiente,27.4,No,0.9,122,95,15.14,5,No presenta alteración tiroidea,Negativo
+83,M,False,Caucásica,31.1,Sí,0.8,128,102,74.84,0.78,No presenta alteración tiroidea,Negativo
+88,F,False,Hispana/Mexicana,22.5,No,0.4,134,98,0.0,0.2,No presenta alteración tiroidea,Negativo
+44,M,False,Afrodescendiente,24.1,No,0.6,71,61,2.92,0.1,No presenta alteración tiroidea,Negativo
+22,F,False,Caucásica,21.8,No,1.9,109,101,30.73,2,No presenta alteración tiroidea,Negativo
+75,F,False,Afrodescendiente,23.6,No,3.6,162,184,5.24,0.005,No presenta alteración tiroidea,Negativo
+55,M,False,Caucásica,30.6,No,1.4,128,123,19.31,0.34,No presenta alteración tiroidea,Negativo
+30,F,False,Afrodescendiente,28.7,No,2,161,139,9.3,4.5,No presenta alteración tiroidea,Negativo
+44,M,False,Hispana/Mexicana,13.6,No,1.5,41,48,25.54,41,Hipotiroideo,Hipotiroidismo primario
+72,M,False,Caucásica,23.5,Sí,0.3,3.4,4.1,0.0,25,Hipotiroideo,Hipotiroidismo primario
+50,F,False,Hispana/Mexicana,22.8,Sí,0.2,47,33,11.07,28,Hipotiroideo,Hipotiroidismo primario
+61,F,False,Caucásica,20.8,No,2.4,62,77,11.25,3.7,No presenta alteración tiroidea,Negativo
+76,F,False,Afrodescendiente,27.5,No,1.1,148,142,20.08,0.25,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,23.8,No,4.9,176,192,28.84,0.035,Hipertiroideo,Hipertiroidismo
+75,F,False,Afrodescendiente,26.1,No,2.2,82,70,13.68,1.5,No presenta alteración tiroidea,Negativo
+76,M,False,Hispana/Mexicana,25.6,No,3.9,198,186,30.13,0.065,Hipertiroideo,Hipertiroidismo
+51,M,False,Hispana/Mexicana,25.4,No,0.4,8.7,10,29.62,106,Hipotiroideo,Hipotiroidismo primario
+79,F,False,Caucásica,29.8,No,1.6,48,47,33.34,29,Hipotiroideo,Hipotiroidismo primario
+29,M,False,Caucásica,30.8,No,3.8,112,127,8.87,1.4,No presenta alteración tiroidea,Negativo
+26,F,False,Hispana/Mexicana,22.7,Sí,1.7,97,96,7.29,6.6,Hipotiroideo,Hipotiroidismo compensado
+2,F,False,Caucásica,26.2,Sí,2.1,163,152,23.99,4.2,No presenta alteración tiroidea,Negativo
+74,M,False,Hispana/Mexicana,18.7,No,1,114,102,16.7,3.4,No presenta alteración tiroidea,Negativo
+58,F,False,Afrodescendiente,21.5,No,4.1,253,202,17.1,0.3,Hipertiroideo,Hipertiroidismo
+58,?,False,Otra,30.3,No,3.3,105,129,26.45,0.01,Hipertiroideo,Tóxico T3
+75,M,False,Otra,19.9,No,0.6,110,80,8.32,0.97,No presenta alteración tiroidea,Negativo
+78,F,False,Hispana/Mexicana,23.7,No,0.9,60,50,39.82,25,No presenta alteración tiroidea,Negativo
+68,F,False,Hispana/Mexicana,23.7,No,1.8,95,104,38.43,2.6,No presenta alteración tiroidea,Negativo
+67,F,False,Caucásica,19.5,No,0.4,10,12,25.74,51,Hipotiroideo,Hipotiroidismo primario
+19,M,False,Otra,23.6,No,1.9,174,165,21.68,0.25,Hipertiroideo,Hipertiroidismo
+68,F,False,Caucásica,34.8,Sí,0.8,130,82,28.48,0.32,No presenta alteración tiroidea,Negativo
+84,M,False,Hispana/Mexicana,26.6,No,0.6,110,82,19.99,3.6,No presenta alteración tiroidea,Negativo
+59,F,False,Caucásica,24.4,No,2.2,162,164,76.94,0.015,No presenta alteración tiroidea,Negativo
+58,F,False,Hispana/Mexicana,27.9,Sí,2,144,151,26.88,0.6,No presenta alteración tiroidea,Negativo
+73,M,False,Afrodescendiente,30.9,No,2.1,112,103,16.49,1.8,No presenta alteración tiroidea,Negativo
+84,F,False,Afrodescendiente,24.8,No,1.4,94,103,16.63,3,No presenta alteración tiroidea,Negativo
+23,M,False,Caucásica,25.4,No,2,134,156,26.9,1.4,No presenta alteración tiroidea,Negativo
+71,F,False,Hispana/Mexicana,26.2,No,1.8,91,87,20.11,23,Hipotiroideo,Hipotiroidismo compensado
+87,F,False,Caucásica,25.9,No,1.7,186,162,7.89,0.15,Hipertiroideo,Hipertiroidismo
+53,F,False,Caucásica,28.4,Sí,2.4,103,132,22.46,8.1,No presenta alteración tiroidea,Negativo
+18,F,False,Hispana/Mexicana,23.4,No,0.5,18,24,83.17,440,Hipotiroideo,Hipotiroidismo primario
+78,M,False,Caucásica,27.1,Sí,0.3,52,57,14.58,0.5,No presenta alteración tiroidea,Negativo
+68,F,False,Hispana/Mexicana,18.2,Sí,2.5,71,111,17.31,20,Hipotiroideo,Hipotiroidismo compensado
+72,F,False,Hispana/Mexicana,26.9,No,0.3,115,100,0.0,4.1,No presenta alteración tiroidea,Negativo
+46,F,False,Caucásica,37.4,Sí,3,174,161,53.15,0.15,Hipertiroideo,Hipertiroidismo
+47,M,False,Hispana/Mexicana,30.5,No,1,57,46,13.59,0.4,No presenta alteración tiroidea,Negativo
+58,F,False,Hispana/Mexicana,21.1,No,2.3,80,85,27.21,6.4,Hipotiroideo,Hipotiroidismo compensado
+55,M,False,Caucásica,20.6,No,0.9,112,108,25.34,0.25,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,29.8,No,4.4,255,235,19.34,0.025,Hipertiroideo,Hipertiroidismo
+60,F,False,Caucásica,23.4,No,?,77,75,2.57,8.9,Hipotiroideo,Hipotiroidismo compensado
+75,F,False,Caucásica,18.0,No,0.7,95,78,7.13,2.3,No presenta alteración tiroidea,Negativo
+36,F,False,Otra,21.9,No,2.3,68,72,2.76,0.8,No presenta alteración tiroidea,Negativo
+73,F,False,Hispana/Mexicana,31.5,Sí,2.1,116,130,97.81,3.9,No presenta alteración tiroidea,Negativo
+76,M,False,Afrodescendiente,24.1,Sí,2.1,78,89,11.0,7.5,Hipotiroideo,Hipotiroidismo compensado
+49,F,False,Hispana/Mexicana,23.1,No,1.6,145,126,13.34,1.3,No presenta alteración tiroidea,Negativo
+82,F,False,Afrodescendiente,23.7,No,1,25,25,16.82,73,Hipotiroideo,Hipotiroidismo primario
+85,F,False,Hispana/Mexicana,16.7,No,1.9,145,140,21.93,0.58,No presenta alteración tiroidea,Negativo
+19,F,False,Afrodescendiente,24.7,No,2.1,91,80,20.85,3,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,26.5,No,1.4,97,82,20.17,6.1,Hipotiroideo,Hipotiroidismo compensado
+68,M,False,Afrodescendiente,26.5,No,0.2,126,115,24.06,0.05,No presenta alteración tiroidea,Negativo
+42,F,False,Hispana/Mexicana,26.6,No,1.7,62,56,23.31,3.3,No presenta alteración tiroidea,Negativo
+15,F,False,Caucásica,28.8,No,6,312,250,93.76,0.015,Hipertiroideo,Hipertiroidismo
+35,F,False,Hispana/Mexicana,29.5,No,1.2,64,50,75.03,0.1,No presenta alteración tiroidea,Negativo
+64,M,False,Hispana/Mexicana,24.9,No,0.7,110,91,10.32,1,No presenta alteración tiroidea,Negativo
+42,F,False,Hispana/Mexicana,25.0,No,2,118,87,85.65,1.3,No presenta alteración tiroidea,Negativo
+29,F,False,Afrodescendiente,31.3,No,3.1,114,169,11.41,0.8,No presenta alteración tiroidea,Negativo
+76,F,False,Afrodescendiente,28.6,No,?,189,143,4.23,0.005,Hipertiroideo,Hipertiroidismo
+24,F,False,Caucásica,24.3,Sí,2.1,98,91,71.55,1.8,No presenta alteración tiroidea,Negativo
+59,M,False,Caucásica,27.0,No,0.7,104,77,5.23,5.5,No presenta alteración tiroidea,Negativo
+52,F,False,Caucásica,25.0,Sí,1.6,98,80,55.09,0.5,No presenta alteración tiroidea,Negativo
+64,F,False,Caucásica,21.3,Sí,1.1,90,99,3.78,0.85,No presenta alteración tiroidea,Negativo
+28,F,False,Caucásica,23.6,Sí,3,171,235,19.46,0.1,Hipertiroideo,Hipertiroidismo
+36,M,False,Hispana/Mexicana,20.7,Sí,1.1,114,69,12.68,0.3,No presenta alteración tiroidea,Negativo
+70,F,False,Afrodescendiente,29.4,Sí,0.5,90,68,19.39,1.6,No presenta alteración tiroidea,Negativo
+39,F,False,Hispana/Mexicana,26.5,Sí,4,197,209,17.05,0.02,Hipertiroideo,Hipertiroidismo
+53,F,False,Caucásica,28.3,No,1.8,110,124,7.71,0.19,No presenta alteración tiroidea,Negativo
+71,F,False,Hispana/Mexicana,23.9,No,2.2,186,165,10.33,0.02,Hipertiroideo,Hipertiroidismo
+67,M,False,Caucásica,26.5,No,1,105,65,27.34,1.9,No presenta alteración tiroidea,Negativo
+85,F,False,Hispana/Mexicana,22.9,No,1.1,142,125,21.46,8,Hipotiroideo,Hipotiroidismo compensado
+61,F,False,Caucásica,20.4,Sí,2.3,111,112,33.43,0.2,No presenta alteración tiroidea,Negativo
+68,M,False,Afrodescendiente,28.8,No,0.9,94,72,28.27,0.2,No presenta alteración tiroidea,Negativo
+48,F,False,Caucásica,27.0,No,2.7,109,102,25.95,2.8,No presenta alteración tiroidea,Negativo
+22,M,False,Caucásica,24.4,Sí,2.1,101,83,40.21,3.7,No presenta alteración tiroidea,Negativo
+58,F,False,Hispana/Mexicana,26.7,No,2.5,109,87,23.59,0.15,No presenta alteración tiroidea,Negativo
+47,F,False,Afrodescendiente,24.4,No,2.1,131,130,44.91,1.2,No presenta alteración tiroidea,Negativo
+68,F,False,Hispana/Mexicana,16.8,No,2.1,114,124,31.91,1,No presenta alteración tiroidea,Negativo
+68,F,False,Caucásica,21.1,No,1,137,104,26.47,3.9,No presenta alteración tiroidea,Negativo
+46,F,False,Otra,20.0,Sí,0.7,89,69,57.72,0.1,No presenta alteración tiroidea,Negativo
+79,F,False,Caucásica,25.5,Sí,1.1,81,78,23.4,4.2,No presenta alteración tiroidea,Negativo
+55,F,False,Caucásica,33.3,No,4.4,237,195,34.02,0.035,Hipertiroideo,Hipertiroidismo
+27,F,False,Caucásica,33.8,No,2,102,93,20.76,1.4,No presenta alteración tiroidea,Negativo
+58,F,False,Caucásica,26.3,No,2.6,128,132,51.16,0.05,No presenta alteración tiroidea,Negativo
+50,F,False,Afrodescendiente,32.1,No,2,98,94,12.28,1.3,No presenta alteración tiroidea,Negativo
+42,F,False,Caucásica,24.1,No,3.1,136,136,2.14,0.025,Hipertiroideo,Tóxico T3
+61,M,False,Caucásica,25.6,No,1.7,101,79,14.54,2.2,No presenta alteración tiroidea,Negativo
+34,F,False,Afrodescendiente,30.2,No,?,178,178,26.07,?,Hipertiroideo,Hipertiroidismo
+60,M,False,Caucásica,21.6,No,2,110,113,17.99,0.4,No presenta alteración tiroidea,Negativo
+44,F,False,Afrodescendiente,24.5,No,1.8,120,119,12.65,0.9,No presenta alteración tiroidea,Negativo
+60,M,False,Hispana/Mexicana,27.8,No,7.1,177,184,22.83,0.005,Hipertiroideo,Hipertiroidismo
+32,M,False,Hispana/Mexicana,27.5,No,2.9,130,152,23.21,1,No presenta alteración tiroidea,Negativo
+79,F,False,Caucásica,22.5,Sí,0.8,109,94,35.7,0.84,No presenta alteración tiroidea,Negativo
+34,M,False,Afrodescendiente,28.0,Sí,4,266,239,6.71,0.015,Hipertiroideo,Hipertiroidismo
+60,M,False,Hispana/Mexicana,23.4,No,2.6,103,109,22.2,11,Hipotiroideo,Hipotiroidismo compensado
+73,F,False,Afrodescendiente,29.5,Sí,0.6,127,113,22.23,0.1,No presenta alteración tiroidea,Negativo
+26,F,False,Hispana/Mexicana,26.0,No,1.6,93,104,16.35,9.2,Hipotiroideo,Hipotiroidismo compensado
+23,F,False,Caucásica,24.5,Sí,3.3,265,247,15.59,0.25,Hipertiroideo,Hipertiroidismo
+83,F,False,Hispana/Mexicana,18.6,No,0.7,93,71,145.06,2.2,No presenta alteración tiroidea,Negativo
+63,?,False,Caucásica,21.3,No,?,200,162,15.14,?,Hipertiroideo,Hipertiroidismo
+77,F,False,Caucásica,24.9,No,0.8,70,68,55.1,3.5,No presenta alteración tiroidea,Negativo
+55,F,False,Hispana/Mexicana,27.3,No,1.9,114,115,26.04,2.6,No presenta alteración tiroidea,Negativo
+80,M,False,Afrodescendiente,19.3,No,3.7,164,152,18.9,0.05,Hipertiroideo,Hipertiroidismo
+26,M,False,Caucásica,27.1,Sí,2.9,82,94,35.86,1.9,No presenta alteración tiroidea,Negativo
+50,F,False,Afrodescendiente,23.2,No,1.7,118,128,10.82,7.6,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Hispana/Mexicana,20.9,No,1.1,99,101,17.83,0.6,No presenta alteración tiroidea,Negativo
+65,F,False,Otra,36.0,No,3.1,126,114,11.44,0.02,Hipertiroideo,Tóxico T3
+86,F,False,Otra,20.0,No,?,94,87,16.35,13,Hipotiroideo,Hipotiroidismo compensado
+39,F,False,Hispana/Mexicana,31.8,Sí,1.6,75,63,12.98,43,Hipotiroideo,Hipotiroidismo compensado
+31,F,False,Caucásica,20.1,No,1.8,99,120,20.19,3.1,No presenta alteración tiroidea,Negativo
+51,F,False,Caucásica,29.0,No,1.5,115,106,18.08,12,Hipotiroideo,Hipotiroidismo compensado
+80,M,False,Hispana/Mexicana,31.8,Sí,0.7,120,134,38.96,0.37,No presenta alteración tiroidea,Negativo
+78,M,False,Caucásica,19.4,Sí,1.9,93,90,2.64,2.9,No presenta alteración tiroidea,Negativo
+49,F,False,Afrodescendiente,28.8,No,2.1,112,82,4.03,32,Hipotiroideo,Hipotiroidismo compensado
+33,F,False,Afrodescendiente,22.0,No,5.3,356,278,1.95,0.025,Hipertiroideo,Hipertiroidismo
+39,F,False,Caucásica,18.5,No,4,197,209,20.58,0.02,Hipertiroideo,Hipertiroidismo
+58,F,False,Afrodescendiente,24.8,No,3.4,136,129,10.95,0.065,Hipertiroideo,Tóxico T3
+56,M,False,Afrodescendiente,23.8,No,1.2,117,109,14.3,8.9,Hipotiroideo,Hipotiroidismo compensado
+73,M,False,Caucásica,27.8,Sí,1.5,86,69,28.79,3.2,No presenta alteración tiroidea,Negativo
+77,M,False,Caucásica,28.3,No,1.7,182,140,72.23,0.37,No presenta alteración tiroidea,Negativo
+59,M,False,Hispana/Mexicana,26.8,No,0.2,12,14,23.26,42,Hipotiroideo,Hipotiroidismo primario
+66,F,False,Afrodescendiente,28.4,No,0.3,106,88,11.24,3.7,No presenta alteración tiroidea,Negativo
+76,F,False,Caucásica,20.8,Sí,0.8,104,80,54.99,1.7,No presenta alteración tiroidea,Negativo
+25,F,False,Hispana/Mexicana,18.5,No,0.7,108,122,31.23,11,No presenta alteración tiroidea,Negativo
+56,F,False,Hispana/Mexicana,26.1,No,7.1,222,223,34.21,0.02,Hipertiroideo,Hipertiroidismo
+82,F,False,Hispana/Mexicana,34.7,No,1.4,121,131,9.46,1.3,No presenta alteración tiroidea,Negativo
+78,?,False,Afrodescendiente,24.9,No,2.2,114,103,8.16,29,Hipotiroideo,Hipotiroidismo compensado
+76,F,False,Afrodescendiente,32.4,No,2.1,97,98,18.38,0.1,No presenta alteración tiroidea,Negativo
+28,F,False,Caucásica,30.1,No,0.7,81,87,90.71,2.5,No presenta alteración tiroidea,Negativo
+56,M,False,Hispana/Mexicana,28.1,No,1.1,160,137,15.82,0.67,No presenta alteración tiroidea,Negativo
+48,F,False,Caucásica,25.4,No,2.3,78,87,6.14,73,Hipotiroideo,Hipotiroidismo compensado
+30,F,False,Caucásica,22.7,No,1.4,136,113,40.74,2.9,No presenta alteración tiroidea,Negativo
+83,F,False,Caucásica,28.0,Sí,0.9,93,69,78.17,2.2,No presenta alteración tiroidea,Negativo
+72,M,False,Afrodescendiente,33.7,No,2,105,106,0.0,2.3,No presenta alteración tiroidea,Negativo
+32,M,False,Caucásica,28.2,No,2.5,95,90,6.39,8.1,Hipotiroideo,Hipotiroidismo compensado
+45,F,False,Hispana/Mexicana,27.7,Sí,2.1,67,83,16.84,15,Hipotiroideo,Hipotiroidismo compensado
+32,F,True,Caucásica,30.7,No,3,92,167,22.92,0.5,No presenta alteración tiroidea,Negativo
+69,F,False,Caucásica,24.7,No,2.4,108,123,70.03,0.83,No presenta alteración tiroidea,Negativo
+82,F,False,Caucásica,27.0,No,1.4,88,76,77.73,3.2,No presenta alteración tiroidea,Negativo
+69,F,False,Caucásica,25.5,Sí,1.7,117,109,75.36,2,No presenta alteración tiroidea,Negativo
+28,M,False,Hispana/Mexicana,19.2,No,2.2,84,89,0.22,0.5,No presenta alteración tiroidea,Negativo
+68,M,False,Afrodescendiente,29.8,No,0.2,126,115,17.91,0.05,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,23.9,Sí,1.1,223,240,65.65,0.01,No presenta alteración tiroidea,Negativo
+50,F,False,Caucásica,34.1,No,2.4,20,25,18.54,58,No presenta alteración tiroidea,Negativo
+27,F,False,Hispana/Mexicana,20.3,No,8.5,249,244,28.07,0.055,Hipertiroideo,Hipertiroidismo
+22,F,False,Caucásica,22.7,No,1.9,105,92,13.61,1.2,No presenta alteración tiroidea,Negativo
+35,F,False,Afrodescendiente,23.3,No,2.6,46,46,3.33,31,Hipotiroideo,Hipotiroidismo primario
+70,F,False,Hispana/Mexicana,26.5,No,1,109,82,0.0,1.6,No presenta alteración tiroidea,Negativo
+58,F,False,Hispana/Mexicana,16.8,No,1.1,124,114,44.26,1.4,No presenta alteración tiroidea,Negativo
+47,M,False,Afrodescendiente,21.7,No,2.2,154,143,23.8,2.4,No presenta alteración tiroidea,Negativo
+45,M,False,Afrodescendiente,27.5,No,4.2,235,183,12.53,0.025,Hipertiroideo,Hipertiroidismo
+32,F,False,Hispana/Mexicana,30.0,No,1.3,133,119,100.5,1.6,No presenta alteración tiroidea,Negativo
+15,F,False,Caucásica,25.0,Sí,6,312,250,25.23,0.015,Hipertiroideo,Hipertiroidismo
+61,M,False,Hispana/Mexicana,23.5,No,2.9,114,116,52.06,7.9,Hipotiroideo,Hipotiroidismo compensado
+50,M,False,Hispana/Mexicana,24.6,No,2.4,129,153,31.43,0.005,No presenta alteración tiroidea,Negativo
+34,F,False,Afrodescendiente,24.0,No,0.2,?,5.8,32.87,82,Hipotiroideo,Hipotiroidismo primario
+18,F,False,Hispana/Mexicana,27.6,Sí,0.5,18,24,40.14,440,Hipotiroideo,Hipotiroidismo primario
+49,F,False,Hispana/Mexicana,23.1,No,0.8,81,57,3.23,0.6,No presenta alteración tiroidea,Negativo
+89,F,False,Caucásica,22.6,No,1.8,83,86,27.73,2.5,No presenta alteración tiroidea,Negativo
+81,F,False,Caucásica,23.3,No,0.5,9,12,24.14,494,Hipotiroideo,Hipotiroidismo primario
+42,F,False,Caucásica,20.8,Sí,1.7,81,72,10.33,6.2,Hipotiroideo,Hipotiroidismo compensado
+95,M,False,Caucásica,19.3,Sí,0.4,87,54,0.0,4.4,No presenta alteración tiroidea,Negativo
+63,F,False,Afrodescendiente,26.2,No,5.5,190,199,8.56,0.03,Hipertiroideo,Hipertiroidismo
+46,F,False,Caucásica,28.5,No,1.6,118,125,30.44,1.5,No presenta alteración tiroidea,Negativo
+75,M,False,Hispana/Mexicana,30.9,No,2.6,91,90,33.73,2.3,No presenta alteración tiroidea,Negativo
+56,F,False,Afrodescendiente,27.3,No,2.2,114,103,54.5,1.1,No presenta alteración tiroidea,Negativo
+68,M,False,Hispana/Mexicana,25.4,No,2,81,81,6.99,15,Hipotiroideo,Hipotiroidismo compensado
+77,M,False,Afrodescendiente,29.6,Sí,10.6,349,226,23.04,0.015,Hipertiroideo,Hipertiroidismo
+59,M,False,Hispana/Mexicana,31.8,No,4.9,123,116,21.71,0.15,Hipertiroideo,Tóxico T3
+59,F,False,Caucásica,20.8,Sí,1.9,70,79,28.91,47,Hipotiroideo,Hipotiroidismo compensado
+40,F,False,Hispana/Mexicana,32.5,No,1.5,109,113,13.64,9.2,Hipotiroideo,Hipotiroidismo compensado
+73,M,False,Afrodescendiente,19.7,No,1.3,108,101,17.59,8,Hipotiroideo,Hipotiroidismo compensado
+67,M,False,Afrodescendiente,29.1,No,1.9,106,109,11.6,0.2,No presenta alteración tiroidea,Negativo
+45,F,False,Caucásica,24.0,No,1,112,82,23.82,1.9,No presenta alteración tiroidea,Negativo
+56,F,False,Afrodescendiente,31.0,No,1,113,112,22.0,1.8,No presenta alteración tiroidea,Negativo
+23,M,False,Caucásica,22.7,No,1,125,115,16.5,1.7,No presenta alteración tiroidea,Negativo
+34,M,False,Caucásica,27.5,No,3,102,69,75.18,0.88,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,31.9,No,2.7,122,90,25.53,17,Hipotiroideo,Hipotiroidismo compensado
+69,F,False,Hispana/Mexicana,21.3,Sí,1.9,95,89,23.44,6.2,No presenta alteración tiroidea,Negativo
+86,F,False,Otra,23.2,No,1.6,138,121,24.79,6.7,Hipotiroideo,Hipotiroidismo compensado
+74,F,False,Hispana/Mexicana,29.9,No,1.2,95,89,102.77,1.3,No presenta alteración tiroidea,Negativo
+81,M,False,Hispana/Mexicana,19.2,No,0.3,106,102,19.39,1.9,No presenta alteración tiroidea,Negativo
+58,M,False,Hispana/Mexicana,23.2,No,3.4,94,91,56.69,0.5,No presenta alteración tiroidea,Negativo
+32,F,False,Hispana/Mexicana,21.7,No,2.2,75,76,66.58,7.9,Hipotiroideo,Hipotiroidismo compensado
+62,F,False,Caucásica,25.7,No,?,101,86,38.08,8.6,Hipotiroideo,Hipotiroidismo compensado
+48,M,False,Caucásica,39.0,No,1,125,128,76.42,2.1,No presenta alteración tiroidea,Negativo
+49,F,False,Caucásica,25.0,No,2.1,89,79,18.64,8.2,Hipotiroideo,Hipotiroidismo compensado
+53,M,False,Hispana/Mexicana,27.2,Sí,2.4,128,104,5.52,1.8,No presenta alteración tiroidea,Negativo
+35,M,False,Afrodescendiente,23.9,No,4.6,259,275,25.64,0.25,Hipertiroideo,Hipertiroidismo
+34,M,False,Caucásica,23.8,No,1.8,103,93,0.0,1.1,No presenta alteración tiroidea,Negativo
+55,M,False,Hispana/Mexicana,25.6,Sí,0.7,13,14,10.39,60,Hipotiroideo,Hipotiroidismo primario
+42,F,False,Afrodescendiente,26.1,No,2,71,66,21.7,1.8,No presenta alteración tiroidea,Negativo
+72,M,False,Afrodescendiente,26.9,No,0.6,10,15,18.58,30,Hipotiroideo,Hipotiroidismo primario
+60,F,False,Caucásica,27.2,No,1.7,68,65,18.75,8.2,Hipotiroideo,Hipotiroidismo compensado
+56,F,False,Hispana/Mexicana,26.1,Sí,4.1,191,191,131.53,0.015,Hipertiroideo,Hipertiroidismo
+80,M,False,Hispana/Mexicana,27.7,No,1.1,106,88,101.26,1.2,No presenta alteración tiroidea,Negativo
+61,F,False,Caucásica,21.4,Sí,2.7,81,84,20.13,3.9,No presenta alteración tiroidea,Negativo
+18,F,False,Hispana/Mexicana,32.5,Sí,?,104,142,8.03,12,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Afrodescendiente,30.8,No,2.1,97,93,31.31,2.4,No presenta alteración tiroidea,Negativo
+64,F,False,Afrodescendiente,26.2,No,1,122,103,16.07,0.035,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,22.0,No,1.4,39,42,10.52,151,Hipotiroideo,Hipotiroidismo primario
+53,F,False,Otra,27.7,No,0.3,13,13,16.61,60,Hipotiroideo,Hipotiroidismo primario
+56,F,False,Caucásica,28.5,No,2,70,66,14.97,8.2,Hipotiroideo,Hipotiroidismo compensado
+84,F,False,Caucásica,26.3,No,0.3,86,73,147.36,2.2,No presenta alteración tiroidea,Negativo
+71,F,False,Afrodescendiente,26.2,Sí,1.3,89,81,24.07,11,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Hispana/Mexicana,26.2,Sí,0.2,2,2,16.89,47,Hipotiroideo,Hipotiroidismo primario
+37,M,False,Afrodescendiente,28.0,No,1.2,125,105,11.99,12,Hipotiroideo,Hipotiroidismo compensado
+84,F,False,Hispana/Mexicana,24.9,No,0.9,102,90,54.95,0.4,No presenta alteración tiroidea,Negativo
+83,M,False,Hispana/Mexicana,27.7,Sí,1.1,129,95,9.2,0.2,No presenta alteración tiroidea,Negativo
+58,F,False,Otra,31.4,No,1.5,96,91,14.24,6.9,Hipotiroideo,Hipotiroidismo compensado
+79,F,False,Caucásica,28.1,Sí,?,111,144,58.59,6.8,Hipotiroideo,Hipotiroidismo compensado
+73,M,False,Caucásica,23.6,No,1.5,97,77,21.76,0.1,No presenta alteración tiroidea,Negativo
+54,M,False,Afrodescendiente,21.2,No,1.1,127,130,19.42,1.3,No presenta alteración tiroidea,Negativo
+81,F,False,Hispana/Mexicana,27.5,No,1,93,92,28.16,1.4,No presenta alteración tiroidea,Negativo
+47,F,False,Hispana/Mexicana,25.5,No,2.6,?,91,20.65,11,Hipotiroideo,Hipotiroidismo compensado
+87,F,False,Hispana/Mexicana,21.8,No,4.5,113,239,20.97,15,No presenta alteración tiroidea,Negativo
+88,F,False,Afrodescendiente,24.0,Sí,1.9,44,47,2.51,7.9,Hipotiroideo,Hipotiroidismo primario
+69,F,False,Caucásica,17.3,No,1,61,51,34.99,20,Hipotiroideo,Hipotiroidismo primario
+24,M,False,Caucásica,21.1,Sí,1.2,80,70,22.81,3.3,No presenta alteración tiroidea,Negativo
+55,M,False,Hispana/Mexicana,27.1,Sí,1.9,104,109,7.45,2.5,No presenta alteración tiroidea,Negativo
+56,F,False,Hispana/Mexicana,17.7,Sí,1.6,29,28,27.69,44,Hipotiroideo,Hipotiroidismo primario
+26,F,False,Caucásica,17.4,Sí,5.1,160,187,20.28,0.2,Hipertiroideo,Hipertiroidismo
+11,M,False,Caucásica,29.0,Sí,?,156,191,136.44,0.2,Hipertiroideo,Hipertiroidismo
+84,M,False,Afrodescendiente,31.5,No,1.5,117,96,40.98,1.6,No presenta alteración tiroidea,Negativo
+82,F,False,Afrodescendiente,24.0,No,0.9,126,96,14.21,0.59,No presenta alteración tiroidea,Negativo
+54,F,False,Caucásica,20.5,No,1.9,86,88,10.09,6.5,Hipotiroideo,Hipotiroidismo compensado
+30,F,False,Caucásica,21.7,No,1.4,80,78,8.6,35,Hipotiroideo,Hipotiroidismo compensado
+26,M,False,Caucásica,21.5,Sí,1.8,59,59,49.75,2,No presenta alteración tiroidea,Negativo
+34,F,False,Hispana/Mexicana,19.3,No,0.1,33,31,92.72,4,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,21.4,No,1.9,86,76,4.47,0.05,No presenta alteración tiroidea,Negativo
+54,F,False,Caucásica,23.7,No,0.8,93,77,35.93,4.1,No presenta alteración tiroidea,Negativo
+80,F,False,Caucásica,31.2,No,0.8,125,101,41.24,1.7,No presenta alteración tiroidea,Negativo
+54,M,False,Caucásica,17.2,No,1.5,77,60,33.69,16,Hipotiroideo,Hipotiroidismo compensado
+81,F,False,Otra,26.9,No,0.6,135,123,5.28,0.6,No presenta alteración tiroidea,Negativo
+78,M,False,Afrodescendiente,27.9,No,0.8,133,108,9.47,1.5,No presenta alteración tiroidea,Negativo
+61,F,False,Caucásica,30.1,No,1.8,125,124,0.0,4.3,No presenta alteración tiroidea,Negativo
+53,F,False,Caucásica,21.6,No,5.4,222,162,7.39,0.03,Hipertiroideo,Hipertiroidismo
+28,F,False,Caucásica,31.8,No,1.3,107,96,43.81,3.2,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,28.7,No,8.599999,485,359,22.63,0.1,Hipertiroideo,Hipertiroidismo
+76,M,False,Afrodescendiente,25.2,No,2.1,78,89,17.35,7.5,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Hispana/Mexicana,23.7,No,0.3,113,61,35.34,0.81,No presenta alteración tiroidea,Negativo
+36,F,False,Caucásica,28.1,No,4,194,191,61.07,0.22,No presenta alteración tiroidea,Negativo
+62,M,False,Hispana/Mexicana,18.3,No,1.5,122,105,16.08,12,Hipotiroideo,Hipotiroidismo compensado
+30,F,True,Caucásica,21.6,No,2.2,95,124,26.97,0.5,No presenta alteración tiroidea,Negativo
+73,F,False,Afrodescendiente,24.9,Sí,0.7,86,82,16.28,1.7,No presenta alteración tiroidea,Negativo
+34,F,False,Hispana/Mexicana,19.4,Sí,2.3,73,76,16.15,0.6,No presenta alteración tiroidea,Negativo
+29,M,False,Caucásica,23.4,No,1.1,90,83,29.5,1.3,No presenta alteración tiroidea,Negativo
+30,F,True,Caucásica,26.3,Sí,3.1,90,125,57.2,0.71,No presenta alteración tiroidea,Negativo
+51,F,False,Afrodescendiente,18.8,No,3.3,200,200,21.42,0.02,Hipertiroideo,Hipertiroidismo
+65,M,False,Afrodescendiente,29.9,No,2.7,126,131,16.36,3.1,No presenta alteración tiroidea,Negativo
+51,F,False,Hispana/Mexicana,18.4,Sí,2,109,143,125.63,2.4,No presenta alteración tiroidea,Negativo
+60,F,False,Otra,25.2,No,0.3,126,87,49.17,0.035,No presenta alteración tiroidea,Negativo
+52,F,False,Hispana/Mexicana,17.0,No,1.8,102,109,19.61,12,Hipotiroideo,Hipotiroidismo compensado
+18,F,False,Afrodescendiente,18.8,No,3,108,143,29.29,0.9,No presenta alteración tiroidea,Negativo
+37,F,False,Caucásica,33.0,No,2,128,114,16.33,0.25,No presenta alteración tiroidea,Negativo
+23,F,False,Hispana/Mexicana,25.5,Sí,2.2,97,104,9.03,7.9,Hipotiroideo,Hipotiroidismo compensado
+48,M,False,Caucásica,30.6,Sí,2.3,101,107,62.72,0.64,No presenta alteración tiroidea,Negativo
+77,F,False,Hispana/Mexicana,21.1,No,2.5,66,68,26.04,13.299999,Hipotiroideo,Hipotiroidismo compensado
+37,M,False,Afrodescendiente,30.9,No,4.3,194,187,12.22,?,Hipertiroideo,Hipertiroidismo
+25,M,False,Caucásica,24.9,No,2.7,91,120,0.0,1.5,No presenta alteración tiroidea,Negativo
+35,F,False,Afrodescendiente,26.5,No,2,93,93,17.2,1.5,No presenta alteración tiroidea,Negativo
+49,M,False,Caucásica,34.5,No,2.8,127,141,6.86,1,No presenta alteración tiroidea,Negativo
+77,F,False,Otra,30.2,No,0.8,113,99,31.3,2.1,No presenta alteración tiroidea,Negativo
+69,M,False,Afrodescendiente,23.4,No,0.8,38,44,12.33,1.6,No presenta alteración tiroidea,Negativo
+53,F,False,Caucásica,21.7,No,0.3,13,13,8.87,60,Hipotiroideo,Hipotiroidismo primario
+58,F,False,Afrodescendiente,30.2,No,3.9,188,181,27.71,0.005,Hipertiroideo,Hipertiroidismo
+68,F,False,Caucásica,26.8,No,1.4,93,111,19.85,12,Hipotiroideo,Hipotiroidismo compensado
+62,M,False,Afrodescendiente,33.3,No,2.5,90,91,19.03,1.3,No presenta alteración tiroidea,Negativo
+71,F,False,Caucásica,23.1,No,1.9,89,91,0.0,6.7,Hipotiroideo,Hipotiroidismo compensado
+50,F,False,Caucásica,25.7,No,0.6,122,98,88.06,4.8,No presenta alteración tiroidea,Negativo
+22,F,False,Caucásica,38.3,Sí,1.7,97,83,27.64,0.5,No presenta alteración tiroidea,Negativo
+40,F,False,Caucásica,34.2,Sí,2.1,74,81,67.35,12,Hipotiroideo,Hipotiroidismo compensado
+57,F,False,Caucásica,19.8,No,3.6,171,144,8.24,0.005,Hipertiroideo,Hipertiroidismo
+63,F,False,Afrodescendiente,21.2,Sí,1.9,70,65,11.87,33,Hipotiroideo,Hipotiroidismo compensado
+28,M,False,Caucásica,26.9,No,5.9,223,183,20.02,0.02,Hipertiroideo,Hipertiroidismo
+71,F,False,Hispana/Mexicana,31.4,Sí,1.4,87,77,13.56,9.4,Hipotiroideo,Hipotiroidismo compensado
+40,F,False,Afrodescendiente,18.7,No,0.2,5.4,4.8,12.79,42,Hipotiroideo,Hipotiroidismo primario
+22,M,False,Caucásica,19.7,No,0.9,104,81,0.0,4.4,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,26.4,No,1.5,107,93,16.0,4.5,No presenta alteración tiroidea,Negativo
+20,F,False,Otra,26.9,No,2.4,125,123,9.56,0.9,No presenta alteración tiroidea,Negativo
+42,F,False,Caucásica,23.1,Sí,2.1,104,123,20.62,7.2,Hipotiroideo,Hipotiroidismo compensado
+37,F,False,Hispana/Mexicana,24.0,Sí,2.5,73,96,0.98,13,Hipotiroideo,Hipotiroidismo compensado
+65,F,False,Hispana/Mexicana,32.6,No,1.9,97,99,24.24,1.6,No presenta alteración tiroidea,Negativo
+79,M,False,Caucásica,29.0,No,2.2,109,103,9.48,0.8,No presenta alteración tiroidea,Negativo
+65,?,False,Hispana/Mexicana,25.1,No,2,?,78,39.18,10,Hipotiroideo,Hipotiroidismo compensado
+53,M,False,Afrodescendiente,25.5,No,2.4,129,124,9.55,0.51,No presenta alteración tiroidea,Negativo
+56,F,False,Caucásica,31.8,No,1.1,108,122,8.78,3,No presenta alteración tiroidea,Negativo
+75,F,False,Hispana/Mexicana,23.3,No,1.6,101,90,70.8,10,Hipotiroideo,Hipotiroidismo compensado
+66,M,False,Afrodescendiente,28.2,No,0.3,96,64,15.66,1.3,No presenta alteración tiroidea,Negativo
+50,M,False,Afrodescendiente,25.7,No,1.3,99,86,19.23,13,Hipotiroideo,Hipotiroidismo compensado
+65,M,False,Otra,23.2,No,1.7,90,81,16.09,7.2,Hipotiroideo,Hipotiroidismo compensado
+56,F,False,Caucásica,22.8,Sí,1.1,108,122,0.0,3,No presenta alteración tiroidea,Negativo
+32,M,False,Afrodescendiente,22.5,No,2.9,116,132,20.67,0.15,No presenta alteración tiroidea,Negativo
+24,F,False,Hispana/Mexicana,20.3,Sí,0.5,121,98,20.33,0.9,No presenta alteración tiroidea,Negativo
+56,?,False,Hispana/Mexicana,36.1,Sí,1.2,35,37,18.98,7.5,Hipotiroideo,Hipotiroidismo primario
+74,F,False,Afrodescendiente,21.4,No,0.8,141,103,22.08,0.25,No presenta alteración tiroidea,Negativo
+42,M,False,Caucásica,26.5,Sí,1.9,154,151,15.41,0.2,No presenta alteración tiroidea,Negativo
+59,?,False,Hispana/Mexicana,23.4,No,1,102,92,25.01,3.3,No presenta alteración tiroidea,Negativo
+72,M,False,Caucásica,27.2,Sí,1.8,95,87,13.48,5.4,No presenta alteración tiroidea,Negativo
+43,M,False,Hispana/Mexicana,32.9,No,0.7,113,104,24.34,0.2,No presenta alteración tiroidea,Negativo
+63,F,False,Afrodescendiente,29.4,No,1.8,124,103,26.46,3.9,No presenta alteración tiroidea,Negativo
+51,F,False,Caucásica,32.9,Sí,1.9,94,101,16.53,0.25,No presenta alteración tiroidea,Negativo
+59,F,False,Caucásica,23.4,No,1.9,88,98,9.75,7.1,Hipotiroideo,Hipotiroidismo compensado
+56,F,False,Hispana/Mexicana,23.2,No,1.2,91,73,14.57,7.9,Hipotiroideo,Hipotiroidismo compensado
+25,F,False,Afrodescendiente,30.1,No,0.7,19,21,8.57,468,Hipotiroideo,Hipotiroidismo primario
+52,M,False,Afrodescendiente,26.3,No,1.1,107,98,15.4,5.3,No presenta alteración tiroidea,Negativo
+37,F,False,Caucásica,18.0,Sí,1.4,73,71,41.61,22,Hipotiroideo,Hipotiroidismo compensado
+53,F,False,Caucásica,29.4,No,4.3,247,250,21.76,0.02,Hipertiroideo,Hipertiroidismo
+48,F,False,Afrodescendiente,27.1,No,0.2,11,11,18.5,125,Hipotiroideo,Hipotiroidismo primario
+70,F,False,Afrodescendiente,30.7,No,3.5,215,194,11.02,0.005,No presenta alteración tiroidea,Negativo
+40,F,False,Afrodescendiente,18.6,No,0.4,5,3.9,1.36,70,Hipotiroideo,Hipotiroidismo primario
+67,M,False,Otra,31.0,No,1.7,88,72,37.65,18,Hipotiroideo,Hipotiroidismo compensado
+61,F,False,Afrodescendiente,26.2,No,1.2,82,83,11.03,11,Hipotiroideo,Hipotiroidismo compensado
+77,F,False,Caucásica,28.2,No,0.5,12,14,21.58,46,Hipotiroideo,Hipotiroidismo primario
+65,F,False,Otra,30.6,No,2,145,144,22.56,0.6,No presenta alteración tiroidea,Negativo
+65,F,False,Afrodescendiente,27.5,No,1.5,105,108,14.63,8.099999,Hipotiroideo,Hipotiroidismo compensado
+74,F,False,Hispana/Mexicana,25.2,No,1.8,117,105,80.6,1,No presenta alteración tiroidea,Negativo
+24,F,False,Afrodescendiente,22.3,No,3,107,131,22.43,0.1,Hipertiroideo,Tóxico T3
+78,F,False,Hispana/Mexicana,25.8,No,1.4,76,74,77.55,38,Hipotiroideo,Hipotiroidismo compensado
+75,M,False,Afrodescendiente,24.1,No,0.5,42,53,10.12,1.5,No presenta alteración tiroidea,Negativo
+52,F,False,Hispana/Mexicana,22.3,No,1.8,103,102,28.44,1.7,No presenta alteración tiroidea,Negativo
+66,M,False,Caucásica,25.1,Sí,2.1,112,108,8.48,2,No presenta alteración tiroidea,Negativo
+54,F,False,Caucásica,23.7,Sí,2.9,107,115,65.21,1.6,No presenta alteración tiroidea,Negativo
+36,F,False,Caucásica,22.9,No,1.7,108,121,21.1,6,No presenta alteración tiroidea,Negativo
+45,F,False,Afrodescendiente,29.9,No,2,99,73,13.84,3.2,No presenta alteración tiroidea,Negativo
+25,M,False,Afrodescendiente,32.3,No,0.2,17,16,14.79,236,Hipotiroideo,Hipotiroidismo primario
+75,F,False,Otra,26.1,No,1.1,91,92,67.46,0.25,No presenta alteración tiroidea,Negativo
+73,M,False,Hispana/Mexicana,26.3,No,1,60,84,84.37,10,Hipotiroideo,Hipotiroidismo primario
+54,M,False,Afrodescendiente,27.8,No,1.1,127,130,2.93,1.3,No presenta alteración tiroidea,Negativo
+2,F,False,Hispana/Mexicana,25.5,No,7.6,268,257,30.09,0.05,Hipertiroideo,Hipertiroidismo
+25,F,False,Hispana/Mexicana,24.0,Sí,1.7,83,62,84.46,8.9,Hipotiroideo,Hipotiroidismo compensado
+15,F,False,Hispana/Mexicana,24.5,Sí,2.3,205,183,73.91,0.1,No presenta alteración tiroidea,Negativo
+74,M,False,Afrodescendiente,25.8,No,1.6,114,90,22.56,2.9,No presenta alteración tiroidea,Negativo
+18,F,False,Afrodescendiente,31.9,Sí,3.1,177,160,25.54,0.25,Hipertiroideo,Hipertiroidismo
+84,F,False,Caucásica,15.2,No,?,42,35,6.51,17,Hipotiroideo,Hipotiroidismo primario
+50,F,False,Caucásica,30.7,No,2,92,116,22.16,2.8,No presenta alteración tiroidea,Negativo
+66,F,False,Caucásica,21.6,No,0.5,108,83,72.85,4.5,No presenta alteración tiroidea,Negativo
+82,M,False,Caucásica,24.4,No,1.6,91,92,16.07,6.6,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Caucásica,24.7,Sí,2.3,123,117,22.39,0.9,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,31.6,No,0.6,20,22,46.99,85,Hipotiroideo,Hipotiroidismo primario
+49,F,False,Caucásica,21.3,No,3.3,187,239,0.0,0.075,Hipertiroideo,Hipertiroidismo
+34,M,False,Hispana/Mexicana,33.5,Sí,2.1,113,99,12.54,0.08,No presenta alteración tiroidea,Negativo
+84,F,False,Hispana/Mexicana,20.6,No,0.7,47,52,21.07,34,Hipotiroideo,Hipotiroidismo primario
+37,F,False,Afrodescendiente,23.6,No,2.5,73,96,15.29,13,Hipotiroideo,Hipotiroidismo compensado
+76,F,False,Caucásica,19.3,Sí,2,110,107,133.33,0.68,No presenta alteración tiroidea,Negativo
+41,F,False,Otra,28.7,No,3.8,204,253,17.99,0.2,Hipertiroideo,Hipertiroidismo
+91,F,False,Afrodescendiente,30.9,No,1.3,132,126,18.61,0.15,No presenta alteración tiroidea,Negativo
+78,F,False,Caucásica,25.0,No,2.3,92,96,33.01,1,No presenta alteración tiroidea,Negativo
+52,F,False,Hispana/Mexicana,26.8,No,2.5,54,66,23.61,44,Hipotiroideo,Hipotiroidismo primario
+73,F,False,Caucásica,37.1,Sí,1,143,100,0.98,0.15,No presenta alteración tiroidea,Negativo
+33,?,False,Caucásica,24.7,Sí,5,362,244,4.54,0.015,Hipertiroideo,Hipertiroidismo
+30,F,False,Caucásica,30.2,No,2.1,79,91,50.61,8.5,Hipotiroideo,Hipotiroidismo compensado
+42,F,False,Afrodescendiente,22.2,No,0.7,82,61,0.62,1.1,No presenta alteración tiroidea,Negativo
+34,F,False,Otra,26.6,No,2.7,90,153,7.9,6.3,No presenta alteración tiroidea,Negativo
+51,F,False,Hispana/Mexicana,21.6,No,3.3,200,200,17.76,0.02,Hipertiroideo,Hipertiroidismo
+65,F,False,Caucásica,27.8,No,2.6,95,95,17.98,0.89,No presenta alteración tiroidea,Negativo
+31,F,False,Hispana/Mexicana,28.0,Sí,0.4,118,94,19.02,0.15,No presenta alteración tiroidea,Negativo
+73,F,False,Hispana/Mexicana,29.1,No,1.7,109,130,75.72,1.8,No presenta alteración tiroidea,Negativo
+66,F,False,Caucásica,28.3,No,2.3,134,113,17.99,0.83,No presenta alteración tiroidea,Negativo
+86,F,False,Hispana/Mexicana,28.3,No,0.7,87,58,16.87,6,No presenta alteración tiroidea,Negativo
+43,M,False,Hispana/Mexicana,28.2,No,2.3,94,87,21.68,2.2,No presenta alteración tiroidea,Negativo
+77,F,False,Otra,22.1,No,1.2,121,89,18.88,6.2,Hipotiroideo,Hipotiroidismo compensado
+30,F,False,Caucásica,22.4,No,2,80,71,20.65,0.015,No presenta alteración tiroidea,Negativo
+79,F,False,Caucásica,36.8,No,1.6,48,47,16.9,29,Hipotiroideo,Hipotiroidismo primario
+72,F,False,Hispana/Mexicana,20.3,Sí,1.4,124,110,53.21,0.7,No presenta alteración tiroidea,Negativo
+29,F,False,Caucásica,32.1,No,2.2,80,85,0.0,0.1,No presenta alteración tiroidea,Negativo
+83,?,False,Caucásica,28.6,Sí,?,134,148,4.86,19,Hipotiroideo,Hipotiroidismo compensado
+76,M,False,Hispana/Mexicana,22.1,No,3.3,183,183,22.81,0.07,Hipertiroideo,Hipertiroidismo
+70,M,False,Hispana/Mexicana,32.2,No,1,107,77,36.81,1.4,No presenta alteración tiroidea,Negativo
+50,F,False,Hispana/Mexicana,31.3,No,2.4,20,25,35.78,58,Hipotiroideo,Hipotiroidismo primario
+36,M,False,Caucásica,27.9,Sí,3.3,110,132,26.42,1.5,No presenta alteración tiroidea,Negativo
+45,?,False,Hispana/Mexicana,22.4,No,0.9,112,87,25.67,4.8,No presenta alteración tiroidea,Negativo
+76,F,False,Hispana/Mexicana,25.4,Sí,2.3,88,135,24.26,27,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Afrodescendiente,24.5,Sí,1.7,105,88,15.04,0.48,No presenta alteración tiroidea,Negativo
+71,F,False,Hispana/Mexicana,24.8,Sí,2.3,121,133,23.3,0.8,No presenta alteración tiroidea,Negativo
+58,F,False,Hispana/Mexicana,27.5,No,3.4,136,129,40.47,0.065,No presenta alteración tiroidea,Negativo
+42,F,False,Caucásica,19.4,No,1.9,153,117,88.24,0.04,No presenta alteración tiroidea,Negativo
+59,M,False,Otra,23.8,No,1.1,96,70,59.3,0.1,No presenta alteración tiroidea,Negativo
+55,F,False,Hispana/Mexicana,22.3,No,1.5,116,144,25.04,11,Hipotiroideo,Hipotiroidismo compensado
+77,M,False,Caucásica,20.2,Sí,1.3,108,102,34.04,1.3,No presenta alteración tiroidea,Negativo
+24,F,False,Afrodescendiente,23.5,No,0.4,6,6,7.9,430,Hipotiroideo,Hipotiroidismo primario
+42,F,False,Caucásica,21.7,Sí,0.8,11,13,17.21,31,Hipotiroideo,Hipotiroidismo primario
+37,M,False,Hispana/Mexicana,17.5,No,1.2,125,105,16.03,12,Hipotiroideo,Hipotiroidismo compensado
+65,M,False,Hispana/Mexicana,20.8,No,1.9,96,93,127.59,3.4,No presenta alteración tiroidea,Negativo
+65,F,False,Caucásica,27.0,No,0.7,14,15,94.9,55,Hipotiroideo,Hipotiroidismo primario
+46,F,False,Hispana/Mexicana,22.5,No,3,174,161,14.31,0.15,Hipertiroideo,Hipertiroidismo
+57,F,False,Hispana/Mexicana,31.0,No,2.1,74,75,24.11,11,Hipotiroideo,Hipotiroidismo compensado
+68,?,False,Afrodescendiente,27.7,No,0.8,119,98,31.9,1.5,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,31.7,No,2.1,119,123,32.15,2.5,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,29.7,No,1,127,101,15.97,1.3,No presenta alteración tiroidea,Negativo
+80,F,False,Otra,22.4,No,1,100,101,12.35,0.4,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,20.2,No,0.9,134,110,23.67,0.2,No presenta alteración tiroidea,Negativo
+72,M,False,Caucásica,25.3,No,0.9,90,83,0.0,5.5,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,21.3,Sí,1.5,66,66,12.54,18,Hipotiroideo,Hipotiroidismo compensado
+68,F,False,Hispana/Mexicana,33.0,Sí,0.3,?,14,24.79,43,Hipotiroideo,Hipotiroidismo primario
+58,M,False,Hispana/Mexicana,28.8,Sí,1.6,86,91,99.74,0.9,No presenta alteración tiroidea,Negativo
+84,F,False,Afrodescendiente,22.9,No,0.7,164,137,15.85,0.2,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,26.8,No,1,95,82,26.09,0.74,No presenta alteración tiroidea,Negativo
+19,M,False,Caucásica,21.7,No,?,82,74,31.53,58,Hipotiroideo,Hipotiroidismo compensado
+46,M,False,Caucásica,27.3,No,1.1,131,123,47.91,3.2,No presenta alteración tiroidea,Negativo
+80,F,False,Hispana/Mexicana,22.3,No,2.2,97,113,52.04,2.5,No presenta alteración tiroidea,Negativo
+37,F,False,Hispana/Mexicana,30.9,No,0.9,105,87,94.31,27,Hipotiroideo,Hipotiroidismo compensado
+73,F,False,Hispana/Mexicana,24.6,No,2.3,61,66,0.0,19,Hipotiroideo,Hipotiroidismo primario
+60,F,False,Afrodescendiente,27.3,Sí,1.7,68,65,13.68,8.2,Hipotiroideo,Hipotiroidismo compensado
+62,F,False,Hispana/Mexicana,25.2,No,?,55,75,4.61,13,Hipotiroideo,Hipotiroidismo primario
+61,F,False,Afrodescendiente,27.4,No,1.5,64,61,21.3,29,Hipotiroideo,Hipotiroidismo primario
+73,F,False,Afrodescendiente,25.3,No,2,96,80,15.47,15,Hipotiroideo,Hipotiroidismo compensado
+72,F,False,Afrodescendiente,27.4,No,0.9,97,93,24.2,0.05,No presenta alteración tiroidea,Negativo
+15,M,False,Afrodescendiente,18.8,No,3.4,120,115,8.92,2.3,No presenta alteración tiroidea,Negativo
+54,?,False,Caucásica,20.7,No,3.6,115,142,31.84,0.01,Hipertiroideo,Tóxico T3
+79,F,False,Afrodescendiente,24.7,No,1.6,107,121,13.09,1.4,No presenta alteración tiroidea,Negativo
+55,?,False,Hispana/Mexicana,23.6,No,2.1,109,96,134.16,11.4,Hipotiroideo,Hipotiroidismo compensado
+50,F,False,Hispana/Mexicana,22.0,Sí,1.7,118,128,16.41,7.6,Hipotiroideo,Hipotiroidismo compensado
+77,F,False,Hispana/Mexicana,32.7,Sí,0.5,49,33,33.29,23,Hipotiroideo,Hipotiroidismo primario
+34,F,False,Caucásica,28.6,No,3.9,125,146,68.74,19,Hipotiroideo,Hipotiroidismo compensado
+65,F,False,Caucásica,24.5,Sí,3.1,126,114,12.5,0.02,Hipertiroideo,Tóxico T3
+67,M,False,Hispana/Mexicana,20.4,Sí,0.9,106,92,25.59,3.2,No presenta alteración tiroidea,Negativo
+72,M,False,Caucásica,25.5,No,0.9,112,79,28.91,0.28,No presenta alteración tiroidea,Negativo
+90,F,False,Caucásica,24.7,No,2.4,69,73,10.54,1.8,No presenta alteración tiroidea,Negativo
+19,F,False,Afrodescendiente,27.7,No,2.7,97,108,21.44,8.799999,Hipotiroideo,Hipotiroidismo compensado
+72,M,False,Hispana/Mexicana,27.4,No,0.3,13,13,0.0,11,Hipotiroideo,Hipotiroidismo primario
+70,F,False,Hispana/Mexicana,32.0,No,1.1,157,171,14.78,0.15,No presenta alteración tiroidea,Negativo
+77,F,False,Caucásica,24.7,Sí,1.2,121,89,11.04,6.2,Hipotiroideo,Hipotiroidismo compensado
+18,F,True,Hispana/Mexicana,25.9,No,2.9,58,68,21.97,0.83,No presenta alteración tiroidea,Negativo
+79,F,False,Afrodescendiente,25.5,No,1.6,65,66,12.33,17,Hipotiroideo,Hipotiroidismo compensado
+95,F,False,Hispana/Mexicana,18.5,No,0.8,116,103,17.22,0.96,No presenta alteración tiroidea,Negativo
+87,F,False,Hispana/Mexicana,26.5,No,0.9,115,106,16.76,2.2,No presenta alteración tiroidea,Negativo
+60,M,False,Afrodescendiente,26.6,No,7.1,177,184,23.92,0.005,Hipertiroideo,Hipertiroidismo
+48,F,False,Hispana/Mexicana,23.0,No,1.4,95,88,48.43,7.1,Hipotiroideo,Hipotiroidismo compensado
+30,F,False,Hispana/Mexicana,25.3,Sí,3.5,98,120,17.4,1.2,No presenta alteración tiroidea,Negativo
+50,F,False,Caucásica,25.3,No,3.4,129,131,13.53,0.03,Hipertiroideo,Tóxico T3
+68,F,False,Caucásica,21.3,No,1.3,102,84,12.97,24,Hipotiroideo,Hipotiroidismo compensado
+67,F,False,Caucásica,29.2,No,0.8,96,89,39.6,1.4,No presenta alteración tiroidea,Negativo
+78,F,False,Caucásica,25.8,No,1.9,110,113,22.72,0.77,No presenta alteración tiroidea,Negativo
+47,M,False,Otra,25.0,No,2.1,92,91,16.29,0.9,No presenta alteración tiroidea,Negativo
+56,F,False,Hispana/Mexicana,22.8,No,2.5,119,138,92.53,0.2,No presenta alteración tiroidea,Negativo
+61,F,False,Caucásica,30.4,No,0.9,104,97,118.24,1.2,No presenta alteración tiroidea,Negativo
+47,M,False,Hispana/Mexicana,22.1,No,1.9,82,81,20.03,5.6,No presenta alteración tiroidea,Negativo
+49,F,False,Hispana/Mexicana,23.0,No,1.2,82,89,18.61,2.2,No presenta alteración tiroidea,Negativo
+45,M,False,Caucásica,21.8,No,2,114,119,38.69,6.3,Hipotiroideo,Hipotiroidismo compensado
+50,?,False,Hispana/Mexicana,25.8,No,1,100,78,59.21,0.1,No presenta alteración tiroidea,Negativo
+25,M,False,Caucásica,32.2,No,2.2,113,109,27.74,8.799999,Hipotiroideo,Hipotiroidismo compensado
+52,F,False,Hispana/Mexicana,32.0,No,2.5,54,66,98.39,44,Hipotiroideo,Hipotiroidismo primario
+28,M,False,Hispana/Mexicana,29.3,No,2,124,99,1.71,0.25,No presenta alteración tiroidea,Negativo
+72,M,False,Hispana/Mexicana,26.7,No,2,87,82,14.75,0.7,No presenta alteración tiroidea,Negativo
+24,F,False,Afrodescendiente,19.3,No,2.4,136,126,13.19,1.7,No presenta alteración tiroidea,Negativo
+56,F,False,Caucásica,29.5,Sí,1.2,91,73,21.92,7.9,Hipotiroideo,Hipotiroidismo compensado
+59,F,False,Afrodescendiente,27.0,No,2.1,83,79,14.04,7.1,Hipotiroideo,Hipotiroidismo compensado
+19,F,False,Hispana/Mexicana,23.3,Sí,7.6,256,221,161.85,0.3,Hipertiroideo,Hipertiroidismo
+78,F,False,Afrodescendiente,27.4,No,0.9,60,50,12.58,25,Hipotiroideo,Hipotiroidismo primario
+57,F,False,Afrodescendiente,29.2,No,0.1,72,56,15.13,2.3,No presenta alteración tiroidea,Negativo
+87,F,False,Hispana/Mexicana,23.5,No,1.1,103,105,44.94,0.1,No presenta alteración tiroidea,Negativo
+49,M,False,Hispana/Mexicana,23.4,No,0.2,74,59,0.0,0.08,No presenta alteración tiroidea,Negativo
+73,M,False,Caucásica,25.2,No,1,60,84,16.16,10,Hipotiroideo,Hipotiroidismo primario
+69,M,False,Afrodescendiente,23.8,No,0.1,76,54,6.22,1.4,No presenta alteración tiroidea,Negativo
+27,F,False,Hispana/Mexicana,17.7,Sí,0.4,7.5,7.5,97.94,90,Hipotiroideo,Hipotiroidismo primario
+79,F,False,Caucásica,23.6,No,0.7,72,73,31.74,143,Hipotiroideo,Hipotiroidismo compensado
+50,M,False,Hispana/Mexicana,29.6,Sí,1,28,32,38.83,151,Hipotiroideo,Hipotiroidismo primario
+74,F,False,Afrodescendiente,25.5,No,0.8,141,103,20.3,0.25,No presenta alteración tiroidea,Negativo
+66,F,False,Caucásica,30.5,No,1.5,127,129,0.0,1.5,No presenta alteración tiroidea,Negativo
+61,M,False,Caucásica,31.9,Sí,1.2,101,83,15.45,6.2,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Hispana/Mexicana,17.1,Sí,1.8,189,167,42.64,1.7,No presenta alteración tiroidea,Negativo
+39,F,False,Hispana/Mexicana,48.3,Sí,1.7,111,97,16.81,8.9,Hipotiroideo,Hipotiroidismo compensado
+27,F,False,Hispana/Mexicana,27.0,Sí,2.2,106,94,4.37,2.6,No presenta alteración tiroidea,Negativo
+72,M,False,Caucásica,23.8,Sí,1.2,91,77,13.37,2.3,No presenta alteración tiroidea,Negativo
+83,M,False,Hispana/Mexicana,27.0,No,0.8,98,77,16.2,1.4,No presenta alteración tiroidea,Negativo
+62,F,False,Caucásica,26.1,No,2.2,85,99,36.02,6.6,No presenta alteración tiroidea,Negativo
+57,F,False,Hispana/Mexicana,25.9,Sí,1.2,120,108,19.24,13,Hipotiroideo,Hipotiroidismo compensado
+20,M,False,Caucásica,24.4,No,2.4,101,93,78.85,1.6,No presenta alteración tiroidea,Negativo
+70,F,False,Hispana/Mexicana,24.0,No,1,70,67,7.7,2.7,No presenta alteración tiroidea,Negativo
+34,M,False,Hispana/Mexicana,33.2,No,1.8,80,60,115.44,1.1,No presenta alteración tiroidea,Negativo
+51,F,False,Otra,28.9,No,0.6,10,10,24.23,82,Hipotiroideo,Hipotiroidismo primario
+74,F,False,Caucásica,24.2,No,0.1,137,65,14.24,1.3,No presenta alteración tiroidea,Negativo
+44,F,False,Caucásica,18.0,No,1.1,85,62,10.28,0.35,No presenta alteración tiroidea,Negativo
+77,F,False,Hispana/Mexicana,29.2,No,1.4,123,134,7.18,9.799999,Hipotiroideo,Hipotiroidismo compensado
+74,M,False,Hispana/Mexicana,28.0,No,1,114,102,25.89,3.4,No presenta alteración tiroidea,Negativo
+86,M,False,Hispana/Mexicana,36.2,No,0.2,50,38,134.65,5.5,No presenta alteración tiroidea,Negativo
+46,M,False,Caucásica,31.0,No,4.5,205,156,20.47,0.02,Hipertiroideo,Hipertiroidismo
+37,F,False,Caucásica,16.1,No,0.9,43,45,19.38,55,Hipotiroideo,Hipotiroidismo primario
+19,F,False,Caucásica,22.6,No,1.6,121,110,51.11,8,Hipotiroideo,Hipotiroidismo compensado
+19,F,False,Caucásica,23.7,No,1.9,93,100,11.9,1.7,No presenta alteración tiroidea,Negativo
+32,F,False,Caucásica,21.0,No,2.2,75,76,21.59,7.9,Hipotiroideo,Hipotiroidismo compensado
+43,F,False,Afrodescendiente,25.1,Sí,1.8,67,60,5.13,6.5,Hipotiroideo,Hipotiroidismo compensado
+62,F,False,Caucásica,21.8,No,0.05,3,4,6.4,260,Hipotiroideo,Hipotiroidismo primario
+32,F,False,Hispana/Mexicana,20.2,No,2.2,75,76,60.24,7.9,No presenta alteración tiroidea,Negativo
+48,M,False,Afrodescendiente,18.3,No,1.2,107,97,16.78,0.8,No presenta alteración tiroidea,Negativo
+47,M,False,Caucásica,26.1,Sí,2.1,119,94,6.0,1.1,No presenta alteración tiroidea,Negativo
+23,F,False,Caucásica,30.2,Sí,18,642,430,12.87,0.065,Hipertiroideo,Hipertiroidismo
+37,F,False,Afrodescendiente,26.2,No,0.9,43,45,22.86,55,Hipotiroideo,Hipotiroidismo primario
+50,F,False,Caucásica,29.3,No,2.2,74,75,27.12,40,Hipotiroideo,Hipotiroidismo compensado
+58,F,False,Caucásica,25.6,Sí,1.6,77,82,0.0,7.5,Hipotiroideo,Hipotiroidismo compensado
+62,M,False,Hispana/Mexicana,31.8,No,1.1,114,84,2.15,8.6,Hipotiroideo,Hipotiroidismo compensado
+79,M,False,Caucásica,30.8,No,3.4,203,151,76.26,0.005,Hipertiroideo,Hipertiroidismo
+16,F,False,Hispana/Mexicana,26.8,No,2.4,119,110,17.4,2.3,No presenta alteración tiroidea,Negativo
+26,F,False,Hispana/Mexicana,27.3,Sí,2.5,129,147,0.0,1.8,No presenta alteración tiroidea,Negativo
+22,F,False,Afrodescendiente,26.3,No,1.1,125,102,15.45,2.6,No presenta alteración tiroidea,Negativo
+52,M,False,Hispana/Mexicana,30.1,Sí,1.8,106,102,0.0,1,No presenta alteración tiroidea,Negativo
+59,F,False,Hispana/Mexicana,30.8,Sí,1.3,128,120,92.6,4,No presenta alteración tiroidea,Negativo
+60,M,False,Caucásica,21.2,Sí,0.8,52,44,8.89,1.2,No presenta alteración tiroidea,Negativo
+71,M,False,Caucásica,23.5,Sí,1.1,123,137,24.98,0.4,No presenta alteración tiroidea,Negativo
+26,M,False,Hispana/Mexicana,31.9,No,1.8,140,120,0.0,0.25,No presenta alteración tiroidea,Negativo
+51,F,False,Hispana/Mexicana,25.9,No,0.4,3,3,17.21,24,Hipotiroideo,Hipotiroidismo primario
+83,F,False,Caucásica,25.7,No,0.9,113,86,87.41,0.92,No presenta alteración tiroidea,Negativo
+39,F,False,Afrodescendiente,36.7,No,0.3,94,73,16.33,0.2,No presenta alteración tiroidea,Negativo
+1,M,False,Afrodescendiente,25.2,Sí,2.7,138,150,12.07,16,Hipotiroideo,Hipotiroidismo compensado
+68,F,False,Caucásica,22.9,No,0.9,121,76,12.64,1.5,No presenta alteración tiroidea,Negativo
+48,M,False,Afrodescendiente,15.8,No,2.5,89,81,29.91,1.2,No presenta alteración tiroidea,Negativo
+69,F,False,Afrodescendiente,27.3,No,1.9,104,90,3.07,2.1,No presenta alteración tiroidea,Negativo
+79,F,False,Hispana/Mexicana,33.2,No,0.4,122,73,68.56,2.3,No presenta alteración tiroidea,Negativo
+47,M,False,Caucásica,22.4,Sí,0.4,10,9,16.78,80,Hipotiroideo,Hipotiroidismo primario
+19,F,False,Hispana/Mexicana,18.2,Sí,1.1,138,126,40.45,3.7,No presenta alteración tiroidea,Negativo
+63,F,False,Hispana/Mexicana,26.2,No,1.3,37,39,26.02,126,Hipotiroideo,Hipotiroidismo primario
+78,M,False,Caucásica,25.0,No,0.8,133,108,34.31,1.5,No presenta alteración tiroidea,Negativo
+60,F,False,Otra,20.2,No,1,89,73,22.22,0.5,No presenta alteración tiroidea,Negativo
+51,M,False,Caucásica,25.0,No,2.5,130,106,19.09,2.4,No presenta alteración tiroidea,Negativo
+76,F,False,Afrodescendiente,28.6,No,2.6,98,122,2.21,1.1,No presenta alteración tiroidea,Negativo
+62,F,False,Caucásica,24.2,No,2.2,79,85,66.2,0.4,No presenta alteración tiroidea,Negativo
+54,F,False,Afrodescendiente,19.0,No,1.9,61,48,15.75,40,Hipotiroideo,Hipotiroidismo primario
+71,M,False,Hispana/Mexicana,27.2,No,0.4,50,37,11.77,38,Hipotiroideo,Hipotiroidismo primario
+79,F,False,Hispana/Mexicana,15.0,No,0.8,109,94,30.85,0.84,No presenta alteración tiroidea,Negativo
+41,F,False,Hispana/Mexicana,27.5,No,7.3,395,430,23.14,0.15,Hipertiroideo,Hipertiroidismo
+59,F,False,Caucásica,28.6,No,1.9,88,98,21.64,7.1,Hipotiroideo,Hipotiroidismo compensado
+72,M,False,Afrodescendiente,25.6,No,1,87,53,29.24,1.1,No presenta alteración tiroidea,Negativo
+56,F,False,Afrodescendiente,23.6,No,6.4,197,191,15.13,0.03,Hipertiroideo,Hipertiroidismo
+48,F,False,Caucásica,22.5,Sí,1.4,91,80,24.68,0.5,No presenta alteración tiroidea,Negativo
+78,F,False,Caucásica,26.1,No,0.7,43,42,18.7,21,Hipotiroideo,Hipotiroidismo primario
+27,M,False,Afrodescendiente,28.4,No,1.9,105,89,14.71,1.4,No presenta alteración tiroidea,Negativo
+70,F,False,Afrodescendiente,29.5,Sí,3.5,215,194,11.5,0.005,Hipertiroideo,Hipertiroidismo
+59,M,False,Afrodescendiente,19.0,Sí,1.8,124,102,13.42,0.25,No presenta alteración tiroidea,Negativo
+65,M,False,Caucásica,22.4,Sí,1.4,86,79,135.99,7.7,Hipotiroideo,Hipotiroidismo compensado
+70,M,False,Hispana/Mexicana,22.3,Sí,0.7,142,81,30.71,2.1,No presenta alteración tiroidea,Negativo
+58,F,False,Afrodescendiente,26.6,No,0.9,117,122,16.49,0.21,No presenta alteración tiroidea,Negativo
+73,F,False,Hispana/Mexicana,30.5,No,2,188,192,3.49,0.1,Hipertiroideo,Hipertiroidismo
+52,F,False,Caucásica,30.2,Sí,0.7,84,90,39.08,1.5,No presenta alteración tiroidea,Negativo
+71,M,False,Caucásica,27.0,No,0.3,46,31,18.79,25,Hipotiroideo,Hipotiroidismo primario
+33,M,False,Hispana/Mexicana,30.2,No,2.1,93,69,29.78,1.9,No presenta alteración tiroidea,Negativo
+65,M,False,Caucásica,45.7,No,2.1,156,154,60.57,2,No presenta alteración tiroidea,Negativo
+70,F,False,Caucásica,27.7,No,1.3,117,125,74.67,6.3,Hipotiroideo,Hipotiroidismo compensado
+21,F,False,Hispana/Mexicana,21.6,No,1.9,106,112,0.0,1.3,No presenta alteración tiroidea,Negativo
+55,F,False,Hispana/Mexicana,23.2,No,2.5,94,106,14.95,9.2,Hipotiroideo,Hipotiroidismo compensado
+59,F,False,Caucásica,27.6,No,2.1,83,79,48.79,7.1,Hipotiroideo,Hipotiroidismo compensado
+46,F,False,Caucásica,37.8,No,1.1,103,94,4.14,1.7,No presenta alteración tiroidea,Negativo
+41,F,False,Hispana/Mexicana,19.5,Sí,3.8,204,253,25.19,0.2,Hipertiroideo,Hipertiroidismo
+68,F,False,Caucásica,25.4,Sí,1.8,82,72,38.16,28,No presenta alteración tiroidea,Negativo
+30,M,False,Hispana/Mexicana,25.4,No,1.9,96,86,50.68,0.2,No presenta alteración tiroidea,Negativo
+58,F,False,Caucásica,23.8,Sí,?,283,256,0.0,0.2,Hipertiroideo,Hipertiroidismo
+79,M,False,Otra,21.5,No,3.1,209,162,48.63,?,Hipertiroideo,Hipertiroidismo
+81,F,False,Afrodescendiente,26.5,No,2.2,171,133,15.42,0.2,No presenta alteración tiroidea,Negativo
+60,M,False,Caucásica,23.6,No,1,138,141,15.98,0.9,No presenta alteración tiroidea,Negativo
+87,M,False,Caucásica,25.2,No,1.2,118,103,8.14,1,No presenta alteración tiroidea,Negativo
+43,F,False,Caucásica,38.7,No,1.9,81,95,24.31,8.299999,Hipotiroideo,Hipotiroidismo compensado
+54,M,False,Hispana/Mexicana,29.5,Sí,0.9,101,86,10.89,1.1,No presenta alteración tiroidea,Negativo
+59,F,False,Afrodescendiente,21.0,No,2.6,126,180,9.15,0.82,No presenta alteración tiroidea,Negativo
+64,F,False,Hispana/Mexicana,16.7,No,1,123,101,51.6,0.09,No presenta alteración tiroidea,Negativo
+85,F,False,Hispana/Mexicana,35.6,Sí,1.1,102,110,64.76,1,No presenta alteración tiroidea,Negativo
+72,M,False,Caucásica,23.1,No,1,92,75,5.74,5.4,No presenta alteración tiroidea,Negativo
+52,F,False,Caucásica,23.1,No,2.3,85,106,15.72,8.8,Hipotiroideo,Hipotiroidismo compensado
+39,F,False,Caucásica,28.1,Sí,0.4,8.9,11,23.04,160,Hipotiroideo,Hipotiroidismo primario
+48,F,False,Caucásica,30.7,Sí,8.9,240,212,46.84,0.3,Hipertiroideo,Hipertiroidismo
+75,F,False,Afrodescendiente,31.5,No,1.1,131,132,10.27,4.5,No presenta alteración tiroidea,Negativo
+50,M,False,Caucásica,22.9,No,1.3,99,86,12.15,13,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Afrodescendiente,30.1,Sí,2.6,180,160,18.68,0.005,Hipertiroideo,Hipertiroidismo
+79,F,False,Afrodescendiente,22.3,No,1.5,100,105,22.55,2.8,No presenta alteración tiroidea,Negativo
+37,F,False,Afrodescendiente,20.4,No,2.7,109,155,15.09,2.4,No presenta alteración tiroidea,Negativo
+62,F,False,Caucásica,27.8,No,1.3,113,134,12.35,3.4,No presenta alteración tiroidea,Negativo
+56,F,False,Caucásica,31.8,Sí,4.1,191,191,95.17,0.015,Hipertiroideo,Hipertiroidismo
+44,M,False,Caucásica,28.4,Sí,0.6,10,10,47.53,199,No presenta alteración tiroidea,Negativo
+58,F,False,Otra,17.3,No,1.2,85,75,17.79,0.17,No presenta alteración tiroidea,Negativo
+55,F,False,Hispana/Mexicana,34.5,No,1.3,108,93,4.58,0.99,No presenta alteración tiroidea,Negativo
+33,F,False,Hispana/Mexicana,32.6,Sí,0.8,58,51,25.2,6.2,Hipotiroideo,Hipotiroidismo primario
+27,F,False,Hispana/Mexicana,22.7,No,1.6,83,86,11.04,3.1,No presenta alteración tiroidea,Negativo
+38,F,False,Afrodescendiente,27.4,No,1.7,57,59,17.75,44,Hipotiroideo,Hipotiroidismo primario
+29,F,False,Otra,16.3,No,2.8,85,111,37.15,6.1,Hipotiroideo,Hipotiroidismo compensado
+60,M,False,Hispana/Mexicana,23.2,No,2.2,113,107,1.36,1.1,No presenta alteración tiroidea,Negativo
+24,F,False,Otra,19.7,No,2.3,67,73,42.57,1.4,No presenta alteración tiroidea,Negativo
+1,?,False,Afrodescendiente,23.3,Sí,?,?,?,10.17,43,Hipotiroideo,Hipotiroidismo primario
+54,M,False,Caucásica,20.9,Sí,3,110,116,7.46,0.46,No presenta alteración tiroidea,Negativo
+61,F,False,Hispana/Mexicana,23.8,Sí,3.8,222,252,16.41,0.2,Hipertiroideo,Hipertiroidismo
+45,F,False,Caucásica,36.2,Sí,2.1,106,100,46.91,1.4,No presenta alteración tiroidea,Negativo
+84,F,False,Hispana/Mexicana,19.1,Sí,?,94,101,98.47,12,Hipotiroideo,Hipotiroidismo compensado
+46,F,False,Caucásica,30.1,No,0.5,51,37,15.72,9.7,Hipotiroideo,Hipotiroidismo primario
+82,F,False,Afrodescendiente,23.6,No,0.83,135,104,11.24,1.6,No presenta alteración tiroidea,Negativo
+60,M,False,Afrodescendiente,27.1,Sí,1.8,114,114,55.84,0.3,No presenta alteración tiroidea,Negativo
+36,F,False,Afrodescendiente,34.4,No,3.7,79,131,18.66,8.6,Hipotiroideo,Hipotiroidismo compensado
+74,F,False,Caucásica,33.4,No,0.7,66,69,30.36,23,Hipotiroideo,Hipotiroidismo compensado
+69,F,False,Hispana/Mexicana,31.1,No,0.9,88,86,28.44,0.1,No presenta alteración tiroidea,Negativo
+54,F,False,Hispana/Mexicana,25.2,No,2.5,62,56,2.29,1.4,No presenta alteración tiroidea,Negativo
+27,F,False,Hispana/Mexicana,24.0,No,5.3,281,272,12.67,0.02,Hipertiroideo,Hipertiroidismo
+69,F,False,Hispana/Mexicana,29.3,No,1.3,83,88,9.64,11.1,Hipotiroideo,Hipotiroidismo compensado
+43,F,False,Caucásica,21.9,Sí,2.3,82,81,42.28,7.2,Hipotiroideo,Hipotiroidismo compensado
+26,F,True,Hispana/Mexicana,28.8,Sí,3.9,96,122,43.43,0.2,No presenta alteración tiroidea,Negativo
+76,F,False,Afrodescendiente,28.5,No,0.8,58,60,19.08,11,Hipotiroideo,Hipotiroidismo primario
+71,M,False,Afrodescendiente,23.7,No,0.7,91,71,11.81,0.5,No presenta alteración tiroidea,Negativo
+67,?,False,Afrodescendiente,20.4,No,0.9,102,75,3.52,0.2,No presenta alteración tiroidea,Negativo
+59,F,False,Hispana/Mexicana,30.0,No,1.5,112,133,27.02,0.6,No presenta alteración tiroidea,Negativo
+28,F,False,Afrodescendiente,23.6,No,2.2,110,136,13.19,6.1,Hipotiroideo,Hipotiroidismo compensado
+73,F,False,Hispana/Mexicana,29.5,No,1.1,58,52,37.05,47,Hipotiroideo,Hipotiroidismo primario
+55,M,False,Afrodescendiente,19.4,No,0.3,96,73,12.86,8.6,Hipotiroideo,Hipotiroidismo compensado
+39,F,False,Caucásica,25.9,No,6.6,280,248,10.28,?,Hipertiroideo,Hipertiroidismo
+85,F,False,Caucásica,30.6,No,2,37,38,19.9,44,Hipotiroideo,Hipotiroidismo primario
+70,F,False,Hispana/Mexicana,23.6,No,1.5,83,88,59.26,34,Hipotiroideo,Hipotiroidismo compensado
+78,F,False,Caucásica,20.6,No,2,71,69,15.16,10,No presenta alteración tiroidea,Negativo
+75,F,False,Otra,22.7,No,1.9,80,79,0.0,9.599999,Hipotiroideo,Hipotiroidismo compensado
+54,M,False,Caucásica,25.0,Sí,1.5,77,60,51.7,16,Hipotiroideo,Hipotiroidismo compensado
+80,M,False,Hispana/Mexicana,28.0,No,3.7,164,152,13.24,0.05,Hipertiroideo,Hipertiroidismo
+60,F,False,Hispana/Mexicana,33.2,Sí,0.5,9.099999,11,24.32,400,Hipotiroideo,Hipotiroidismo primario
+25,M,False,Hispana/Mexicana,19.3,Sí,0.2,17,16,14.82,236,Hipotiroideo,Hipotiroidismo primario
+46,F,False,Afrodescendiente,32.3,No,2.3,65,64,5.71,6.4,Hipotiroideo,Hipotiroidismo compensado
+64,F,False,Hispana/Mexicana,30.2,No,1,123,101,29.76,0.09,No presenta alteración tiroidea,Negativo
+60,M,False,Otra,27.6,No,1,112,102,11.32,0.91,No presenta alteración tiroidea,Negativo
+73,F,False,Hispana/Mexicana,20.6,No,1,98,89,0.74,4.1,No presenta alteración tiroidea,Negativo
+55,M,False,Afrodescendiente,25.6,No,0.9,88,79,9.38,1.6,No presenta alteración tiroidea,Negativo
+46,M,False,Afrodescendiente,27.7,No,0.9,109,102,16.83,2,No presenta alteración tiroidea,Negativo
+22,F,False,Caucásica,24.4,Sí,3.6,104,148,20.8,2.3,No presenta alteración tiroidea,Negativo
+39,F,False,Caucásica,24.8,No,1.9,118,102,43.52,1.5,No presenta alteración tiroidea,Negativo
+74,F,False,Caucásica,25.6,No,1.7,119,146,29.74,6.3,Hipotiroideo,Hipotiroidismo compensado
+59,F,False,Caucásica,24.9,No,2,8.5,10,42.44,530,Hipotiroideo,Hipotiroidismo primario
+62,M,False,Hispana/Mexicana,37.9,No,1.3,55,45,49.9,39,Hipotiroideo,Hipotiroidismo primario
+22,F,False,Hispana/Mexicana,26.0,Sí,2.4,131,157,57.63,2.7,No presenta alteración tiroidea,Negativo
+51,F,False,Otra,34.4,No,0.4,3,3,37.85,24,Hipotiroideo,Hipotiroidismo primario
+68,F,False,Caucásica,29.7,Sí,2.5,71,111,20.66,20,No presenta alteración tiroidea,Negativo
+72,M,False,Caucásica,19.2,No,1,78,80,37.14,2.7,No presenta alteración tiroidea,Negativo
+50,F,False,Hispana/Mexicana,30.2,No,2,92,116,26.68,2.8,No presenta alteración tiroidea,Negativo
+70,F,False,Caucásica,19.9,Sí,0.8,126,99,6.04,1.5,No presenta alteración tiroidea,Negativo
+55,M,False,Otra,27.1,No,0.9,136,122,12.53,2.8,No presenta alteración tiroidea,Negativo
+56,F,False,Hispana/Mexicana,29.2,No,3.9,126,141,22.44,?,Hipertiroideo,Tóxico T3
+52,F,False,Caucásica,18.7,Sí,1.8,102,109,40.09,12,Hipotiroideo,Hipotiroidismo compensado
+76,F,False,Afrodescendiente,20.1,No,1.2,101,86,14.43,11,Hipotiroideo,Hipotiroidismo compensado
+47,F,False,Hispana/Mexicana,24.6,No,1,148,130,10.52,2,No presenta alteración tiroidea,Negativo
+55,F,False,Hispana/Mexicana,25.6,Sí,3.6,172,301,89.26,0.2,No presenta alteración tiroidea,Negativo
+35,?,False,Afrodescendiente,35.9,No,2.5,?,?,14.74,28,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Caucásica,20.0,No,1.3,84,96,70.03,0.7,No presenta alteración tiroidea,Negativo
+66,M,False,Caucásica,21.6,No,0.6,93,78,15.76,1.2,No presenta alteración tiroidea,Negativo
+78,F,False,Hispana/Mexicana,26.3,No,0.9,74,65,22.26,1.3,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,26.3,Sí,0.8,112,90,9.58,2.3,No presenta alteración tiroidea,Negativo
+33,F,False,Hispana/Mexicana,28.8,Sí,5.2,220,183,79.21,0.16,No presenta alteración tiroidea,Negativo
+81,F,False,Otra,25.5,No,0.8,121,109,14.29,1.2,No presenta alteración tiroidea,Negativo
+50,F,False,Caucásica,24.7,No,0.6,122,98,9.26,4.8,No presenta alteración tiroidea,Negativo
+79,M,False,Hispana/Mexicana,20.4,No,0.9,102,86,26.65,2.7,No presenta alteración tiroidea,Negativo
+53,F,False,Hispana/Mexicana,21.8,Sí,2.1,107,117,22.26,1.6,No presenta alteración tiroidea,Negativo
+44,M,False,Afrodescendiente,29.6,No,0.6,10,10,17.01,199,Hipotiroideo,Hipotiroidismo primario
+76,F,False,Caucásica,28.6,No,1.7,70,61,14.37,34,Hipotiroideo,Hipotiroidismo compensado
+45,M,False,Caucásica,28.6,No,2,114,119,9.52,6.3,Hipotiroideo,Hipotiroidismo compensado
+53,F,False,Caucásica,18.8,No,0.9,109,93,10.11,1,No presenta alteración tiroidea,Negativo
+77,F,False,Hispana/Mexicana,20.9,No,1.7,120,123,6.69,12,Hipotiroideo,Hipotiroidismo compensado
+41,F,False,Hispana/Mexicana,32.1,Sí,7.3,395,430,79.41,0.15,Hipertiroideo,Hipertiroidismo
+47,F,False,Afrodescendiente,22.9,No,2.1,58,56,20.13,0.5,No presenta alteración tiroidea,Negativo
+78,F,False,Otra,22.6,No,1.1,76,70,13.41,2.5,No presenta alteración tiroidea,Negativo
+34,F,False,Caucásica,28.0,No,1.4,80,78,28.39,35,Hipotiroideo,Hipotiroidismo compensado
+30,F,True,Afrodescendiente,31.1,No,3.6,96,159,6.94,1.1,No presenta alteración tiroidea,Negativo
+68,M,False,Hispana/Mexicana,26.6,Sí,2,81,81,80.43,15,Hipotiroideo,Hipotiroidismo compensado
+26,F,False,Caucásica,19.0,No,2.1,132,140,80.38,1.6,No presenta alteración tiroidea,Negativo
+70,F,False,Hispana/Mexicana,24.7,No,1.7,122,97,23.7,1.4,No presenta alteración tiroidea,Negativo
+43,F,False,Hispana/Mexicana,28.6,No,0.5,2.8,2.9,24.6,70,Hipotiroideo,Hipotiroidismo primario
+32,F,False,Hispana/Mexicana,32.2,Sí,1.6,71,62,67.62,16,Hipotiroideo,Hipotiroidismo compensado
+77,M,False,Hispana/Mexicana,29.5,No,1.2,157,146,41.09,0.6,No presenta alteración tiroidea,Negativo
+87,F,False,Caucásica,29.1,No,3.4,200,164,38.22,0.2,Hipertiroideo,Hipertiroidismo
+62,M,False,Caucásica,22.4,No,2,134,139,19.11,1.1,No presenta alteración tiroidea,Negativo
+60,M,False,Caucásica,26.7,No,1,121,84,34.76,4.4,No presenta alteración tiroidea,Negativo
+33,F,False,Afrodescendiente,28.5,No,1.5,172,157,21.38,0.2,Hipertiroideo,Hipertiroidismo
+28,F,False,Hispana/Mexicana,14.5,Sí,2.1,56,65,64.03,103,Hipotiroideo,Hipotiroidismo primario
+72,F,False,Afrodescendiente,23.2,No,0.3,139,85,21.16,1.1,No presenta alteración tiroidea,Negativo
+56,F,False,Hispana/Mexicana,30.3,No,2.5,81,77,0.0,13,Hipotiroideo,Hipotiroidismo compensado
+56,F,False,Otra,31.0,No,1,70,54,13.15,2,No presenta alteración tiroidea,Negativo
+36,F,False,Afrodescendiente,26.1,No,4.5,172,198,18.49,0.085,Hipertiroideo,Hipertiroidismo
+79,F,False,Afrodescendiente,30.9,No,0.9,107,102,21.34,1.3,No presenta alteración tiroidea,Negativo
+63,M,False,Caucásica,21.3,No,1.5,155,101,35.1,6.7,Hipotiroideo,Hipotiroidismo compensado
+60,F,False,Caucásica,38.2,No,2.1,112,118,38.18,8.099999,Hipotiroideo,Hipotiroidismo compensado
+59,M,False,Caucásica,30.5,No,1.5,90,88,133.55,12,Hipotiroideo,Hipotiroidismo compensado
+71,F,False,Caucásica,26.0,Sí,2,92,96,6.44,1.5,No presenta alteración tiroidea,Negativo
+48,M,False,Caucásica,28.7,Sí,3.5,123,166,68.98,3.5,No presenta alteración tiroidea,Negativo
+68,M,False,Caucásica,26.0,No,1.1,128,115,26.68,4,No presenta alteración tiroidea,Negativo
+45,F,False,Hispana/Mexicana,20.7,No,?,?,?,9.41,24,Hipotiroideo,Hipotiroidismo primario
+77,F,False,Otra,33.7,No,0.8,113,99,12.65,2.1,No presenta alteración tiroidea,Negativo
+69,F,False,Caucásica,23.1,No,0.9,107,93,9.85,0.21,No presenta alteración tiroidea,Negativo
+34,F,False,Caucásica,21.1,No,0.4,9,9,15.78,49,Hipotiroideo,Hipotiroidismo primario
+53,F,False,Caucásica,26.3,No,2.4,103,132,14.19,8.099999,Hipotiroideo,Hipotiroidismo compensado
+26,M,False,Afrodescendiente,28.8,No,2.1,98,73,25.21,5.7,No presenta alteración tiroidea,Negativo
+45,F,False,Afrodescendiente,26.8,No,2.1,106,100,0.0,1.4,No presenta alteración tiroidea,Negativo
+23,F,False,Otra,31.3,No,2.9,235,205,12.4,0.01,No presenta alteración tiroidea,Negativo
+65,F,False,Otra,19.2,No,1.4,88,84,24.72,3.2,No presenta alteración tiroidea,Negativo
+84,M,False,Caucásica,28.6,No,1,111,81,5.68,3.2,No presenta alteración tiroidea,Negativo
+60,F,False,Hispana/Mexicana,23.1,Sí,0.8,10,12,21.72,99,Hipotiroideo,Hipotiroidismo primario
+51,M,False,Hispana/Mexicana,23.5,No,1.9,110,92,22.88,19,Hipotiroideo,Hipotiroidismo compensado
+62,M,False,Caucásica,28.9,No,0.4,53,42,42.64,80,Hipotiroideo,Hipotiroidismo primario
+61,M,False,Afrodescendiente,27.5,No,1.2,140,109,13.3,2.1,No presenta alteración tiroidea,Negativo
+39,F,False,Caucásica,23.7,No,2,110,102,88.01,1.2,No presenta alteración tiroidea,Negativo
+59,F,False,Hispana/Mexicana,31.2,No,0.7,107,84,23.26,6.8,Hipotiroideo,Hipotiroidismo compensado
+27,M,False,Hispana/Mexicana,30.9,Sí,1.9,105,89,18.71,1.4,No presenta alteración tiroidea,Negativo
+51,F,False,Caucásica,27.6,Sí,1.8,86,68,12.42,2,No presenta alteración tiroidea,Negativo
+59,F,False,Hispana/Mexicana,25.2,Sí,0.8,93,68,23.25,2.6,No presenta alteración tiroidea,Negativo
+49,F,False,Hispana/Mexicana,25.0,No,2.1,179,183,21.12,0.035,Hipertiroideo,Hipertiroidismo
+53,F,False,Hispana/Mexicana,16.1,No,1.4,11,14,31.11,183,Hipotiroideo,Hipotiroidismo primario
+79,F,False,Hispana/Mexicana,22.1,Sí,1.2,111,113,11.84,0.8,No presenta alteración tiroidea,Negativo
+60,M,False,Caucásica,21.4,No,1,51,32,17.93,30.5,Hipotiroideo,Hipotiroidismo primario
+44,F,False,Caucásica,24.1,Sí,1.8,107,108,16.79,8.4,Hipotiroideo,Hipotiroidismo compensado
+67,F,False,Hispana/Mexicana,22.2,Sí,1,49,48,21.76,46,Hipotiroideo,Hipotiroidismo primario
+26,F,False,Hispana/Mexicana,26.6,No,0.5,16,22,78.12,460,Hipotiroideo,Hipotiroidismo primario
+41,F,False,Hispana/Mexicana,29.3,No,7.3,395,430,6.69,0.15,No presenta alteración tiroidea,Negativo
+40,F,False,Hispana/Mexicana,20.7,No,0.7,154,128,12.35,0.15,No presenta alteración tiroidea,Negativo
+55,F,False,Caucásica,26.9,No,5.5,274,219,16.51,0.01,Hipertiroideo,Hipertiroidismo
+49,F,False,Caucásica,23.2,No,0.7,76,72,14.34,116,No presenta alteración tiroidea,Negativo
+37,F,False,Afrodescendiente,22.7,No,2.4,68,84,17.72,12,Hipotiroideo,Hipotiroidismo compensado
+61,F,False,Afrodescendiente,26.0,No,3.8,222,252,14.97,0.2,Hipertiroideo,Hipertiroidismo
+66,F,False,Otra,22.6,Sí,1.9,147,153,11.46,0.42,No presenta alteración tiroidea,Negativo
+62,M,False,Hispana/Mexicana,23.1,No,0.4,10,10,15.61,100,Hipotiroideo,Hipotiroidismo primario
+47,F,False,Caucásica,32.1,No,1.2,138,117,64.66,0.79,No presenta alteración tiroidea,Negativo
+26,F,False,Caucásica,22.6,No,5.1,160,187,0.0,0.2,Hipertiroideo,Hipertiroidismo
+36,F,False,Afrodescendiente,29.8,No,4.1,84,139,5.07,7.5,Hipotiroideo,Hipotiroidismo compensado
+78,M,False,Caucásica,32.6,No,1.8,111,80,10.49,2.1,No presenta alteración tiroidea,Negativo
+87,F,False,Caucásica,27.5,Sí,3.4,200,164,18.93,0.2,Hipertiroideo,Hipertiroidismo
+74,F,False,Caucásica,27.7,No,1.2,103,96,4.22,3,No presenta alteración tiroidea,Negativo
+42,M,False,Hispana/Mexicana,21.7,No,0.5,1.4,2,24.06,235,Hipotiroideo,Hipotiroidismo primario
+25,F,False,Afrodescendiente,23.7,No,2.3,67,73,10.74,26.4,Hipotiroideo,Hipotiroidismo compensado
+58,F,False,Hispana/Mexicana,21.7,No,1.6,77,82,14.9,7.5,Hipotiroideo,Hipotiroidismo compensado
+52,F,False,Caucásica,27.7,No,0.9,145,105,79.28,4.6,No presenta alteración tiroidea,Negativo
+55,F,False,Caucásica,26.3,No,2.5,94,106,28.94,9.2,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Caucásica,28.5,Sí,1.6,135,126,15.96,0.9,No presenta alteración tiroidea,Negativo
+24,M,False,Caucásica,28.9,No,2.7,143,116,28.25,0.15,No presenta alteración tiroidea,Negativo
+68,F,False,Hispana/Mexicana,23.5,No,?,77,93,21.63,19,Hipotiroideo,Hipotiroidismo compensado
+56,F,False,Otra,26.9,No,7.1,222,223,15.5,0.02,Hipertiroideo,Hipertiroidismo
+37,F,False,Hispana/Mexicana,27.1,No,0.7,84,61,133.73,0.25,No presenta alteración tiroidea,Negativo
+36,F,False,Caucásica,29.0,Sí,0.2,4,4,93.38,22,Hipotiroideo,Hipotiroidismo primario
+20,F,False,Hispana/Mexicana,27.4,No,3.3,112,121,1.75,2.6,No presenta alteración tiroidea,Negativo
+48,F,False,Caucásica,27.4,No,1.9,26,29,45.09,98,Hipotiroideo,Hipotiroidismo primario
+36,F,False,Caucásica,27.4,Sí,2.4,109,119,14.77,0.24,No presenta alteración tiroidea,Negativo
+44,M,False,Afrodescendiente,33.2,No,1.4,33,39,29.69,45,Hipotiroideo,Hipotiroidismo primario
+56,F,False,Caucásica,35.2,Sí,?,217,230,26.63,0.05,Hipertiroideo,Hipertiroidismo
+52,M,False,Caucásica,26.6,No,2.7,147,122,8.23,0.015,No presenta alteración tiroidea,Negativo
+75,F,False,Afrodescendiente,31.7,No,1.9,80,79,13.56,9.6,Hipotiroideo,Hipotiroidismo compensado
+75,F,False,Caucásica,22.8,Sí,1.6,101,90,38.47,10,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Caucásica,30.7,No,1.1,96,89,0.0,2.2,No presenta alteración tiroidea,Negativo
+24,F,False,Caucásica,23.9,No,0.7,28,28,50.74,65,Hipotiroideo,Hipotiroidismo primario
+80,F,False,Caucásica,31.4,No,0.4,127,90,83.1,0.55,No presenta alteración tiroidea,Negativo
+19,M,False,Afrodescendiente,35.6,No,2,112,98,0.44,0.84,No presenta alteración tiroidea,Negativo
+60,F,False,Caucásica,33.0,No,1.8,61,59,26.36,8.1,Hipotiroideo,Hipotiroidismo primario
+68,F,False,Caucásica,25.3,No,1.3,102,84,18.47,24,Hipotiroideo,Hipotiroidismo compensado
+23,F,False,Caucásica,30.3,Sí,1,108,83,0.0,0.5,No presenta alteración tiroidea,Negativo
+73,F,False,Caucásica,25.2,No,2,129,119,40.1,2.4,No presenta alteración tiroidea,Negativo
+72,M,False,Caucásica,23.6,Sí,1,66,52,0.0,0.7,No presenta alteración tiroidea,Negativo
+40,F,False,Hispana/Mexicana,25.2,No,1.7,141,132,13.73,0.15,No presenta alteración tiroidea,Negativo
+71,M,False,Caucásica,23.2,No,1.1,105,91,13.21,0.55,No presenta alteración tiroidea,Negativo
+26,F,False,Hispana/Mexicana,23.0,No,1.5,93,87,10.65,1.9,No presenta alteración tiroidea,Negativo
+50,F,False,Caucásica,21.4,No,0.2,9,10,51.04,89,Hipotiroideo,Hipotiroidismo primario
+30,F,False,Afrodescendiente,28.9,Sí,3.5,98,120,1.67,1.2,No presenta alteración tiroidea,Negativo
+30,F,False,Otra,26.0,Sí,2.2,96,99,19.93,2.5,No presenta alteración tiroidea,Negativo
+18,F,False,Afrodescendiente,27.4,No,3.1,177,160,16.58,0.25,Hipertiroideo,Hipertiroidismo
+71,F,False,Caucásica,24.9,No,1.7,86,89,15.15,3.6,No presenta alteración tiroidea,Negativo
+18,F,False,Hispana/Mexicana,21.2,No,2.4,131,220,26.44,9.6,No presenta alteración tiroidea,Negativo
+71,F,False,Afrodescendiente,31.9,No,1.9,104,97,21.34,18,Hipotiroideo,Hipotiroidismo compensado
+55,F,False,Afrodescendiente,29.9,No,1.9,80,85,12.09,9.299999,Hipotiroideo,Hipotiroidismo compensado
+76,F,False,Afrodescendiente,32.6,No,0.9,144,80,17.91,0.3,No presenta alteración tiroidea,Negativo
+92,F,False,Afrodescendiente,35.8,No,0.9,101,92,1.65,0.14,No presenta alteración tiroidea,Negativo
+73,M,False,Afrodescendiente,44.4,No,0.7,150,92,18.61,1,No presenta alteración tiroidea,Negativo
+75,F,False,Caucásica,21.0,Sí,2.1,171,172,17.67,0.25,No presenta alteración tiroidea,Negativo
+75,F,False,Hispana/Mexicana,25.2,No,1.4,90,104,0.0,17,Hipotiroideo,Hipotiroidismo compensado
+31,F,False,Hispana/Mexicana,27.8,No,2,105,159,13.93,7.8,No presenta alteración tiroidea,Negativo
+86,F,False,Caucásica,20.6,No,1.8,100,89,20.2,0.25,No presenta alteración tiroidea,Negativo
+80,M,False,Caucásica,21.5,Sí,2.8,134,225,27.18,1.3,No presenta alteración tiroidea,Negativo
+82,F,False,Afrodescendiente,29.3,No,4.3,139,147,3.17,0.1,Hipertiroideo,Tóxico T3
+66,F,False,Otra,20.7,No,0.6,100,86,13.78,1.9,No presenta alteración tiroidea,Negativo
+28,F,False,Afrodescendiente,29.5,No,2.1,56,65,31.93,103,Hipotiroideo,Hipotiroidismo primario
+85,F,False,Afrodescendiente,27.3,No,0.8,166,161,14.16,0.84,No presenta alteración tiroidea,Negativo
+32,M,False,Afrodescendiente,25.8,No,0.2,3,3,9.42,109,Hipotiroideo,Hipotiroidismo primario
+73,F,False,Caucásica,25.4,No,1.8,198,198,31.01,1.7,No presenta alteración tiroidea,Negativo
+66,M,False,Caucásica,20.1,No,1.8,130,133,20.91,0.05,No presenta alteración tiroidea,Negativo
+62,M,False,Afrodescendiente,24.0,No,0.5,82,78,14.82,0.72,No presenta alteración tiroidea,Negativo
+27,F,False,Hispana/Mexicana,17.3,No,1.6,100,82,29.61,15,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Otra,21.9,No,1.1,115,91,7.38,1.8,No presenta alteración tiroidea,Negativo
+78,M,False,Otra,27.7,No,0.5,129,105,19.61,0.71,No presenta alteración tiroidea,Negativo
+23,F,False,Caucásica,23.6,No,4,242,204,0.0,0.015,Hipertiroideo,Hipertiroidismo
+57,F,False,Hispana/Mexicana,18.8,No,4.2,214,235,31.76,0.065,Hipertiroideo,Hipertiroidismo
+85,M,False,Caucásica,21.3,No,1.1,154,132,55.08,0.25,No presenta alteración tiroidea,Negativo
+74,M,False,Afrodescendiente,22.8,No,0.7,89,68,10.04,0.6,No presenta alteración tiroidea,Negativo
+71,M,False,Caucásica,25.4,No,0.3,46,31,101.72,25,Hipotiroideo,Hipotiroidismo primario
+73,M,False,Caucásica,25.7,No,1.5,125,110,20.97,0.79,No presenta alteración tiroidea,Negativo
+62,F,False,Afrodescendiente,31.6,No,1.9,93,66,13.59,1.6,No presenta alteración tiroidea,Negativo
+72,F,False,Hispana/Mexicana,24.3,No,2.3,120,121,88.92,3,No presenta alteración tiroidea,Negativo
+59,F,False,Caucásica,30.3,No,1.8,104,111,60.21,7.7,Hipotiroideo,Hipotiroidismo compensado
+33,F,True,Caucásica,24.2,No,2.2,85,120,1.73,3.9,No presenta alteración tiroidea,Negativo
+58,?,False,Hispana/Mexicana,26.6,Sí,3.3,105,129,76.43,0.01,Hipertiroideo,Tóxico T3
+80,F,False,Hispana/Mexicana,25.3,No,2.7,121,101,20.99,0.005,No presenta alteración tiroidea,Negativo
+43,M,False,Afrodescendiente,24.3,No,2.9,163,130,13.88,0.02,Hipertiroideo,Hipertiroidismo
+72,F,False,Afrodescendiente,20.1,No,1.1,97,77,14.94,9.7,Hipotiroideo,Hipotiroidismo compensado
+72,M,False,Caucásica,27.2,No,0.5,3,4,21.08,71,Hipotiroideo,Hipotiroidismo primario
+23,F,False,Hispana/Mexicana,29.8,No,4,242,204,98.55,0.015,Hipertiroideo,Hipertiroidismo
+37,F,False,Caucásica,32.2,No,1.4,73,71,22.96,22,Hipotiroideo,Hipotiroidismo compensado
+29,M,False,Caucásica,33.4,No,2.7,125,156,5.67,0.9,No presenta alteración tiroidea,Negativo
+48,M,False,Caucásica,33.0,No,2,89,66,27.31,2.4,No presenta alteración tiroidea,Negativo
+43,M,False,Caucásica,25.6,Sí,1.9,57,63,63.9,16,Hipotiroideo,Hipotiroidismo primario
+34,F,True,Hispana/Mexicana,27.7,Sí,4.2,81,134,84.65,0.03,No presenta alteración tiroidea,Negativo
+71,F,False,Hispana/Mexicana,21.9,No,0.5,142,109,47.59,0.28,No presenta alteración tiroidea,Negativo
+70,F,False,Caucásica,25.8,No,0.05,31,20,9.68,1.3,No presenta alteración tiroidea,Negativo
+25,F,False,Otra,30.5,No,0.7,108,122,31.56,11,Hipotiroideo,Hipotiroidismo compensado
+35,M,False,Caucásica,25.1,Sí,2.3,112,112,20.52,0.05,No presenta alteración tiroidea,Negativo
+62,M,False,Caucásica,27.1,No,0.7,21,22,0.0,65,Hipotiroideo,Hipotiroidismo primario
+30,F,False,Caucásica,37.2,No,2.1,88,92,24.94,5.3,No presenta alteración tiroidea,Negativo
+68,F,False,Caucásica,24.5,Sí,2.1,114,124,93.51,1,No presenta alteración tiroidea,Negativo
+74,F,False,Afrodescendiente,20.5,No,2,80,72,28.86,9.099999,Hipotiroideo,Hipotiroidismo compensado
+72,F,False,Otra,31.2,No,2.5,217,180,25.52,0.1,Hipertiroideo,Hipertiroidismo
+76,M,False,Caucásica,28.1,No,1.4,108,91,26.78,2.7,No presenta alteración tiroidea,Negativo
+24,F,False,Afrodescendiente,28.1,No,2.5,94,110,15.16,10,Hipotiroideo,Hipotiroidismo compensado
+41,F,True,Afrodescendiente,22.2,No,?,395,430,6.09,0.2,Hipertiroideo,Hipertiroidismo
+37,F,False,Caucásica,33.2,No,1.5,112,98,16.53,18,Hipotiroideo,Hipotiroidismo compensado
+33,F,False,Caucásica,21.0,No,1.5,185,160,77.87,0.01,Hipertiroideo,Hipertiroidismo
+49,F,False,Caucásica,25.4,Sí,0.3,60,32,19.97,0.1,No presenta alteración tiroidea,Negativo
+45,F,False,Caucásica,25.3,No,1.4,100,108,22.3,7.4,Hipotiroideo,Hipotiroidismo compensado
+69,F,False,Caucásica,27.5,Sí,0.8,61,53,108.16,21,Hipotiroideo,Hipotiroidismo primario
+28,M,False,Caucásica,29.9,No,2.2,84,89,35.28,0.5,No presenta alteración tiroidea,Negativo
+40,F,False,Caucásica,24.6,No,2.4,88,105,38.53,2.6,No presenta alteración tiroidea,Negativo
+78,F,False,Otra,25.1,No,0.3,91,87,31.36,2.6,No presenta alteración tiroidea,Negativo
+64,F,False,Caucásica,34.4,Sí,1.2,89,67,40.0,8.9,Hipotiroideo,Hipotiroidismo compensado
+56,M,False,Caucásica,26.6,No,1.4,94,67,62.8,12,Hipotiroideo,Hipotiroidismo compensado
+83,F,False,Afrodescendiente,28.4,No,1.1,121,97,22.81,0.8,No presenta alteración tiroidea,Negativo
+25,M,False,Hispana/Mexicana,24.7,No,2.7,91,120,7.43,1.5,No presenta alteración tiroidea,Negativo
+52,F,False,Caucásica,29.8,No,2,96,85,12.18,0.7,No presenta alteración tiroidea,Negativo
+45,M,False,Hispana/Mexicana,23.2,No,0.7,63,54,13.1,5,No presenta alteración tiroidea,Negativo
+65,M,False,Afrodescendiente,24.6,No,0.9,116,78,18.57,0.25,No presenta alteración tiroidea,Negativo
+65,F,False,Caucásica,32.8,No,1.2,24,24,9.51,35,Hipotiroideo,Hipotiroidismo primario
+55,M,False,Afrodescendiente,21.9,No,1.6,108,101,9.8,1.4,No presenta alteración tiroidea,Negativo
+40,?,False,Otra,28.1,No,1.7,87,78,28.92,34,Hipotiroideo,Hipotiroidismo compensado
+66,F,False,Afrodescendiente,22.5,No,0.8,117,90,19.75,0.15,No presenta alteración tiroidea,Negativo
+42,M,False,Hispana/Mexicana,18.5,No,0.8,33,28,6.57,52,Hipotiroideo,Hipotiroidismo primario
+32,F,False,Caucásica,23.9,No,1.7,91,92,40.41,2,No presenta alteración tiroidea,Negativo
+84,M,False,Caucásica,35.8,Sí,0.6,110,82,5.29,3.6,No presenta alteración tiroidea,Negativo
+61,F,False,Afrodescendiente,33.9,No,1.3,45,44,13.82,109,Hipotiroideo,Hipotiroidismo primario
+33,M,False,Afrodescendiente,25.3,No,1.2,105,90,21.19,6.5,Hipotiroideo,Hipotiroidismo compensado
+45,F,False,Hispana/Mexicana,19.9,No,1.4,100,108,20.15,7.4,Hipotiroideo,Hipotiroidismo compensado
+72,F,False,Afrodescendiente,28.8,No,0.8,132,108,26.47,1.3,No presenta alteración tiroidea,Negativo
+75,M,False,Hispana/Mexicana,28.1,No,0.9,127,94,0.0,1.4,No presenta alteración tiroidea,Negativo
+16,F,False,Caucásica,22.8,No,6.2,244,255,17.86,0.05,Hipertiroideo,Hipertiroidismo
+19,F,False,Caucásica,30.2,No,2.5,125,151,44.2,1.3,No presenta alteración tiroidea,Negativo
+83,F,False,Hispana/Mexicana,23.6,No,2.1,97,104,26.51,8.3,Hipotiroideo,Hipotiroidismo compensado
+46,M,False,Caucásica,21.6,No,1.2,131,122,20.72,3.2,No presenta alteración tiroidea,Negativo
+58,F,False,Afrodescendiente,26.9,No,2.1,63,68,10.53,18,Hipotiroideo,Hipotiroidismo primario
+76,M,False,Hispana/Mexicana,31.5,Sí,1.1,101,94,15.19,0.8,No presenta alteración tiroidea,Negativo
+44,F,False,Afrodescendiente,24.4,No,2.6,104,113,9.28,3.5,No presenta alteración tiroidea,Negativo
+89,M,False,Hispana/Mexicana,23.2,No,0.6,138,101,16.64,0.8,No presenta alteración tiroidea,Negativo
+36,F,False,Caucásica,21.5,No,0.2,4,4,42.36,22,No presenta alteración tiroidea,Negativo
+56,F,False,Hispana/Mexicana,19.9,Sí,3.2,266,268,21.71,0.25,Hipertiroideo,Hipertiroidismo
+28,F,False,Caucásica,21.6,Sí,2.6,87,89,90.1,9.4,Hipotiroideo,Hipotiroidismo compensado
+28,F,False,Hispana/Mexicana,16.2,No,2.1,46,50,85.17,54,Hipotiroideo,Hipotiroidismo primario
+90,F,False,Hispana/Mexicana,19.0,No,0.1,35,28,85.74,4.5,No presenta alteración tiroidea,Negativo
+79,F,False,Hispana/Mexicana,27.4,Sí,0.8,103,74,61.89,2.9,No presenta alteración tiroidea,Negativo
+54,F,False,Afrodescendiente,26.5,No,2.2,81,83,14.82,19,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Afrodescendiente,29.2,No,0.9,96,84,14.35,3.2,No presenta alteración tiroidea,Negativo
+73,M,False,Hispana/Mexicana,27.4,No,0.8,124,61,21.47,1.4,No presenta alteración tiroidea,Negativo
+61,F,False,Hispana/Mexicana,25.2,No,1.1,103,94,17.97,0.15,No presenta alteración tiroidea,Negativo
+76,F,False,Caucásica,30.4,Sí,2.4,55,64,56.81,33,Hipotiroideo,Hipotiroidismo primario
+78,M,False,Caucásica,23.8,No,0.9,93,69,33.1,4.5,No presenta alteración tiroidea,Negativo
+70,F,False,Hispana/Mexicana,30.2,No,1.8,112,124,17.1,6.2,Hipotiroideo,Hipotiroidismo compensado
+56,F,False,Caucásica,24.3,No,2,70,66,17.22,8.2,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Hispana/Mexicana,25.2,No,1.7,160,141,12.57,0.025,No presenta alteración tiroidea,Negativo
+79,M,False,Afrodescendiente,27.2,No,0.7,137,116,15.85,1.1,No presenta alteración tiroidea,Negativo
+80,F,False,Caucásica,20.4,Sí,1.3,76,68,0.0,8.4,Hipotiroideo,Hipotiroidismo compensado
+48,F,False,Hispana/Mexicana,25.7,Sí,2.4,117,134,20.02,0.42,No presenta alteración tiroidea,Negativo
+80,F,False,Caucásica,31.2,No,1,67,58,28.61,0.9,No presenta alteración tiroidea,Negativo
+46,F,False,Hispana/Mexicana,27.3,No,0.9,142,113,52.17,0.5,No presenta alteración tiroidea,Negativo
+85,F,False,Caucásica,18.3,No,1.1,23,27,35.1,138,Hipotiroideo,Hipotiroidismo primario
+57,F,False,Hispana/Mexicana,19.6,No,1.8,97,91,90.6,6.7,Hipotiroideo,Hipotiroidismo compensado
+25,F,False,Afrodescendiente,20.5,No,2.3,107,85,12.91,0.02,No presenta alteración tiroidea,Negativo
+29,M,False,Caucásica,33.6,No,1.1,104,46,74.68,0.25,No presenta alteración tiroidea,Negativo
+82,M,False,Caucásica,25.8,No,1,88,68,26.31,2.2,No presenta alteración tiroidea,Negativo
+53,F,False,Hispana/Mexicana,35.6,Sí,2.1,141,145,24.82,0.25,No presenta alteración tiroidea,Negativo
+60,M,False,Afrodescendiente,27.4,No,0.4,7,5.8,35.75,98,Hipotiroideo,Hipotiroidismo primario
+55,M,False,Caucásica,21.2,No,2.3,97,88,0.0,6.1,Hipotiroideo,Hipotiroidismo compensado
+82,M,False,Caucásica,24.5,No,0.4,85,58,25.17,2,No presenta alteración tiroidea,Negativo
+41,F,False,Caucásica,22.9,No,1.9,108,117,98.02,0.3,No presenta alteración tiroidea,Negativo
+83,M,False,Hispana/Mexicana,23.8,Sí,1.1,129,95,17.7,0.2,No presenta alteración tiroidea,Negativo
+40,M,False,Hispana/Mexicana,27.5,Sí,2.3,90,87,62.92,1.3,No presenta alteración tiroidea,Negativo
+23,F,False,Otra,26.6,No,2.9,235,205,22.94,0.01,Hipertiroideo,Hipertiroidismo
+70,F,False,Otra,26.3,No,3.5,215,194,5.08,0.005,Hipertiroideo,Hipertiroidismo
+74,F,False,Caucásica,23.3,No,2.7,105,101,27.66,0.4,No presenta alteración tiroidea,Negativo
+68,?,False,Caucásica,25.8,Sí,?,204,175,29.56,?,Hipertiroideo,Hipertiroidismo
+48,M,False,Hispana/Mexicana,25.8,No,2.6,100,119,28.1,0.3,No presenta alteración tiroidea,Negativo
+60,F,False,Hispana/Mexicana,20.2,Sí,2.3,95,91,118.76,11,Hipotiroideo,Hipotiroidismo compensado
+36,F,False,Afrodescendiente,36.1,No,1.4,101,92,10.59,2.9,No presenta alteración tiroidea,Negativo
+22,M,False,Hispana/Mexicana,17.0,No,2.3,80,81,26.08,2.1,No presenta alteración tiroidea,Negativo
+76,M,False,Afrodescendiente,27.6,No,0.8,103,101,7.79,3.2,No presenta alteración tiroidea,Negativo
+23,F,False,Caucásica,28.7,No,2.2,97,104,68.1,7.9,Hipotiroideo,Hipotiroidismo compensado
+65,F,False,Hispana/Mexicana,20.1,Sí,3.9,108,133,64.01,0.025,Hipertiroideo,Tóxico T3
+28,F,False,Hispana/Mexicana,25.1,No,2.2,153,161,9.85,0.47,No presenta alteración tiroidea,Negativo
+76,F,False,Afrodescendiente,28.1,No,1.1,106,103,5.21,0.4,No presenta alteración tiroidea,Negativo
+53,F,False,Hispana/Mexicana,38.2,No,0.4,14,17,5.55,165,No presenta alteración tiroidea,Negativo
+63,?,False,Afrodescendiente,34.4,No,1.9,85,89,16.18,7.7,Hipotiroideo,Hipotiroidismo compensado
+94,F,False,Otra,26.4,No,0.9,93,106,15.78,3.4,No presenta alteración tiroidea,Negativo
+38,F,False,Caucásica,17.4,No,2.2,92,88,34.21,0.5,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,25.1,Sí,2.9,217,198,44.23,0.015,Hipertiroideo,Hipertiroidismo
+71,M,False,Caucásica,18.1,No,0.3,46,31,23.79,25,No presenta alteración tiroidea,Negativo
+57,M,False,Hispana/Mexicana,28.5,No,1.1,120,95,21.59,0.55,No presenta alteración tiroidea,Negativo
+72,F,False,Caucásica,26.0,Sí,0.4,15,15,8.95,143,Hipotiroideo,Hipotiroidismo primario
+41,F,False,Afrodescendiente,38.0,No,1.3,80,78,5.74,3.2,No presenta alteración tiroidea,Negativo
+45,F,False,Hispana/Mexicana,22.7,No,1.1,89,77,6.64,0.97,No presenta alteración tiroidea,Negativo
+33,F,False,Hispana/Mexicana,26.9,Sí,3.2,206,185,24.35,0.005,Hipertiroideo,Hipertiroidismo
+38,M,False,Otra,23.1,No,2.3,99,90,13.8,2.5,No presenta alteración tiroidea,Negativo
+38,F,False,Hispana/Mexicana,22.9,No,4,203,221,25.13,0.085,Hipertiroideo,Hipertiroidismo
+77,F,False,Caucásica,29.1,No,0.7,107,87,29.25,1.7,No presenta alteración tiroidea,Negativo
+72,M,False,Afrodescendiente,24.9,No,0.6,113,120,16.23,0.3,No presenta alteración tiroidea,Negativo
+69,F,False,Afrodescendiente,30.9,No,1.5,60,50,12.55,6.6,Hipotiroideo,Hipotiroidismo primario
+61,M,False,Caucásica,24.4,No,2.3,109,110,43.6,0.005,No presenta alteración tiroidea,Negativo
+40,F,False,Hispana/Mexicana,24.3,No,1.5,109,113,105.07,9.2,Hipotiroideo,Hipotiroidismo compensado
+71,M,False,Caucásica,23.6,No,0.4,50,37,27.34,38,Hipotiroideo,Hipotiroidismo primario
+19,M,False,Caucásica,20.9,No,2,?,105,31.28,18.4,Hipotiroideo,Hipotiroidismo compensado
+37,F,False,Afrodescendiente,22.1,No,1.7,99,71,8.09,1.4,No presenta alteración tiroidea,Negativo
+61,F,False,Caucásica,27.4,No,2.1,95,97,0.0,0.15,No presenta alteración tiroidea,Negativo
+64,F,False,Otra,26.2,No,1.4,114,127,17.48,8.2,Hipotiroideo,Hipotiroidismo compensado
+70,F,False,Afrodescendiente,18.7,No,1.8,112,124,17.47,6.2,Hipotiroideo,Hipotiroidismo compensado
+60,M,False,Caucásica,27.7,No,1,51,32,14.98,30.5,Hipotiroideo,Hipotiroidismo primario
+49,F,False,Hispana/Mexicana,32.3,Sí,0.9,93,103,34.79,8.3,Hipotiroideo,Hipotiroidismo compensado
+67,F,False,Caucásica,29.5,No,3.1,171,157,0.0,0.055,Hipertiroideo,Hipertiroidismo
+63,F,False,Caucásica,23.5,No,?,53,63,15.6,70,Hipotiroideo,Hipotiroidismo primario
+66,F,False,Otra,21.0,No,1.9,119,119,13.4,3.8,No presenta alteración tiroidea,Negativo
+42,F,False,Hispana/Mexicana,12.8,No,2.2,?,74,25.21,6.1,Hipotiroideo,Hipotiroidismo compensado
+72,F,False,Caucásica,22.9,No,1.1,91,74,25.27,4.2,No presenta alteración tiroidea,Negativo
+69,F,False,Caucásica,39.8,No,1.9,95,89,21.33,6.2,Hipotiroideo,Hipotiroidismo compensado
+18,F,False,Afrodescendiente,26.5,No,2.2,98,94,17.92,12,Hipotiroideo,Hipotiroidismo compensado
+84,F,False,Hispana/Mexicana,20.0,No,0.7,47,52,16.33,34,Hipotiroideo,Hipotiroidismo primario
+55,F,False,Caucásica,36.8,No,1,124,102,32.74,0.13,No presenta alteración tiroidea,Negativo
+37,F,False,Caucásica,27.7,No,1.5,112,98,29.0,18,Hipotiroideo,Hipotiroidismo compensado
+68,F,False,Hispana/Mexicana,23.4,Sí,2.5,71,111,12.53,20,Hipotiroideo,Hipotiroidismo compensado
+34,F,True,Caucásica,38.1,No,4.2,110,213,2.03,0.05,No presenta alteración tiroidea,Negativo
+39,F,False,Caucásica,26.0,No,0.4,8.9,11,81.91,160,Hipotiroideo,Hipotiroidismo primario
+68,F,False,Otra,31.9,No,0.6,22,23,8.02,56,Hipotiroideo,Hipotiroidismo primario
+80,F,False,Hispana/Mexicana,23.0,No,1,134,86,12.87,0.25,No presenta alteración tiroidea,Negativo
+58,M,False,Hispana/Mexicana,21.2,No,2.4,100,95,15.09,2.1,No presenta alteración tiroidea,Negativo
+19,F,False,Caucásica,20.9,No,?,110,95,29.27,9,Hipotiroideo,Hipotiroidismo compensado
+41,F,False,Hispana/Mexicana,17.6,No,2.3,134,111,123.47,0.3,No presenta alteración tiroidea,Negativo
+34,F,False,Caucásica,26.2,No,2.4,90,96,26.67,6.8,Hipotiroideo,Hipotiroidismo compensado
+50,M,False,Hispana/Mexicana,20.5,Sí,1,28,32,20.04,151,Hipotiroideo,Hipotiroidismo primario
+73,F,False,Afrodescendiente,26.2,No,2.1,121,139,24.76,7.3,Hipotiroideo,Hipotiroidismo compensado
+34,?,False,Hispana/Mexicana,15.1,No,2,96,95,24.26,7.8,Hipotiroideo,Hipotiroidismo compensado
+73,F,False,Caucásica,19.0,No,1,117,101,14.31,0.01,No presenta alteración tiroidea,Negativo
+69,F,False,Afrodescendiente,28.2,No,2,59,89,19.78,26,Hipotiroideo,Hipotiroidismo primario
+61,F,False,Otra,21.3,No,2.4,112,141,15.47,6.4,Hipotiroideo,Hipotiroidismo compensado
+72,F,False,Caucásica,31.0,Sí,1,95,82,12.77,0.74,No presenta alteración tiroidea,Negativo
+28,F,False,Hispana/Mexicana,29.3,Sí,1.7,108,96,24.8,7.1,Hipotiroideo,Hipotiroidismo compensado
+61,?,False,Afrodescendiente,22.8,Sí,1.6,129,89,18.76,17,Hipotiroideo,Hipotiroidismo compensado
+38,F,False,Caucásica,24.1,Sí,1.7,57,59,30.47,44,Hipotiroideo,Hipotiroidismo primario
+61,F,False,Caucásica,24.0,Sí,1.7,116,96,22.73,2.8,No presenta alteración tiroidea,Negativo
+41,M,False,Afrodescendiente,24.6,No,2.5,?,22,21.64,0.015,Hipotiroideo,Hipotiroidismo secundario
+41,F,False,Afrodescendiente,24.3,No,2.1,210,187,17.57,0.03,Hipertiroideo,Hipertiroidismo
+24,F,False,Afrodescendiente,24.9,No,0.7,28,28,21.79,65,Hipotiroideo,Hipotiroidismo primario
+41,F,False,Hispana/Mexicana,23.3,No,2.5,96,98,21.14,0.4,No presenta alteración tiroidea,Negativo
+65,F,False,Hispana/Mexicana,25.3,No,0.9,45,43,97.63,213,Hipotiroideo,Hipotiroidismo primario
+77,F,False,Caucásica,21.8,Sí,?,81,82,7.49,36,Hipotiroideo,Hipotiroidismo compensado
+7,M,False,Hispana/Mexicana,24.7,No,?,133,137,22.81,15,Hipotiroideo,Hipotiroidismo compensado
+65,F,False,Afrodescendiente,26.3,No,1.9,109,88,8.81,0.015,No presenta alteración tiroidea,Negativo
+22,M,False,Caucásica,23.9,No,1.1,135,119,17.02,2.6,No presenta alteración tiroidea,Negativo
+60,M,False,Caucásica,26.9,No,0.6,34,23,32.06,36,Hipotiroideo,Hipotiroidismo primario
+36,F,False,Hispana/Mexicana,17.3,No,2.4,131,179,105.59,2.1,No presenta alteración tiroidea,Negativo
+77,M,False,Afrodescendiente,22.9,No,10.599999,349,226,15.22,0.015,Hipertiroideo,Hipertiroidismo
+83,F,False,Caucásica,33.4,Sí,0.9,113,86,34.0,0.92,No presenta alteración tiroidea,Negativo
+63,F,False,Caucásica,30.2,No,3.3,125,120,102.07,0.03,Hipertiroideo,Tóxico T3
+59,F,False,Caucásica,21.0,No,1.1,49,45,24.9,30,Hipotiroideo,Hipotiroidismo primario
+74,F,False,Hispana/Mexicana,30.9,Sí,1.6,127,128,102.3,13,Hipotiroideo,Hipotiroidismo compensado
+19,F,False,Caucásica,24.8,No,0.5,4,5,108.53,500,Hipotiroideo,Hipotiroidismo primario
+41,F,False,Afrodescendiente,27.7,No,3.8,204,253,20.07,0.2,No presenta alteración tiroidea,Negativo
+15,F,False,Hispana/Mexicana,22.5,No,1.3,155,121,24.04,0.51,No presenta alteración tiroidea,Negativo
+76,F,False,Caucásica,28.0,No,0.8,111,96,79.82,0.76,No presenta alteración tiroidea,Negativo
+55,M,False,Hispana/Mexicana,33.9,No,2.1,?,65,65.22,10,Hipotiroideo,Hipotiroidismo compensado
+66,F,False,Hispana/Mexicana,28.5,No,0.6,133,110,12.61,0.25,No presenta alteración tiroidea,Negativo
+56,M,False,Caucásica,18.9,No,1.4,99,71,7.82,2.2,No presenta alteración tiroidea,Negativo
+73,M,False,Afrodescendiente,16.4,No,1.4,46,48,16.22,1,No presenta alteración tiroidea,Negativo
+32,F,False,Caucásica,23.8,Sí,0.6,134,91,32.31,0.09,No presenta alteración tiroidea,Negativo
+79,F,False,Caucásica,29.3,No,0.4,9,10,38.65,200,Hipotiroideo,Hipotiroidismo primario
+76,F,False,Afrodescendiente,27.1,No,0.8,58,60,24.6,11,Hipotiroideo,Hipotiroidismo primario
+50,M,False,Caucásica,34.6,No,1.4,36,41,24.66,80,Hipotiroideo,Hipotiroidismo primario
+71,F,False,Caucásica,23.3,Sí,1,94,88,16.87,0.6,No presenta alteración tiroidea,Negativo
+70,F,False,Hispana/Mexicana,30.0,No,2.2,111,138,0.0,2,No presenta alteración tiroidea,Negativo
+28,F,False,Afrodescendiente,29.5,No,2.3,41,42,59.04,35,Hipotiroideo,Hipotiroidismo primario
+73,F,False,Afrodescendiente,27.2,No,0.6,127,113,6.98,0.1,No presenta alteración tiroidea,Negativo
+47,F,False,Hispana/Mexicana,32.5,No,2,109,109,33.1,2.3,No presenta alteración tiroidea,Negativo
+77,F,False,Caucásica,26.8,No,0.05,3,3,28.27,141,Hipotiroideo,Hipotiroidismo primario
+56,F,False,Caucásica,27.7,Sí,1.1,108,122,6.55,3,No presenta alteración tiroidea,Negativo
+62,M,False,Caucásica,28.2,No,0.8,103,83,54.21,13,Hipotiroideo,Hipotiroidismo compensado
+50,F,False,Hispana/Mexicana,15.5,No,3.4,129,131,21.64,0.03,Hipertiroideo,Tóxico T3
+36,F,False,Otra,25.3,No,0.2,4,4,28.35,22,Hipotiroideo,Hipotiroidismo primario
+71,F,False,Otra,23.9,No,1.2,97,107,19.44,2.7,No presenta alteración tiroidea,Negativo
+19,M,False,Caucásica,27.8,No,2.2,?,117,30.6,9,Hipotiroideo,Hipotiroidismo compensado
+22,F,False,Caucásica,21.8,No,1.8,175,157,13.93,0.2,Hipertiroideo,Hipertiroidismo
+84,M,False,Caucásica,37.8,No,0.9,90,70,8.42,0.67,No presenta alteración tiroidea,Negativo
+66,F,False,Otra,27.8,No,1.4,103,89,14.99,1.7,No presenta alteración tiroidea,Negativo
+52,M,False,Hispana/Mexicana,27.5,Sí,1.8,106,102,87.6,1,No presenta alteración tiroidea,Negativo
+79,F,False,Caucásica,22.5,No,1.3,55,50,87.86,15,Hipotiroideo,Hipotiroidismo primario
+80,M,False,Hispana/Mexicana,23.5,No,1.3,95,83,11.07,6.1,Hipotiroideo,Hipotiroidismo compensado
+31,F,False,Hispana/Mexicana,21.1,Sí,2.7,103,108,18.29,0.3,No presenta alteración tiroidea,Negativo
+29,M,False,Caucásica,28.8,No,5.7,200,172,30.92,0.02,Hipertiroideo,Hipertiroidismo
+61,F,False,Hispana/Mexicana,25.5,No,1.9,97,102,6.53,1.8,No presenta alteración tiroidea,Negativo
+42,F,False,Hispana/Mexicana,24.8,Sí,1.5,109,87,6.49,0.1,No presenta alteración tiroidea,Negativo
+24,F,False,Caucásica,26.5,Sí,2.5,94,110,66.39,10,Hipotiroideo,Hipotiroidismo compensado
+60,M,False,Hispana/Mexicana,26.7,No,1.7,77,67,28.34,12,Hipotiroideo,Hipotiroidismo compensado
+70,M,False,Hispana/Mexicana,21.5,No,0.9,103,94,122.3,1.1,No presenta alteración tiroidea,Negativo
+61,F,False,Hispana/Mexicana,27.1,No,5.3,241,210,9.13,0.065,Hipertiroideo,Hipertiroidismo
+45,M,False,Hispana/Mexicana,36.2,No,0.3,?,67,48.65,10,Hipotiroideo,Hipotiroidismo compensado
+72,F,False,Hispana/Mexicana,26.7,No,0.8,102,84,4.06,2.4,No presenta alteración tiroidea,Negativo
+63,F,False,Afrodescendiente,26.8,No,2.1,78,80,14.2,8.2,Hipotiroideo,Hipotiroidismo compensado
+42,M,False,Afrodescendiente,24.9,No,1.9,93,74,17.94,0.67,No presenta alteración tiroidea,Negativo
+60,F,False,Hispana/Mexicana,23.0,No,0.8,10,12,14.85,99,Hipotiroideo,Hipotiroidismo primario
+76,F,False,Hispana/Mexicana,22.5,No,3,183,158,19.22,0.005,Hipertiroideo,Hipertiroidismo
+54,M,False,Hispana/Mexicana,22.5,No,1.1,75,51,50.54,14.4,Hipotiroideo,Hipotiroidismo compensado
+32,M,False,Caucásica,23.8,No,0.4,17,16,34.23,150,Hipotiroideo,Hipotiroidismo primario
+19,F,False,Caucásica,19.0,No,2.7,97,108,30.77,8.8,No presenta alteración tiroidea,Negativo
+46,?,False,Afrodescendiente,21.1,No,2.5,105,91,17.89,27,Hipotiroideo,Hipotiroidismo compensado
+81,F,False,Caucásica,18.1,Sí,2.2,171,133,28.5,0.2,No presenta alteración tiroidea,Negativo
+62,M,False,Hispana/Mexicana,28.9,No,2,88,101,32.4,1.4,No presenta alteración tiroidea,Negativo
+35,F,False,Caucásica,17.8,No,1.5,27,36,33.53,230,Hipotiroideo,Hipotiroidismo primario
+25,F,False,Afrodescendiente,24.1,No,2.3,67,73,17.67,26.4,Hipotiroideo,Hipotiroidismo compensado
+67,F,False,Hispana/Mexicana,31.8,No,0.4,10,12,79.35,51,Hipotiroideo,Hipotiroidismo primario
