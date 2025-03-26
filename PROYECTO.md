@@ -34,3 +34,31 @@ Dado que la cantidad de personas afectadas es muy grande, no es posible repetir 
         2. Subclasificación de cada estado patológico según su grado de severidad (Clínico/Subclínico)
 
 ---
+
+---
+
+###  Problemas asociados al dataset
+
+En esta etapa, el dataframe se encuentra **procesado y curado** para ser utilizado como ejemplo. Sin embargo, aún con la data limpia, persisten las siguientes **complicaciones inherentes a su estructura**:
+
+- Los valores de **TSH no siguen una distribución normal**, lo que puede afectar el desempeño de modelos lineales.
+- Existen **datos faltantes** en variables hormonales clave (`t3t`, `t4l`, `t4t`, `tsh`), representados por símbolos como `'?'`.
+- Se observan **relaciones no lineales** entre variables clínicas (edad, IMC, ATPO, T3, T4) y los niveles de TSH.
+- El **margen de error es clínicamente sensible**, debido a los **órdenes de magnitud** en los valores de TSH.
+- Las **variables categóricas requieren codificación adecuada** para ser utilizadas por los algoritmos de Machine Learning.
+- Existe **desbalance de clases** entre pacientes sin alteraciones tiroideas y aquellos con disfunciones diagnosticadas.
+
+### Estrategia para simular escenarios reales
+
+Para incrementar la complejidad del ejercicio y simular problemas comunes en datasets clínicos, la idea es aplicarán las siguientes modificaciones al momento de entregar el dataset:
+
+| **Estrategia**                        | **Descripción**                                                             |
+|--------------------------------------|-----------------------------------------------------------------------------|
+| **Introducir valores nulos aleatorios** | Quitar valores en columnas clave.                        |
+| **Agregar errores de tipeo**         | Introducir variantes como `"Muer"` o `"Hombe"` en la columna `sexo`.         |
+| **Agregar columnas duplicadas**      | Crear duplicados como `tsh2 = tsh` para simular errores de carga.           |
+| **Introducir _outliers_ artificiales** | Ejemplo: `TSH = 999`, `T4L = -10`.                                          |
+| **Desordenar categorías**            | Variar etiquetas similares como `"hipotiroid"` vs `"hipotiroidismo"`.       |
+| **Mezclar etiquetas de diagnóstico** | Alterar casos entre `"Negativo"` y `"Sin alteración"`.                      |
+| **Agregar columnas irrelevantes**    | Incorporar columnas como `ID_paciente`, `comentarios`.                      |
+
