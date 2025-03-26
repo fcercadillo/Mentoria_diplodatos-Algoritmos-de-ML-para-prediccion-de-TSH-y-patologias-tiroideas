@@ -1,82 +1,17 @@
 # Proyecto de Machine Learning: Estimación de TSH y Clasificación del Estado Tiroideo
 
-## Breve descripción del proyecto
+### **Breve descripción del proyecto**
+Desarrollar un modelo de Machine Learning que permita predecir los niveles de TSH y clasificar el estado tiroideo (normal o patológico) a partir de variables clínicas y de laboratorio.
 
-Este proyecto busca desarrollar un modelo de Machine Learning que permita:
+## **Presentación detallada del proyecto**
 
-- Predecir los niveles de TSH.
-- Clasificar el estado tiroideo como **normal** o **patológico**.
+El proyecto busca presentarse mediante un caso aplicado, que permita contextualizar de forma práctica y real la utilidad del modelo.
 
-La predicción se basa en variables clínicas y de laboratorio disponibles, con el objetivo de asistir en contextos clínicos donde los datos categóricos se han perdido o no están disponibles.
+Supongamos el caso de un laboratorio de análisis bioquímico que, debido a una migración de sistema, perdió en su base de datos las categorías clínicas de TSH correspondientes a los últimos estudios realizados.
 
----
+Dado que la cantidad de personas afectadas es muy grande, no es posible repetir todos los análisis de sangre correspondientes. Por este motivo, y para identificar rápidamente a las personas que podrían presentar un estado patológico y que requieren una derivación clínica, el laboratorio conforma un equipo interdisciplinario para desarrollar un modelo de MLque permita:
 
-## Reseña del dataset
-
-El dataset está compuesto por una cohorte de aproximadamente **1.000 pacientes** e incluye las siguientes variables:
-
-- T3
-- T4L
-- ATPO
-- IMC
-- Edad
-- Etnicidad
-- Valores reales de TSH
-- Clasificación clínica del estado tiroideo (normal o patológico)
-
-Este conjunto de datos permite entrenar y validar modelos tanto de regresión como de clasificación.
-
----
-
-##  Problemas asociados
-
-- Los valores de TSH no siguen una distribución normal.
-- Presencia de **datos faltantes**.
-- **Relaciones no lineales** entre variables clínicas y TSH.
-- La TSH tiene un **orden de magnitud crítico** para el diagnóstico, por lo que pequeños errores impactan clínicamente.
-- La **clasificación se realizará a partir de valores estimados**, no reales.
-
----
-
-## Presentación detallada del caso aplicado
-
-Imaginemos un laboratorio de análisis clínico que, tras una migración de sistema, **pierde las categorías clínicas de TSH** de muchos pacientes.
-
-Como **no es viable repetir todos los análisis**, el laboratorio convoca a un equipo interdisciplinario para desarrollar un modelo de ML que permita:
-
-1. **Estimar los valores de TSH perdidos**.
-2. **Recuperar la clasificación de los pacientes como normales o patológicos**, facilitando la toma de decisiones médicas.
-
----
-
-## Etapas del proyecto
-
-1. **Análisis exploratorio de los datos (EDA)**
-2. **Curado del dataset**
-3. **Desarrollo del modelo de Machine Learning**, dividido en:
-
-### Etapa 1: Estimación numérica de valores de TSH
-
-- Entrenamiento de modelos de regresión.
-- Validación mediante métricas adecuadas (MAE, RMSE, R²).
-- Agrupación de los valores estimados en tres categorías:  
-  - **Bajo**
-  - **Normal**
-  - **Alto**
-
-### Etapa 2: Clasificación del estado tiroideo
-
-- Clasificación binaria: **Normal** / **Patológico**  
-- Entrenamiento sobre las categorías derivadas del paso anterior.
-
-### Propuesta adicional (extensión del proyecto)
-
-1. Clasificación del **tipo de patología tiroidea**:  
-   - Hipotiroidismo  
-   - Hipertiroidismo  
-
-2. Subclasificación de severidad:  
-   - **Clínico**  
-   - **Subclínico**
+- **Estimar los valores de TSH faltantes**.
+- **Recuperar la clasificación de cada paciente como normal o patológico**, de forma tal que los médicos puedan decidir el tratamiento o seguimiento adecuado según el estadio clínico de cada caso.
 
 ---
