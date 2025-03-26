@@ -82,7 +82,7 @@ Se realizó un **proceso detallado de filtrado y curado** para seleccionar unica
 
 - Contaran con datos clínicos completos  
 - Tuvieran valores hormonales disponibles  
-- Incluyeran un diagnóstico tiroideo real y coherente
+- Incluyeran un diagnóstico tiroideo
 
 Esto permitió construir un conjunto de datos orientado al entrenamiento de modelos de **predicción de TSH** y **clasificación de patologías tiroideas**, con **etiquetas verificables** para evaluar el rendimiento del modelo.
 
